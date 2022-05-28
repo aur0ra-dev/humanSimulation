@@ -1,4 +1,6 @@
 package Application.Human.fromHuman;
 
-public class Mother {
+import Application.Human.Human;
+
+public class Mother extends Human {
 }
