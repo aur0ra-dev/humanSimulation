@@ -7,10 +7,10 @@ public class Classmate extends Human {
     boolean isBully;
 
 
-    public static void beFriend(){
+    protected static void beFriend(){
 
     }
-    public static void beBully(){
+    protected static void beBully(){
 
     }
 }
