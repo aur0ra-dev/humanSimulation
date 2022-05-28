@@ -4,11 +4,11 @@ import Application.Human.Human;
 
 public class MainCharacter extends Human {
 
-    int numberOfChildren = 0;
-    boolean haveAPartner = false;
-    int numberofFriends = 0;
-    int health = random.nextInt(80)+21;
-    int bonusesToEarnings = 0;
+    protected int numberOfChildren = 0;
+    protected boolean haveAPartner = false;
+    protected int numberofFriends = 0;
+    protected int health = random.nextInt(80)+21;
+    protected int bonusesToEarnings = 0;
 
     protected void gatherFromFriends () {
 

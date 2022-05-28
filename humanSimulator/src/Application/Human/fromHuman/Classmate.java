@@ -3,8 +3,8 @@ import Application.Human.Human;
 
 public class Classmate extends Human {
 
-    boolean isFriend;
-    boolean isBully;
+    protected boolean isFriend;
+    protected boolean isBully;
 
 
     protected static void beFriend(){
