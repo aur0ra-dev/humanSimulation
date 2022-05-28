@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class Human {
 
-    Random random = new Random();
+    public Random random = new Random();
 
     String name;
     String surname;
