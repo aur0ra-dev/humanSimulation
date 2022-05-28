@@ -1,4 +1,6 @@
 package Application.Human.fromHuman;
 
-public class MainCharacter {
+import Application.Human.Human;
+
+public class MainCharacter extends Human {
 }
