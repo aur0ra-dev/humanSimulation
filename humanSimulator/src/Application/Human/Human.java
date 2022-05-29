@@ -7,16 +7,16 @@ public class Human {
 
     public Random random = new Random();
 
-    protected String name;
-    protected String surname;
-    protected int age = 0;
-    protected int gender = random.nextInt(2)+1;
-    protected int charisma = random.nextInt(55)+21;
-    protected int intelligence = random.nextInt(55)+21;
-    protected int wisdom = random.nextInt(55)+21;
-    protected int strength = random.nextInt(55)+21;
-    protected int mentalHealth = 70;
-    protected int earnings = 0;
+    public String name;
+    public String surname;
+    public int age = 0;
+    public int gender = random.nextInt(2)+1;
+    public int charisma = random.nextInt(55)+21;
+    public int intelligence = random.nextInt(55)+21;
+    public int wisdom = random.nextInt(55)+21;
+    public int strength = random.nextInt(55)+21;
+    public int mentalHealth = 70;
+    public int earnings = 0;
 
 
 }
