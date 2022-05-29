@@ -1,6 +1,10 @@
 package Application.Simulation;
 
+import Application.Human.fromHuman.Classmate;
 import Application.Human.fromHuman.MainCharacter;
+import Application.Human.fromHuman.Teacher;
+import Application.Places.Kindergarten;
+import java.util.Random;
 
 import java.util.Scanner;
 
@@ -10,7 +14,7 @@ public class Simulation {
 
 
     public void startSimulation(){
-
+        Random random = new Random();
         System.out.println("Welcome to human simulator! Assemble the basic futures of our Main characeter");
         Scanner name = new Scanner(System.in);
         String characterName;
@@ -25,7 +29,13 @@ public class Simulation {
         System.out.println(mainCharacter.charisma);
         for(int i = 0; i < duration ;i ++){
             if(mainCharacter.age == 3){
-                //kindergarten + funkcje
+
+                Kindergarten kindergarten = new Kindergarten();
+                for(int j = 0; j <= 15 + random.nextInt(11); j++){
+                    kindergarten.listOfClassmates.add(new Classmate());
+
+                }
+                kindergarten.listOfTeachers.add(new Teacher());
             }
 
             if(mainCharacter.age == 6){
