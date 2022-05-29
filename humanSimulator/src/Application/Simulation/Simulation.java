@@ -11,6 +11,8 @@ import java.util.Scanner;
 public class Simulation {
     public int duration;
     MainCharacter mainCharacter = new MainCharacter();
+    Kindergarten kindergarten = new Kindergarten();
+    Primar
 
 
     public void startSimulation(){
@@ -30,7 +32,7 @@ public class Simulation {
         for(int i = 0; i < duration ;i ++){
             if(mainCharacter.age == 3){
 
-                Kindergarten kindergarten = new Kindergarten();
+
                 for(int j = 0; j <= 15 + random.nextInt(11); j++){
                     kindergarten.listOfClassmates.add(new Classmate());
 
@@ -39,6 +41,7 @@ public class Simulation {
             }
 
             if(mainCharacter.age == 6){
+                kindergarten = null;
                 // primary school + funkcje
             }
             if(mainCharacter.age == 14){
