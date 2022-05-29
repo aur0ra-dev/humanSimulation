@@ -3,7 +3,8 @@ package Application.Simulation;
 import Application.Human.fromHuman.Classmate;
 import Application.Human.fromHuman.MainCharacter;
 import Application.Human.fromHuman.Teacher;
-import Application.Places.Kindergarten;
+import Application.Places.*;
+
 import java.util.Random;
 
 import java.util.Scanner;
@@ -12,7 +13,11 @@ public class Simulation {
     public int duration;
     MainCharacter mainCharacter = new MainCharacter();
     Kindergarten kindergarten = new Kindergarten();
-    Primar
+    primarySchool primaryschool = new primarySchool();
+    highSchool highschool = new highSchool();
+    College college = new College();
+    Workplace workplace = new Workplace();
+
 
 
     public void startSimulation(){
@@ -38,19 +43,26 @@ public class Simulation {
 
                 }
                 kindergarten.listOfTeachers.add(new Teacher());
+                // dodać funkcje kindergarten;
             }
 
             if(mainCharacter.age == 6){
-                kindergarten = null;
+                kindergarten = null; // smieciara tududu
+                for(int k = 0; k <= +random.nextInt(11); k++){
+                    primaryschool.li
+                }
                 // primary school + funkcje
             }
             if(mainCharacter.age == 14){
+                primaryschool = null;
                 // szkola srednia + funckje
             }
             if(mainCharacter.age == 18){
+                highschool = null;
                 // praca albo college + funckje
             }
             if(mainCharacter.age == 24){
+                college = null;
                 // workPlace
             }
             checkIfEnd();

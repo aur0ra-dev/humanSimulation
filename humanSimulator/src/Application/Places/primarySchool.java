@@ -6,8 +6,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class primarySchool {
-    protected List<Classmate> listOfClassmates = new ArrayList<>();
-    protected List <Classmate> listOfTeachers = new ArrayList<>();
+    public List<Classmate> listOfClassmates = new ArrayList<>();
+    public List <Classmate> listOfTeachers = new ArrayList<>();
     protected int levelOfEducation;
     protected int wealthOfPlace;
     protected int prestigeOfPlace;
