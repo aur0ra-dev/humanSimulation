@@ -1,4 +1,5 @@
 package Application.Human.fromHuman;
+
 import Application.Human.Human;
 import java.util.Random;
 
@@ -10,13 +11,15 @@ public class Classmate extends Human {
 
 
 
+
+
     public void beFriend(){
         if(random.nextInt(100)+1>90) {
             isFriend=true;
         }
     }
     public void beBully(){
-        if((random.nextInt(100)+1>95) && isFriend==false) {
+        if((random.nextInt(100)+1>95) && isFriend==false && age<18) {
             isBully=true;
         }
     }

@@ -1,25 +1,39 @@
 package Application.Places;
 
 import Application.Human.fromHuman.Classmate;
+import Application.Human.fromHuman.MainCharacter;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 public class College {
-    protected List <Classmate> listOfClassmates = new ArrayList<>();
-    protected List <Classmate> listOfTeachers = new ArrayList<>();
-    protected int levelOfEducation;
-    protected int wealthOfPlace;
-    protected int prestigeOfPlace;
 
-    protected void Apprenticeships(){
+    Random random = new Random();
+
+    public List <Classmate> listOfClassmates = new ArrayList<>();
+    public List <Classmate> listOfTeachers = new ArrayList<>();
+    public int levelOfEducation;
+    public int wealthOfPlace;
+    public int prestigeOfPlace;
+
+    public void Apprenticeships(MainCharacter mainCharacter){
+        if(mainCharacter.age == 22)
+        mainCharacter.bonusesToEarnings=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*200;
 
     }
-    protected void Session(){
+    public void Session(MainCharacter mainCharacter){
+        if(((mainCharacter.intelligence+mainCharacter.wisdom)/15+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/3 + random.nextInt(101))<50) {
+            //drop z uni
+        }
 
     }
-    protected void thesisDefense(){
-
+    public void thesisDefense(MainCharacter mainCharacter){
+        if(((mainCharacter.intelligence+mainCharacter.wisdom)/20+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/4 + random.nextInt(101))>50) {
+            mainCharacter.bonusesToEarnings=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*350;
+        } else {
+            // drop z uni
+        }
     }
 
 }
