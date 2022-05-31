@@ -19,11 +19,11 @@ public class highSchool {
     public int prestigeOfPlace;
 
     public int schoolLeavingExam(int intelligence, int wisdom){
-        int basic_score = (intelligence+wisdom)/10 + (levelOfEducation+wealthOfPlace+prestigeOfPlace)/2 + random.nextInt(101);
+        int basic_score = (this.intelligence+this.wisdom)/10 + (levelOfEducation+wealthOfPlace+prestigeOfPlace)/2 + random.nextInt(101);
         if(basic_score > 100)
             basic_score = 100;
 
-        int extended_score = (intelligence+wisdom)/15+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/3 + random.nextInt(101);
+        int extended_score = (this.intelligence+this.wisdom)/15+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/3 + random.nextInt(101);
         if(extended_score > 100)
             extended_score = 100;
 
