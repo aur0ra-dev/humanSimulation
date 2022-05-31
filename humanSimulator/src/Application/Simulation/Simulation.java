@@ -22,6 +22,7 @@ public class Simulation {
 
 
     public void startSimulation(){
+        int ticker = 0;
         Random random = new Random();
         System.out.println("Welcome to human simulator! Assemble the basic futures of our Main characeter");
         Scanner name = new Scanner(System.in);
@@ -101,11 +102,12 @@ public class Simulation {
             if(mainCharacter.age == 18 && highschool.schoolLeavingExam(mainCharacter.intelligence, mainCharacter.wisdom ) < 100){
                 System.out.println("What a dissapointment your characket didnt get to the College");
                 System.out.println("You need to go to work");
+                ticker = 1;
                 highschool = null;
 
                 college = null;
             }
-            if(mainCharacter.age == 24){
+            if(mainCharacter.age == 24 && ticker == 0){
                 System.out.println("after long 6 years of college you finally get your dreamed job");
                 college = null;
 
