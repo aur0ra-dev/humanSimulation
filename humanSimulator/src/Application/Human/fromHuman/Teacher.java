@@ -4,10 +4,11 @@ import Application.Human.Human;
 
 public class Teacher extends Human {
 
-    protected int abilityToTeach = random.nextInt(90)+11;
-    protected int yearOfExperience = 0;
+    public int abilityToTeach = random.nextInt(90)+11;
+    public int yearsOfExperience = 0;
 
-    protected void shareWisdom() {
+    public int shareWisdom() {
 
+        return (abilityToTeach/10 + yearsOfExperience) + random.nextInt(20);
     }
 }
