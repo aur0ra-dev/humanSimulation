@@ -8,7 +8,6 @@ import Application.Places.*;
 import java.util.Random;
 
 import java.util.Scanner;
-import java.util.concurrent.TimeUnit;
 
 public class Simulation {
     public int duration = 30;
@@ -40,14 +39,23 @@ public class Simulation {
         mainCharacter.strength = random.nextInt(25)+1;
         System.out.println("Allmighty god of Java human simulation blessed you with that Personal traits");
         mainCharacter.showFutures(mainCharacter);
+        /*
         try {
             TimeUnit.SECONDS.sleep(10);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
 
+         */
+
         System.out.println(mainCharacter.strength);
         for(int i = 0; i <= duration ;i ++){
+            /*
+            if(mainCharacter.age < 18 && mainCharacter.age > 1){ //implementcja opieki od rodzicow
+
+            }
+
+             */
 
             if(mainCharacter.age == 3){
                 System.out.println("Your character is entering the kindegarten");
@@ -60,8 +68,8 @@ public class Simulation {
 
             if(mainCharacter.age == 6){
                 kindergarten = null; // smieciara tududu
-                System.out.println("Your character is entering the kindegarten");
-                for(int k = 0; k <= +random.nextInt(11); k++){
+                System.out.println("Your character is entering the primarySchool");
+                for(int k = 0; k <= random.nextInt(11); k++){
                     primaryschool.listOfClassmates.add(new Classmate());
                 }
                 for(int g = 0; g < 4; g++){
@@ -69,6 +77,7 @@ public class Simulation {
                 }
             }
             if(mainCharacter.age == 14){
+                System.out.println("Your character is entering the highSchool");
                 primaryschool = null;
                 for(int h = 0; h <= random.nextInt(11); h++){
                     highschool.listOfClassmates.add(new Classmate());
@@ -78,21 +87,30 @@ public class Simulation {
                 }
                 //highschool.schoolLeavingExam(mainCharacter.intelligence, mainCharacter.wisdom);
             }
-            if(mainCharacter.age == 18 || highschool.schoolLeavingExam(mainCharacter.intelligence, mainCharacter.wisdom ) > 100 ){
+            if(mainCharacter.age == 18 && highschool.schoolLeavingExam(mainCharacter.intelligence, mainCharacter.wisdom ) > 100 ){
                 System.out.println("Congratulion your character was smart enough to get in to College");
+                for(int n = 0; n <= random.nextInt(131)+50; n++){
+                    college.listOfClassmates.add(new Classmate());
+                }
+                for(int m = 0; m < 15; m++){
+                    college.listOfTeachers.add(new Teacher());
+                }
                 highschool = null;
+
             }
-            if((mainCharacter.age == 18 || highschool.schoolLeavingExam(mainCharacter.intelligence, mainCharacter.wisdom ) < 100)){
+            if(mainCharacter.age == 18 && highschool.schoolLeavingExam(mainCharacter.intelligence, mainCharacter.wisdom ) < 100){
                 System.out.println("What a dissapointment your characket didnt get to the College");
+                System.out.println("You need to go to work");
                 highschool = null;
+
                 college = null;
             }
             if(mainCharacter.age == 24){
+                System.out.println("after long 6 years of college you finally get your dreamed job");
                 college = null;
 
             }
             checkIfEnd();
-
         }
 
 
