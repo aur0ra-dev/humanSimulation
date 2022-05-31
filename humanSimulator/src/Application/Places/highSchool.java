@@ -1,7 +1,6 @@
 package Application.Places;
 
 import Application.Human.fromHuman.Classmate;
-import Application.Human.fromHuman.MainCharacter;
 import Application.Human.fromHuman.Teacher;
 
 import java.util.ArrayList;

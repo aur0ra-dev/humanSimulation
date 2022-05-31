@@ -8,9 +8,10 @@ import Application.Places.*;
 import java.util.Random;
 
 import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
 
 public class Simulation {
-    public int duration;
+    public int duration = 30;
     MainCharacter mainCharacter = new MainCharacter();
     Kindergarten kindergarten = new Kindergarten();
     primarySchool primaryschool = new primarySchool();
@@ -20,12 +21,14 @@ public class Simulation {
 
 
 
+
     public void startSimulation(){
-        int exam = highschool.schoolLeavingExam();
         Random random = new Random();
         System.out.println("Welcome to human simulator! Assemble the basic futures of our Main characeter");
         Scanner name = new Scanner(System.in);
         String characterName;
+        mainCharacter.wisdom = 100; //testowa wartosc
+        mainCharacter.intelligence = 100; //test
         System.out.println("Input the name of our main character: ");
         characterName = name.nextLine();
         mainCharacter.name = characterName;
@@ -34,28 +37,36 @@ public class Simulation {
         System.out.println("Input the surname of our main character: ");
         characterSurname = name.nextLine();
         mainCharacter.surname = characterSurname;
-        System.out.println(mainCharacter.charisma);
-        for(int i = 0; i < duration ;i ++){
-            if(mainCharacter.age == 3){
+        mainCharacter.strength = random.nextInt(25)+1;
+        System.out.println("Allmighty god of Java human simulation blessed you with that Personal traits");
+        mainCharacter.showFutures(mainCharacter);
+        try {
+            TimeUnit.SECONDS.sleep(10);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
 
+        System.out.println(mainCharacter.strength);
+        for(int i = 0; i <= duration ;i ++){
+
+            if(mainCharacter.age == 3){
+                System.out.println("Your character is entering the kindegarten");
 
                 for(int j = 0; j <= 15 + random.nextInt(11); j++){
                     kindergarten.listOfClassmates.add(new Classmate());
-
                 }
                 kindergarten.listOfTeachers.add(new Teacher());
-
             }
 
             if(mainCharacter.age == 6){
                 kindergarten = null; // smieciara tududu
+                System.out.println("Your character is entering the kindegarten");
                 for(int k = 0; k <= +random.nextInt(11); k++){
                     primaryschool.listOfClassmates.add(new Classmate());
                 }
                 for(int g = 0; g < 4; g++){
                     primaryschool.listOfTeachers.add(new Teacher());
                 }
-                // primary school + funkcje
             }
             if(mainCharacter.age == 14){
                 primaryschool = null;
@@ -65,21 +76,23 @@ public class Simulation {
                 for(int v = 0; v < 4 ;v++){
                     highschool.listOfTeachers.add(new Teacher());
                 }
+                //highschool.schoolLeavingExam(mainCharacter.intelligence, mainCharacter.wisdom);
             }
-            if(mainCharacter.age == 18){
-                    // work place
-
-
-
-                // praca albo college + funckje
-                highschool = null; // smieciara tudu wywala na koncu obiekt po przypisaniu delikwenta do pracy lub na studia
+            if(mainCharacter.age == 18 || highschool.schoolLeavingExam(mainCharacter.intelligence, mainCharacter.wisdom ) > 100 ){
+                System.out.println("Congratulion your character was smart enough to get in to College");
+                highschool = null;
             }
-            if(mainCharacter.age == 24
-            ){
+            if((mainCharacter.age == 18 || highschool.schoolLeavingExam(mainCharacter.intelligence, mainCharacter.wisdom ) < 100)){
+                System.out.println("What a dissapointment your characket didnt get to the College");
+                highschool = null;
                 college = null;
-                // workPlace
+            }
+            if(mainCharacter.age == 24){
+                college = null;
+
             }
             checkIfEnd();
+
         }
 
 
@@ -87,25 +100,28 @@ public class Simulation {
     }
     public void makeTurn(){
         mainCharacter.age +=1;
-
-
+        mainCharacter.strength =5;
+        mainCharacter.charisma +=5;
+        mainCharacter.intelligence +=5; // tymczasowa inkrementacja w celu test tbd srednie ze srodowisk
+        mainCharacter.mentalHealth +=5;
+        mainCharacter.mentalHealth +=5;
     }
 
-    public boolean checkIfEnd(){
+    public void checkIfEnd(){
         if(mainCharacter.age == duration){
             endSimulation();
-            return true;
+
         }else{
             makeTurn();
-            return false;
+
         }
     }
 
     public void endSimulation(){
         System.out.println("Our person lived long and happy life and gathered all this stuff: ");
         // wyswietlanie wartosci obiektu;
-
-
+        mainCharacter.showFutures(mainCharacter);
+        System.out.println();
 
     }
 

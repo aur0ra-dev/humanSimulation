@@ -18,5 +18,18 @@ public class Human {
     public int mentalHealth;
     public int earnings;
 
+    public void showFutures(Human humanArg){
+        System.out.println("Name: " + humanArg.name);
+        System.out.println("surname: " + humanArg.surname);
+        System.out.println("age: " + humanArg.age);
+        System.out.println("gender: " + humanArg.gender);
+        System.out.println("charisma: " + humanArg.charisma);
+        System.out.println("strenght: " + humanArg.strength);
+        System.out.println("intelligence: " + humanArg.intelligence);
+        System.out.println("wisdom: " + humanArg.wisdom);
+        System.out.println("mentalHealt: " + humanArg.mentalHealth);
+        System.out.println("earning: " + humanArg.earnings);
+    }
+
 
 }
