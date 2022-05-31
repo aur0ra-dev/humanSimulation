@@ -21,6 +21,7 @@ public class Simulation {
 
 
     public void startSimulation(){
+        int exam = highschool.schoolLeavingExam();
         Random random = new Random();
         System.out.println("Welcome to human simulator! Assemble the basic futures of our Main characeter");
         Scanner name = new Scanner(System.in);
@@ -43,25 +44,38 @@ public class Simulation {
 
                 }
                 kindergarten.listOfTeachers.add(new Teacher());
-                // dodać funkcje kindergarten;
+
             }
 
             if(mainCharacter.age == 6){
                 kindergarten = null; // smieciara tududu
                 for(int k = 0; k <= +random.nextInt(11); k++){
-                    primaryschool.li
+                    primaryschool.listOfClassmates.add(new Classmate());
+                }
+                for(int g = 0; g < 4; g++){
+                    primaryschool.listOfTeachers.add(new Teacher());
                 }
                 // primary school + funkcje
             }
             if(mainCharacter.age == 14){
                 primaryschool = null;
-                // szkola srednia + funckje
+                for(int h = 0; h <= random.nextInt(11); h++){
+                    highschool.listOfClassmates.add(new Classmate());
+                }
+                for(int v = 0; v < 4 ;v++){
+                    highschool.listOfTeachers.add(new Teacher());
+                }
             }
             if(mainCharacter.age == 18){
-                highschool = null;
+                    // work place
+
+
+
                 // praca albo college + funckje
+                highschool = null; // smieciara tudu wywala na koncu obiekt po przypisaniu delikwenta do pracy lub na studia
             }
-            if(mainCharacter.age == 24){
+            if(mainCharacter.age == 24
+            ){
                 college = null;
                 // workPlace
             }
