@@ -6,14 +6,14 @@ import java.util.List;
 
 public class MainCharacter extends Human {
 
-    protected int numberOfChildren = 0;
-    protected boolean haveAPartner = false;
-    protected List<Classmate> listOfFriends = new ArrayList<>();
-    protected List<Classmate> ListOfBullies = new ArrayList<>();
-    protected int numberOfFriends = listOfFriends.size();
-    protected int numberOfBullies= ListOfBullies.size();
-    protected int health = random.nextInt(80)+21;
-    protected int bonusesToEarnings = 0;
+    public int numberOfChildren = 0;
+    public boolean haveAPartner = false;
+    public List<Classmate> listOfFriends = new ArrayList<>();
+    public List<Classmate> ListOfBullies = new ArrayList<>();
+    public int numberOfFriends = listOfFriends.size();
+    public int numberOfBullies= ListOfBullies.size();
+    public int health = random.nextInt(80)+21;
+    public int bonusesToEarnings = 0;
 
     Father father;
     Mother mother;
