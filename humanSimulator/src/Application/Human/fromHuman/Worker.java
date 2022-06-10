@@ -8,7 +8,7 @@ import java.util.List;
 
 public class Worker extends Human {
     boolean isFriend = false;
-    int productivity = random.nextInt(81)+20;
+    public int productivity = random.nextInt(81)+20;
 
 
 }
