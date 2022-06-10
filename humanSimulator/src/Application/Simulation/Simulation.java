@@ -22,6 +22,7 @@ public class Simulation {
 
 
     public void startSimulation(){
+        mainCharacter.age = 1;
         int ticker = 0;
         Random random = new Random();
         System.out.println("Welcome to human simulator! Assemble the basic futures of our Main characeter");
@@ -50,13 +51,14 @@ public class Simulation {
          */
 
         System.out.println(mainCharacter.strength);
+        /*
         for(int i = 0; i <= duration ;i ++){
             /*
             if(mainCharacter.age < 18 && mainCharacter.age > 1){ //implementcja opieki od rodzicow
 
             }
 
-             */
+
 
             if(mainCharacter.age == 3){
                 System.out.println("Your character is entering the kindegarten");
@@ -114,6 +116,107 @@ public class Simulation {
             }
             checkIfEnd();
         }
+
+          */
+        for(int i = 0; i < duration; i++){
+            switch(mainCharacter.age) {
+                case 1:
+                    checkIfEnd();
+                    break;
+                case 2:
+                    checkIfEnd();
+                    break;
+                case 3:
+                    for(int j = 0; j <= 15 + random.nextInt(11); j++){
+                        kindergarten.listOfClassmates.add(new Classmate());
+                    }
+                    kindergarten.listOfTeachers.add(new Teacher());
+                    checkIfEnd();
+                    break;
+                case 4:
+                    checkIfEnd();
+                    break;
+                case 5:
+                    checkIfEnd();
+                    break;
+                case 6:
+                    kindergarten = null; // smieciara tududu
+                    System.out.println("Your character is entering the primarySchool");
+                    for(int k = 0; k <= random.nextInt(11); k++){
+                        primaryschool.listOfClassmates.add(new Classmate());
+                    }
+                    for(int g = 0; g < 4; g++){
+                        primaryschool.listOfTeachers.add(new Teacher());
+                    }
+                    checkIfEnd();
+                    break;
+                case 7:
+                    checkIfEnd();
+                    break;
+                case 8:
+                    checkIfEnd();
+                    break;
+                case 9:
+                    checkIfEnd();
+                    break;
+                case 10:
+                    checkIfEnd();
+                    break;
+                case 11:
+                    checkIfEnd();
+                    break;
+                case 12:
+                    checkIfEnd();
+                    break;
+                case 13:
+                    checkIfEnd();
+                    break;
+                case 14:
+                    System.out.println("Your character is entering the highSchool");
+                    primaryschool = null;
+                    for(int h = 0; h <= random.nextInt(11); h++){
+                        highschool.listOfClassmates.add(new Classmate());
+                    }
+                    for(int v = 0; v < 4 ;v++){
+                        highschool.listOfTeachers.add(new Teacher());
+                    }
+                    //highschool.schoolLeavingExam(mainCharacter.intelligence, mainCharacter.wisdom);
+                    checkIfEnd();
+                    break;
+                case 15:
+                    checkIfEnd();
+                    break;
+                case 16:
+                    checkIfEnd();
+                    break;
+                case 17:
+                    checkIfEnd();
+                    break;
+                case 18:
+                    checkIfEnd();
+                    break;
+                case 19:
+                    checkIfEnd();
+                    break;
+                case 20:
+                    checkIfEnd();
+                    break;
+                case 21:
+                    checkIfEnd();
+                    break;
+                case 22:
+                    checkIfEnd();
+                    break;
+                default:
+                    checkIfEnd();
+
+            }
+
+        }
+
+
+
+
 
 
 
