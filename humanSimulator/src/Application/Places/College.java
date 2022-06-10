@@ -19,21 +19,23 @@ public class College {
     public int prestigeOfPlace;
 
     public void Apprenticeships(MainCharacter mainCharacter){
-        if(mainCharacter.age == 22)
         mainCharacter.bonusesToEarnings=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*200;
 
     }
-    public void Session(MainCharacter mainCharacter){
+    public int Session(MainCharacter mainCharacter){
         if(((mainCharacter.intelligence+mainCharacter.wisdom)/15+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/3 + random.nextInt(101))<50) {
-            //drop z uni
+            return 0;
         }
+        else
+            return 1;
 
     }
-    public void thesisDefense(MainCharacter mainCharacter){
+    public int thesisDefense(MainCharacter mainCharacter){
         if(((mainCharacter.intelligence+mainCharacter.wisdom)/20+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/4 + random.nextInt(101))>50) {
             mainCharacter.bonusesToEarnings=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*350;
+            return 1;
         } else {
-            // drop z uni
+            return 0;
         }
     }
 
