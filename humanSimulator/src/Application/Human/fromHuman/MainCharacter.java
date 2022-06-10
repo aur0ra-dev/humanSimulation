@@ -9,17 +9,18 @@ public class MainCharacter extends Human {
     public int numberOfChildren = 0;
     public boolean haveAPartner = false;
     public List<Classmate> listOfFriends = new ArrayList<>();
-    public List<Classmate> ListOfBullies = new ArrayList<>();
+    public List<Classmate> listOfBullies = new ArrayList<>();
     public int numberOfFriends = listOfFriends.size();
-    public int numberOfBullies= ListOfBullies.size();
+    public int numberOfBullies= listOfBullies.size();
     public int health = random.nextInt(80)+21;
     public int bonusesToEarnings = 0;
 
-    Father father;
+    Father father = new Father();
+
     Mother mother;
 
 
-    protected void gatherFromFriends () {
+    public void gatherFromFriends () {
 
         int avgCharisma = 0;
         int avgIntelligence = 0;
@@ -51,7 +52,7 @@ public class MainCharacter extends Human {
 
 
     }
-    protected void gatherFromParents () {
+    public void gatherFromParents () {
         int avgCharisma = ((father.charisma+mother.charisma)/2)/20;
         int avgIntelligence = ((father.intelligence+mother.intelligence)/2)/20;
         int avgWisdom = mother.wisdom/20;
@@ -68,7 +69,7 @@ public class MainCharacter extends Human {
 
 
     }
-    protected void Reflections () {
+    public void Reflections () {
         if(mentalHealth>100)
             mentalHealth = 100;
         else if (mentalHealth < 0) {

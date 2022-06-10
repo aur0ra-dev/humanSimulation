@@ -21,7 +21,10 @@ public class Simulation {
 
 
 
+
+
     public void startSimulation(){
+
 
         Scanner scanner = new Scanner(System.in);
 
@@ -164,6 +167,10 @@ public class Simulation {
                 case 3:
                     for(int j = 0; j <= 15 + random.nextInt(11); j++){
                         kindergarten.listOfClassmates.add(new Classmate());
+                        if(kindergarten.listOfClassmates.get(i).isFriend)
+                            mainCharacter.listOfFriends.add(kindergarten.listOfClassmates.get(i));
+                        if(kindergarten.listOfClassmates.get(i).isBully)
+                            mainCharacter.listOfBullies.add(kindergarten.listOfClassmates.get(i));
                     }
                     kindergarten.listOfTeachers.add(new Teacher());
                     checkIfEnd();
@@ -176,6 +183,7 @@ public class Simulation {
                     break;
                 case 6:
                     kindergarten = null; // smieciara tududu
+                    System.out.println("HERE HERE KURWA TUTAJ PATRZ" + mainCharacter.listOfFriends.get(i));
                     System.out.println("Your character is entering the primarySchool");
                     for(int k = 0; k <= random.nextInt(11); k++){
                         primaryschool.listOfClassmates.add(new Classmate());
@@ -257,12 +265,13 @@ public class Simulation {
 
     }
     public void makeTurn(){
-        mainCharacter.age +=1;
-        mainCharacter.strength =5;
-        mainCharacter.charisma +=5;
-        mainCharacter.intelligence +=5; // tymczasowa inkrementacja w celu test tbd srednie ze srodowisk
-        mainCharacter.mentalHealth +=5;
-        mainCharacter.mentalHealth +=5;
+
+        if(mainCharacter.age<12)
+            mainCharacter.gatherFromParents();
+        if(mainCharacter.age>2 && mainCharacter.age<19)
+            mainCharacter.gatherFromFriends();
+        mainCharacter.Reflections();
+        mainCharacter.age++;
     }
 
     public void checkIfEnd(){
