@@ -167,6 +167,8 @@ public class Simulation {
                 case 3:
                     for(int j = 0; j <= 15 + random.nextInt(11); j++){
                         kindergarten.listOfClassmates.add(new Classmate());
+
+
                         if(kindergarten.listOfClassmates.get(i).isFriend)
                             mainCharacter.listOfFriends.add(kindergarten.listOfClassmates.get(i));
                         if(kindergarten.listOfClassmates.get(i).isBully)
