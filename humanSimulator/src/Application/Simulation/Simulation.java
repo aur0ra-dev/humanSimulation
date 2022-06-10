@@ -22,23 +22,57 @@ public class Simulation {
 
 
     public void startSimulation(){
+
+        Scanner scanner = new Scanner(System.in);
+
         mainCharacter.age = 1;
         int ticker = 0;
         Random random = new Random();
         System.out.println("Welcome to human simulator! Assemble the basic futures of our Main characeter");
-        Scanner name = new Scanner(System.in);
-        String characterName;
-        mainCharacter.wisdom = 100; //testowa wartosc
-        mainCharacter.intelligence = 100; //test
         System.out.println("Input the name of our main character: ");
-        characterName = name.nextLine();
-        mainCharacter.name = characterName;
-        Scanner surname = new Scanner(System.in);
-        String characterSurname;
+        mainCharacter.name = scanner.nextLine();
         System.out.println("Input the surname of our main character: ");
-        characterSurname = name.nextLine();
-        mainCharacter.surname = characterSurname;
-        mainCharacter.strength = random.nextInt(25)+1;
+        mainCharacter.surname = scanner.nextLine();
+        System.out.println("Input the Strength(choose between 40 and 100) of our main character: ");
+        mainCharacter.strength = scanner.nextInt();
+
+        if(mainCharacter.strength>100)
+            mainCharacter.strength=100;
+        else if(mainCharacter.strength<40)
+            mainCharacter.strength=40;
+
+
+        System.out.println("Input the Intelligence(choose between 40 and 100) of our main character: ");
+        mainCharacter.intelligence = scanner.nextInt();
+
+        if(mainCharacter.intelligence>100)
+            mainCharacter.intelligence=100;
+        else if(mainCharacter.intelligence<40)
+            mainCharacter.intelligence=40;
+
+        System.out.println("Input the Wisdom(choose between 40 and 100) of our main character: ");
+        mainCharacter.wisdom = scanner.nextInt();
+
+        if(mainCharacter.wisdom>100)
+            mainCharacter.wisdom=100;
+        else if(mainCharacter.wisdom<40)
+            mainCharacter.wisdom=40;
+
+        System.out.println("Input the Charisma(choose between 40 and 100) of our main character: ");
+        mainCharacter.charisma = scanner.nextInt();
+
+        if(mainCharacter.charisma>100)
+            mainCharacter.charisma=100;
+        else if(mainCharacter.charisma<40)
+            mainCharacter.charisma=40;
+
+        System.out.println("Choose gender of our main character(1 stands for male, 2 stands for female) of our main character: ");
+        mainCharacter.gender = scanner.nextInt();
+
+        if(mainCharacter.gender!=2 || mainCharacter.gender!=1) {
+            mainCharacter.gender=1;
+        }
+
         System.out.println("Allmighty god of Java human simulation blessed you with that Personal traits");
         mainCharacter.showFutures(mainCharacter);
         /*
@@ -49,8 +83,6 @@ public class Simulation {
         }
 
          */
-
-        System.out.println(mainCharacter.strength);
         /*
         for(int i = 0; i <= duration ;i ++){
             /*
@@ -118,6 +150,9 @@ public class Simulation {
         }
 
           */
+
+
+
         for(int i = 0; i < duration; i++){
             switch(mainCharacter.age) {
                 case 1:
