@@ -165,27 +165,47 @@ public class Simulation {
                     checkIfEnd();
                     break;
                 case 3:
+                    kindergarten.listOfTeachers.add(new Teacher());
                     for(int j = 0; j <= 15 + random.nextInt(11); j++){
                         kindergarten.listOfClassmates.add(new Classmate());
+                        kindergarten.listOfClassmates.get(j).age=3;
+                        kindergarten.listOfClassmates.get(j).gender = random.nextInt(1)+1;
+                        kindergarten.listOfClassmates.get(j).charisma = random.nextInt(60)+40;
+                        kindergarten.listOfClassmates.get(j).strength = random.nextInt(60)+40;
+                        kindergarten.listOfClassmates.get(j).intelligence = random.nextInt(60)+40;
+                        kindergarten.listOfClassmates.get(j).wisdom = random.nextInt(60)+40;
+                        kindergarten.listOfClassmates.get(j).beFriend();
+                        kindergarten.listOfClassmates.get(j).beBully();
+                        kindergarten.listOfClassmates.get(j).wisdom+=kindergarten.listOfTeachers.get(0).shareWisdom();
 
-
-                        if(kindergarten.listOfClassmates.get(i).isFriend)
+                        if(kindergarten.listOfClassmates.get(j).isFriend)
                             mainCharacter.listOfFriends.add(kindergarten.listOfClassmates.get(i));
-                        if(kindergarten.listOfClassmates.get(i).isBully)
+                        else if(kindergarten.listOfClassmates.get(j).isBully)
                             mainCharacter.listOfBullies.add(kindergarten.listOfClassmates.get(i));
                     }
-                    kindergarten.listOfTeachers.add(new Teacher());
+
+
+                    mainCharacter.gatherFromParents();
+                    mainCharacter.gatherFromFriends();
+                    mainCharacter.Reflections();
+                    mainCharacter.wisdom+=kindergarten.listOfTeachers.get(0).shareWisdom();
+
                     checkIfEnd();
                     break;
                 case 4:
+                    mainCharacter.gatherFromParents();
+                    mainCharacter.gatherFromFriends();
+                    mainCharacter.Reflections();
                     checkIfEnd();
                     break;
                 case 5:
+                    mainCharacter.gatherFromParents();
+                    mainCharacter.gatherFromFriends();
+                    mainCharacter.Reflections();
                     checkIfEnd();
                     break;
                 case 6:
                     kindergarten = null; // smieciara tududu
-                    System.out.println("HERE HERE KURWA TUTAJ PATRZ" + mainCharacter.listOfFriends.get(i));
                     System.out.println("Your character is entering the primarySchool");
                     for(int k = 0; k <= random.nextInt(11); k++){
                         primaryschool.listOfClassmates.add(new Classmate());

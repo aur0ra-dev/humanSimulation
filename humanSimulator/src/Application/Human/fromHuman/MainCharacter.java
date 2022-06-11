@@ -16,8 +16,7 @@ public class MainCharacter extends Human {
     public int bonusesToEarnings = 0;
 
     Father father = new Father();
-
-    Mother mother;
+    Mother mother = new Mother();
 
 
     public void gatherFromFriends () {
@@ -59,17 +58,17 @@ public class MainCharacter extends Human {
         int avgStrength = father.strength/20;
 
         charisma += avgCharisma;
-        intelligence += avgCharisma;
-        wisdom += avgCharisma;
-        strength += avgCharisma;
+        intelligence += avgIntelligence;
+        wisdom += avgWisdom;
+        strength += avgStrength;
 
-        mentalHealth += random.nextInt(father.attentionToChildren/10) - random.nextInt(10 - (father.attentionToChildren/10));
-        mentalHealth += random.nextInt(mother.loveToChildren/10) - random.nextInt(10 - (mother.loveToChildren/10));
-
-
-
+        mentalHealth += random.nextInt((father.attentionToChildren/10)+1) - random.nextInt(10);
+        mentalHealth += random.nextInt((mother.loveToChildren/10)+1) - random.nextInt(10);
     }
     public void Reflections () {
+
+        int healthEvent;
+
         if(mentalHealth>100)
             mentalHealth = 100;
         else if (mentalHealth < 0) {
@@ -88,7 +87,11 @@ public class MainCharacter extends Human {
             wisdom += wisdom/random.nextInt(11)+20;
             strength += strength/random.nextInt(11)+20;
         } else if (mentalHealth<11) {
-            if (random.nextInt(mentalHealth) == 0) {
+
+            if(mentalHealth<1)
+                mentalHealth=1;
+            healthEvent=random.nextInt(mentalHealth);
+            if (healthEvent == 0) {
                 //suicide
             }
 
