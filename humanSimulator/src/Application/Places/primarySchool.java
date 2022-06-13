@@ -15,8 +15,10 @@ public class primarySchool {
     public int levelOfEducation;
     public int wealthOfPlace;
     public int prestigeOfPlace;
-    public void sendKidToContest(MainCharacter mainCharacter){
+    public MainCharacter sendKidToContest(MainCharacter mainCharacter){
 
-        mainCharacter.bonusesToEarnings=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*100;
+        mainCharacter.bonusesToEarnings+=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*100;
+
+        return mainCharacter;
     }
 }

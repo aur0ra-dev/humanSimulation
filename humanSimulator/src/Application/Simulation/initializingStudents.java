@@ -17,7 +17,7 @@ public class initializingStudents {
             listToInitialize.get(j).charisma = random.nextInt(60)+(40*stage);
             listToInitialize.get(j).strength = random.nextInt(60)+(40*stage);
             listToInitialize.get(j).intelligence = random.nextInt(60)+(40*stage);
-            listToInitialize.get(j).wisdom = random.nextInt(60)+(40*stage);
+            listToInitialize.get(j).wisdom = random.nextInt(100)+(80*(stage-1));
         }
 
 

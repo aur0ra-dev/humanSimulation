@@ -17,9 +17,10 @@ public class Kindergarten {
     public int levelOfEducation;
     public int wealthOfPlace;
     public int prestigeOfPlace;
-    public void careOverKid(MainCharacter mainCharacter){
 
-        mainCharacter.mentalHealth=((levelOfEducation + wealthOfPlace + prestigeOfPlace) - random.nextInt(8) + random.nextInt(8));
+    public MainCharacter careOverKid(MainCharacter mainCharacter){
+        mainCharacter.mentalHealth+=((levelOfEducation + wealthOfPlace + prestigeOfPlace) - random.nextInt(30) + random.nextInt(15));
+        return mainCharacter;
     }
 
 }

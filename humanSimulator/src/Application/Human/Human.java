@@ -17,6 +17,7 @@ public class Human {
     public int strength;
     public int mentalHealth;
     public int earnings;
+    public int finalExamResults;
 
     public void showFutures(Human humanArg){
         System.out.println("Name: " + humanArg.name);

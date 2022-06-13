@@ -15,8 +15,8 @@ public class MainCharacter extends Human {
     public int health = random.nextInt(80)+21;
     public int bonusesToEarnings = 0;
 
-    Father father = new Father();
-    Mother mother = new Mother();
+    public Father father = new Father();
+    public Mother mother = new Mother();
 
 
     public void gatherFromFriends () {

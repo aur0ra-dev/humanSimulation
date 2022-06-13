@@ -18,9 +18,10 @@ public class College {
     public int wealthOfPlace;
     public int prestigeOfPlace;
 
-    public void Apprenticeships(MainCharacter mainCharacter){
-        mainCharacter.bonusesToEarnings=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*200;
+    public MainCharacter Apprenticeships(MainCharacter mainCharacter){
+        mainCharacter.bonusesToEarnings+=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*200;
 
+        return mainCharacter;
     }
     public int Session(MainCharacter mainCharacter){
         if(((mainCharacter.intelligence+mainCharacter.wisdom)/15+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/3 + random.nextInt(101))<50) {
@@ -32,7 +33,7 @@ public class College {
     }
     public int thesisDefense(MainCharacter mainCharacter){
         if(((mainCharacter.intelligence+mainCharacter.wisdom)/20+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/4 + random.nextInt(101))>50) {
-            mainCharacter.bonusesToEarnings=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*350;
+            mainCharacter.bonusesToEarnings+=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*350;
             return 1;
         } else {
             return 0;
