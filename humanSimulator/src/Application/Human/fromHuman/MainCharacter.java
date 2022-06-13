@@ -76,16 +76,16 @@ public class MainCharacter extends Human {
         }
 
         if(mentalHealth>70) {
-            charisma += charisma/ random.nextInt(6)+20;
-            intelligence += intelligence/random.nextInt(6)+20;
-            wisdom += wisdom/random.nextInt(6)+20;
-            strength += strength/random.nextInt(6)+20;
+            charisma += charisma/ (random.nextInt(6)+1)+20;
+            intelligence += intelligence/(random.nextInt(6)+1)+20;
+            wisdom += wisdom/(random.nextInt(6)+1)+20;
+            strength += strength/(random.nextInt(6)+1)+20;
 
         } else if (mentalHealth<=70 && mentalHealth > 45) {
-            charisma += charisma/ random.nextInt(11)+20;
-            intelligence += intelligence/random.nextInt(11)+20;
-            wisdom += wisdom/random.nextInt(11)+20;
-            strength += strength/random.nextInt(11)+20;
+            charisma += charisma/ (random.nextInt(11)+1)+20;
+            intelligence += intelligence/(random.nextInt(11)+1)+20;
+            wisdom += wisdom/(random.nextInt(11)+1)+20;
+            strength += strength/(random.nextInt(11)+1)+20;
         } else if (mentalHealth<11) {
 
             if(mentalHealth<1)
