@@ -1,4 +1,4 @@
-package Application.Human;
+package application.human;
 
 import java.util.Random;
 

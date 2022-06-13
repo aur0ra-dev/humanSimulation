@@ -1,10 +1,7 @@
-package Application.Human.fromHuman;
+package application.human.fromHuman;
 
 
-import Application.Human.Human;
-
-import java.util.ArrayList;
-import java.util.List;
+import application.human.Human;
 
 public class Worker extends Human {
     boolean isFriend = false;

@@ -1,7 +1,7 @@
-package Application.Places;
+package application.places;
 
-import Application.Human.Human;
-import Application.Human.fromHuman.Worker;
+import application.human.Human;
+import application.human.fromHuman.Worker;
 import java.util.Random;
 import java.util.ArrayList;
 import java.util.List;

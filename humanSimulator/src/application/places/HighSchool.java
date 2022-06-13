@@ -1,16 +1,18 @@
-package Application.Places;
+package application.places;
 
-import Application.Human.fromHuman.Classmate;
-import Application.Human.fromHuman.Teacher;
+import application.human.fromHuman.Classmate;
+import application.human.fromHuman.MainCharacter;
+import application.human.fromHuman.Teacher;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import java.util.Random;
 
-public class highSchool {
+public class HighSchool {
 
     Random random = new Random();
+    public int numberOfClassmates = 20 + random.nextInt(11);
     public List<Classmate> listOfClassmates = new ArrayList<>();
     public List <Teacher> listOfTeachers = new ArrayList<>();
     public int levelOfEducation;
@@ -29,6 +31,15 @@ public class highSchool {
         int examPoints = extended_score/7+basic_score/3;
 
         return examPoints;
+    }
+
+    public void initializePlace (MainCharacter mainCharacter) {
+        prestigeOfPlace=(mainCharacter.father.intelligence+mainCharacter.mother.intelligence)/110+mainCharacter.intelligence/60;
+        levelOfEducation=(mainCharacter.father.wisdom+mainCharacter.mother.wisdom)/300+mainCharacter.wisdom/130;
+        wealthOfPlace=(mainCharacter.father.earnings+mainCharacter.mother.earnings)/4000;
+        for(int v = 0; v < 10 ;v++){
+            listOfTeachers.add(new Teacher());
+        }
     }
 
 

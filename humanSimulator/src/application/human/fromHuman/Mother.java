@@ -1,6 +1,6 @@
-package Application.Human.fromHuman;
+package application.human.fromHuman;
 
-import Application.Human.Human;
+import application.human.Human;
 import java.util.Random;
 
 public class Mother extends Human {

@@ -1,12 +1,12 @@
-package Application.Simulation;
+package application.simulation;
 
-import Application.Human.fromHuman.Classmate;
-import Application.Human.fromHuman.MainCharacter;
-import Application.Human.fromHuman.Teacher;
+import application.human.fromHuman.Classmate;
+import application.human.fromHuman.MainCharacter;
+import application.human.fromHuman.Teacher;
 
 import java.util.List;
 
-public class progressMainCharacter {
+public class ProgressMainCharacter {
 
     public MainCharacter progressMain (MainCharacter mainCharacter, List<Classmate> friends, List<Classmate> bullies, List<Teacher> teachers) {
 

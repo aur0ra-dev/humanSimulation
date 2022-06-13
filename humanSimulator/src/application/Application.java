@@ -1,6 +1,6 @@
-package Application;
+package application;
 
-import Application.Simulation.Simulation;
+import application.simulation.Simulation;
 
 public class Application {
 

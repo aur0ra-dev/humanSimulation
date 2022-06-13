@@ -1,9 +1,7 @@
-package Application.Simulation;
+package application.simulation;
 
-import Application.Human.fromHuman.Classmate;
-import Application.Human.fromHuman.MainCharacter;
-import Application.Human.fromHuman.Teacher;
-import Application.Places.*;
+import application.human.fromHuman.MainCharacter;
+import application.places.*;
 
 import java.util.Random;
 
@@ -12,15 +10,15 @@ import java.util.Scanner;
 public class Simulation {
     public int duration = 30;
     MainCharacter mainCharacter = new MainCharacter();
+    PrimarySchool primaryschool = new PrimarySchool();
     Kindergarten kindergarten = new Kindergarten();
-    primarySchool primaryschool = new primarySchool();
-    highSchool highschool = new highSchool();
+    HighSchool highschool = new HighSchool();
     College college = new College();
     Workplace workplace = new Workplace();
 
-    initializingStudents initializator = new initializingStudents();
-    progressStudents studProgressor = new progressStudents();
-    progressMainCharacter mainProgressor = new progressMainCharacter();
+    InitializingStudents initializator = new InitializingStudents();
+    ProgressStudents studProgressor = new ProgressStudents();
+    ProgressMainCharacter mainProgressor = new ProgressMainCharacter();
 
     public void startSimulation(){
 
@@ -87,87 +85,29 @@ public class Simulation {
                     checkIfEnd();
                     break;
                 case 3:
-                    kindergarten.prestigeOfPlace=(mainCharacter.father.intelligence+mainCharacter.mother.intelligence)/80;
-                    kindergarten.levelOfEducation=(mainCharacter.father.wisdom+mainCharacter.mother.wisdom)/200;
-                    kindergarten.wealthOfPlace=(mainCharacter.father.earnings+mainCharacter.mother.earnings)/4000;
-                    kindergarten.listOfTeachers.add(new Teacher());
-                    for(int j = 0; j <= 15 + random.nextInt(11); j++){
-                        kindergarten.listOfClassmates.add(new Classmate());
-                        kindergarten.listOfClassmates.get(j).age=3;
-                        kindergarten.listOfClassmates.get(j).beFriend();
-                        kindergarten.listOfClassmates.get(j).beBully();
-                        if(kindergarten.listOfClassmates.get(j).isFriend)
-                            mainCharacter.listOfFriends.add(kindergarten.listOfClassmates.get(j));
-                        else if(kindergarten.listOfClassmates.get(j).isBully)
-                            mainCharacter.listOfBullies.add(kindergarten.listOfClassmates.get(j));
-                    }
-                    initializator.initializeClassmates(kindergarten.listOfClassmates,1);
+                    kindergarten.initializePlace(mainCharacter);
+                    initializator.initializeClassmates(kindergarten.listOfClassmates,1,mainCharacter.listOfFriends,mainCharacter.listOfBullies,kindergarten.numberOfClassmates);
                     kindergarten.careOverKid(mainCharacter);
                     mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,kindergarten.listOfTeachers);
                     studProgressor.progressClassmates(kindergarten.listOfClassmates,kindergarten.listOfTeachers);
                     checkIfEnd();
                     break;
-                case 4:
-                    kindergarten.careOverKid(mainCharacter);
-                    mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,kindergarten.listOfTeachers);
-                    studProgressor.progressClassmates(kindergarten.listOfClassmates,kindergarten.listOfTeachers);
-                    checkIfEnd();
-                    break;
-                case 5:
+                case 4-5:
                     kindergarten.careOverKid(mainCharacter);
                     mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,kindergarten.listOfTeachers);
                     studProgressor.progressClassmates(kindergarten.listOfClassmates,kindergarten.listOfTeachers);
                     checkIfEnd();
                     break;
                 case 6:
-                    kindergarten = null; // smieciara tududu
-                    mainCharacter.showFutures(mainCharacter);
                     System.out.println("Your character is entering the primarySchool");
-                    for(int k = 0; k <= 20 + random.nextInt(6); k++){
-                        primaryschool.listOfClassmates.add(new Classmate());
-                        primaryschool.listOfClassmates.get(k).age=6;
-                        primaryschool.listOfClassmates.get(k).beFriend();
-                        primaryschool.listOfClassmates.get(k).beBully();
-                        if(primaryschool.listOfClassmates.get(k).isFriend)
-                            mainCharacter.listOfFriends.add(primaryschool.listOfClassmates.get(k));
-                        else if(primaryschool.listOfClassmates.get(k).isBully)
-                            mainCharacter.listOfBullies.add(primaryschool.listOfClassmates.get(k));
-                    }
-                    for(int g = 0; g < 3; g++){
-                        primaryschool.listOfTeachers.add(new Teacher());
-                    }
-
-                    initializator.initializeClassmates(primaryschool.listOfClassmates,2);
+                    kindergarten = null; // smieciara tududu
+                    primaryschool.initializePlace(mainCharacter);
+                    initializator.initializeClassmates(primaryschool.listOfClassmates,2,mainCharacter.listOfFriends,mainCharacter.listOfBullies,primaryschool.numberOfClassmates);
                     mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,primaryschool.listOfTeachers);
                     studProgressor.progressClassmates(primaryschool.listOfClassmates,primaryschool.listOfTeachers);
                     checkIfEnd();
                     break;
-                case 7:
-                    mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,primaryschool.listOfTeachers);
-                    studProgressor.progressClassmates(primaryschool.listOfClassmates,primaryschool.listOfTeachers);
-                    checkIfEnd();
-                    break;
-                case 8:
-                    mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,primaryschool.listOfTeachers);
-                    studProgressor.progressClassmates(primaryschool.listOfClassmates,primaryschool.listOfTeachers);
-                    checkIfEnd();
-                    break;
-                case 9:
-                    mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,primaryschool.listOfTeachers);
-                    studProgressor.progressClassmates(primaryschool.listOfClassmates,primaryschool.listOfTeachers);
-                    checkIfEnd();
-                    break;
-                case 10:
-                    mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,primaryschool.listOfTeachers);
-                    studProgressor.progressClassmates(primaryschool.listOfClassmates,primaryschool.listOfTeachers);
-                    checkIfEnd();
-                    break;
-                case 11:
-                    mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,primaryschool.listOfTeachers);
-                    studProgressor.progressClassmates(primaryschool.listOfClassmates,primaryschool.listOfTeachers);
-                    checkIfEnd();
-                    break;
-                case 12:
+                case 7-12:
                     mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,primaryschool.listOfTeachers);
                     studProgressor.progressClassmates(primaryschool.listOfClassmates,primaryschool.listOfTeachers);
                     checkIfEnd();
@@ -175,42 +115,19 @@ public class Simulation {
                 case 13:
                     mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,primaryschool.listOfTeachers);
                     studProgressor.progressClassmates(primaryschool.listOfClassmates,primaryschool.listOfTeachers);
+                    primaryschool.sendKidToContest(mainCharacter);
                     checkIfEnd();
                     break;
                 case 14:
                     System.out.println("Your character is entering the highSchool");
                     primaryschool = null;
-                    for(int h = 0; h <= 25 + random.nextInt(6); h++){
-                        highschool.listOfClassmates.add(new Classmate());
-                        highschool.listOfClassmates.get(h).age=14;
-                        highschool.listOfClassmates.get(h).beFriend();
-                        highschool.listOfClassmates.get(h).beBully();
-                        if(highschool.listOfClassmates.get(h).isFriend)
-                            mainCharacter.listOfFriends.add(highschool.listOfClassmates.get(h));
-                        else if(highschool.listOfClassmates.get(h).isBully)
-                            mainCharacter.listOfBullies.add(highschool.listOfClassmates.get(h));
-                    }
-                    for(int v = 0; v < 4 ;v++){
-                        highschool.listOfTeachers.add(new Teacher());
-                    }
-
-                    initializator.initializeClassmates(highschool.listOfClassmates,3);
-                    mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,highschool.listOfTeachers);
-                    studProgressor.progressClassmates(highschool.listOfClassmates,highschool.listOfTeachers);
-
-                    checkIfEnd();
-                    break;
-                case 15:
+                    highschool.initializePlace(mainCharacter);
+                    initializator.initializeClassmates(highschool.listOfClassmates,3,mainCharacter.listOfFriends,mainCharacter.listOfBullies,highschool.numberOfClassmates);
                     mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,highschool.listOfTeachers);
                     studProgressor.progressClassmates(highschool.listOfClassmates,highschool.listOfTeachers);
                     checkIfEnd();
                     break;
-                case 16:
-                    mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,highschool.listOfTeachers);
-                    studProgressor.progressClassmates(highschool.listOfClassmates,highschool.listOfTeachers);
-                    checkIfEnd();
-                    break;
-                case 17:
+                case 15-17:
                     mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,highschool.listOfTeachers);
                     studProgressor.progressClassmates(highschool.listOfClassmates,highschool.listOfTeachers);
                     checkIfEnd();
@@ -218,19 +135,9 @@ public class Simulation {
                 case 18:
                     System.out.println("Your character is entering the College");
                     highschool = null;
-                    for(int h = 0; h <= 60 + random.nextInt(140); h++){
-                        college.listOfClassmates.add(new Classmate());
-                        college.listOfClassmates.get(h).age=18;
-                        college.listOfClassmates.get(h).beFriend();
 
-                        if(college.listOfClassmates.get(h).isFriend)
-                            mainCharacter.listOfFriends.add(college.listOfClassmates.get(h));
-                    }
-                    for(int v = 0; v < 15 ;v++){
-                        college.listOfTeachers.add(new Teacher());
-                    }
-
-                    initializator.initializeClassmates(college.listOfClassmates,4);
+                    college.initializePlace(mainCharacter);
+                    initializator.initializeClassmates(college.listOfClassmates,4,mainCharacter.listOfFriends,mainCharacter.listOfBullies,college.numberOfClassmates);
                     mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,college.listOfTeachers);
                     studProgressor.progressClassmates(college.listOfClassmates,college.listOfTeachers);
                     checkIfEnd();

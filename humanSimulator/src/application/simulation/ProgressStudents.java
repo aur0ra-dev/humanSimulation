@@ -1,12 +1,12 @@
-package Application.Simulation;
+package application.simulation;
 
-import Application.Human.fromHuman.Classmate;
-import Application.Human.fromHuman.Teacher;
+import application.human.fromHuman.Classmate;
+import application.human.fromHuman.Teacher;
 
 import java.util.List;
 import java.util.Random;
 
-public class progressStudents {
+public class ProgressStudents {
 
     public void progressClassmates (List<Classmate> listToProgress, List<Teacher> teachingTeachers) {
 
