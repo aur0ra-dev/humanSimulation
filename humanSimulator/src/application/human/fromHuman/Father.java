@@ -7,10 +7,10 @@ public class Father extends Human {
 
     Random random = new Random();
 
-    public int charisma = random.nextInt(150)+40;
-    public int intelligence = random.nextInt(150)+40;
-    public int wisdom = random.nextInt(150)+40;
-    public int strength = random.nextInt(150)+40;
+    public int charisma = random.nextInt(250)+150;
+    public int intelligence = random.nextInt(250)+150;
+    public int wisdom = random.nextInt(1500)+1000;
+    public int strength = random.nextInt(250)+150;
     public int earnings =  (random.nextInt(15)+random.nextInt(15))*2000;
 
 

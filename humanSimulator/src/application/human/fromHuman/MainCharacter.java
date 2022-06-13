@@ -6,10 +6,11 @@ import java.util.List;
 
 public class MainCharacter extends Human {
 
-    public int numberOfChildren = 0;
     public boolean haveAPartner = false;
+    public Human partner = new Human();
     public List<Classmate> listOfFriends = new ArrayList<>();
     public List<Classmate> listOfBullies = new ArrayList<>();
+    public List<Human> listofChildren = new ArrayList<>();
     public int bonusesToEarnings = 0;
     public int healthEvent=1;
     public Father father = new Father();
@@ -48,10 +49,10 @@ public class MainCharacter extends Human {
     public void gatherFromParents () {
 
         if(age<17) {
-            int avgCharisma = ((father.charisma + mother.charisma) / 2) / 20;
-            int avgIntelligence = ((father.intelligence + mother.intelligence) / 2) / 20;
-            int avgWisdom = mother.wisdom / 20;
-            int avgStrength = father.strength / 20;
+            int avgCharisma = ((father.charisma + mother.charisma) / 2) / 75;
+            int avgIntelligence = ((father.intelligence + mother.intelligence) / 2) / 75;
+            int avgWisdom = mother.wisdom / 100;
+            int avgStrength = father.strength / 100;
 
             charisma += avgCharisma;
             intelligence += avgIntelligence;
@@ -74,25 +75,42 @@ public class MainCharacter extends Human {
         }
 
         if(mentalHealth>70) {
-            charisma += random.nextInt(11)+1;
-            intelligence += random.nextInt(11)+1;
-            wisdom += random.nextInt(11)+1;
-            strength += random.nextInt(11)+1;
+            charisma += random.nextInt(5) + (charisma*3)/100;
+            intelligence += random.nextInt(5) + (intelligence*3)/100;
+            wisdom += random.nextInt(5) + (wisdom*3)/100;
+            strength += random.nextInt(5) + (strength*3)/100;
 
         } else if (mentalHealth<=70 && mentalHealth > 45) {
-            charisma += random.nextInt(6)+1;
-            intelligence += random.nextInt(6)+1;
-            wisdom += random.nextInt(6)+1;
-            strength += random.nextInt(6)+1;
+            charisma += random.nextInt(5) + (charisma*2)/100;
+            intelligence += random.nextInt(5) + (intelligence*2)/100;
+            wisdom += random.nextInt(5) + (wisdom*2)/100;
+            strength += random.nextInt(5) + (strength*2)/100;
         } else if (mentalHealth<11) {
+
+            charisma += random.nextInt(5);
+            intelligence += random.nextInt(5);
+            wisdom += random.nextInt(5);
+            strength += random.nextInt(5);
 
             if(mentalHealth<1)
                 mentalHealth=0;
             else
                 healthEvent=random.nextInt(mentalHealth);
+        } else {
+            charisma += random.nextInt(5) + (charisma)/100;
+            intelligence += random.nextInt(5) + (intelligence)/100;
+            wisdom += random.nextInt(5) + (wisdom)/100;
+            strength += random.nextInt(5) + (strength)/100;
         }
 
 
+    }
+    public void seekLove () {
+        if(haveAPartner == false && (charisma/10 + random.nextInt(70)>90)) {
+            haveAPartner=true;
+        } else if(haveAPartner == true && (random.nextInt(100)>85)) {
+            listofChildren.add(new Human());
+        }
     }
 
 
