@@ -87,7 +87,7 @@ public class Simulation {
                     checkIfEnd();
                 }
                 case 21 -> {
-                    college.apprenticeships(mainCharacter);
+                    mainCharacter= college.apprenticeships(mainCharacter);
                     progressMainCharacter.progressMain(mainCharacter, mainCharacter.listOfFriends, mainCharacter.listOfBullies, college.listOfTeachers);
                     progressStudents.progressClassmates(college.listOfClassmates, college.listOfTeachers);
                     checkIfEnd();
@@ -95,7 +95,7 @@ public class Simulation {
                 case 22 -> {
                     progressMainCharacter.progressMain(mainCharacter, mainCharacter.listOfFriends, mainCharacter.listOfBullies, college.listOfTeachers);
                     progressStudents.progressClassmates(college.listOfClassmates, college.listOfTeachers);
-                    college.thesisDefense(mainCharacter);
+                    mainCharacter=college.thesisDefense(mainCharacter);
                     checkIfEnd();
                 }
                 case 23 -> {

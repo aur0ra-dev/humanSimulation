@@ -10,16 +10,13 @@ public class Classmate extends Human {
     public boolean isBully=false;
 
 
-
-
-
     public void beFriend(){
         if(random.nextInt(100)+1>90) {
             isFriend=true;
         }
     }
     public void beBully(){
-        if((random.nextInt(100)+1>95) && isFriend==false && age<18) {
+        if((random.nextInt(100)+1>95) && !isFriend && age<18) {
             isBully=true;
         }
     }

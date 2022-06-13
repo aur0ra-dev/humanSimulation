@@ -28,9 +28,7 @@ public class HighSchool {
         if(extended_score > 100)
             extended_score = 100;
 
-        int examPoints = extended_score/7+basic_score/3;
-
-        return examPoints;
+        return extended_score/7+basic_score/3;
     }
 
     public void initializePlace (MainCharacter mainCharacter) {

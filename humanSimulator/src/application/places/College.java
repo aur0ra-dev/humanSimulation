@@ -14,7 +14,7 @@ public class College {
 
     public int numberOfClassmates = 60 + random.nextInt(140);
     public List <Classmate> listOfClassmates = new ArrayList<>();
-    public List<Teacher> listOfTeachers = new ArrayList<application.human.fromHuman.Teacher>();
+    public List<Teacher> listOfTeachers = new ArrayList<>();
     public int levelOfEducation;
     public int wealthOfPlace;
     public int prestigeOfPlace;
@@ -24,7 +24,7 @@ public class College {
 
         return mainCharacter;
     }
-    public int Session(MainCharacter mainCharacter){
+    public int session(MainCharacter mainCharacter){
         if(((mainCharacter.intelligence+mainCharacter.wisdom)/15+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/3 + random.nextInt(101))<50) {
             return 0;
         }
@@ -32,13 +32,11 @@ public class College {
             return 1;
 
     }
-    public int thesisDefense(MainCharacter mainCharacter){
-        if(((mainCharacter.intelligence+mainCharacter.wisdom)/20+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/4 + random.nextInt(101))>50) {
+    public MainCharacter thesisDefense (MainCharacter mainCharacter){
+        if (((mainCharacter.intelligence+mainCharacter.wisdom)/20+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/4 + random.nextInt(101))>50) {
             mainCharacter.bonusesToEarnings+=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*350;
-            return 1;
-        } else {
-            return 0;
         }
+        return mainCharacter;
     }
 
     public void initializePlace (MainCharacter mainCharacter) {

@@ -12,7 +12,6 @@ public class MainCharacter extends Human {
     public List<Classmate> listOfBullies = new ArrayList<>();
     public int numberOfFriends = listOfFriends.size();
     public int numberOfBullies= listOfBullies.size();
-    public int health = random.nextInt(80)+21;
     public int bonusesToEarnings = 0;
     public int healthEvent;
 

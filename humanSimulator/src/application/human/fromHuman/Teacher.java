@@ -4,9 +4,6 @@ import application.human.Human;
 
 public class Teacher extends Human {
 
-
-
-
     public int abilityToTeach = random.nextInt(90)+11;
     public int yearsOfExperience = 0;
 
