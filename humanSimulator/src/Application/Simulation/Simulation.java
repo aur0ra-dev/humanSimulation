@@ -4,6 +4,7 @@ import Application.Human.fromHuman.Classmate;
 import Application.Human.fromHuman.MainCharacter;
 import Application.Human.fromHuman.Teacher;
 import Application.Places.*;
+import java.util.List;
 
 import java.util.Random;
 
@@ -17,6 +18,10 @@ public class Simulation {
     highSchool highschool = new highSchool();
     College college = new College();
     Workplace workplace = new Workplace();
+
+    initializingStudents initializator = new initializingStudents();
+    progressStudents studProgressor = new progressStudents();
+    progressMainCharacter mainProgressor = new progressMainCharacter();
 
 
 
@@ -156,6 +161,7 @@ public class Simulation {
 
 
 
+
         for(int i = 0; i < duration; i++){
             switch(mainCharacter.age) {
                 case 1:
@@ -169,39 +175,27 @@ public class Simulation {
                     for(int j = 0; j <= 15 + random.nextInt(11); j++){
                         kindergarten.listOfClassmates.add(new Classmate());
                         kindergarten.listOfClassmates.get(j).age=3;
-                        kindergarten.listOfClassmates.get(j).gender = random.nextInt(1)+1;
-                        kindergarten.listOfClassmates.get(j).charisma = random.nextInt(60)+40;
-                        kindergarten.listOfClassmates.get(j).strength = random.nextInt(60)+40;
-                        kindergarten.listOfClassmates.get(j).intelligence = random.nextInt(60)+40;
-                        kindergarten.listOfClassmates.get(j).wisdom = random.nextInt(60)+40;
                         kindergarten.listOfClassmates.get(j).beFriend();
                         kindergarten.listOfClassmates.get(j).beBully();
-                        kindergarten.listOfClassmates.get(j).wisdom+=kindergarten.listOfTeachers.get(0).shareWisdom();
-
                         if(kindergarten.listOfClassmates.get(j).isFriend)
-                            mainCharacter.listOfFriends.add(kindergarten.listOfClassmates.get(i));
+                            mainCharacter.listOfFriends.add(kindergarten.listOfClassmates.get(j));
                         else if(kindergarten.listOfClassmates.get(j).isBully)
-                            mainCharacter.listOfBullies.add(kindergarten.listOfClassmates.get(i));
+                            mainCharacter.listOfBullies.add(kindergarten.listOfClassmates.get(j));
                     }
-
-
-                    mainCharacter.gatherFromParents();
-                    mainCharacter.gatherFromFriends();
-                    mainCharacter.Reflections();
-                    mainCharacter.wisdom+=kindergarten.listOfTeachers.get(0).shareWisdom();
-
+                    initializator.initializeClassmates(kindergarten.listOfClassmates,1);
+                    mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,kindergarten.listOfTeachers);
+                    studProgressor.progressClassmates(kindergarten.listOfClassmates,kindergarten.listOfTeachers);
                     checkIfEnd();
                     break;
                 case 4:
                     mainCharacter.gatherFromParents();
-                    mainCharacter.gatherFromFriends();
-                    mainCharacter.Reflections();
+                    mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,kindergarten.listOfTeachers);
+                    studProgressor.progressClassmates(kindergarten.listOfClassmates,kindergarten.listOfTeachers);
                     checkIfEnd();
                     break;
                 case 5:
-                    mainCharacter.gatherFromParents();
-                    mainCharacter.gatherFromFriends();
-                    mainCharacter.Reflections();
+                    mainProgressor.progressMain(mainCharacter,mainCharacter.listOfFriends,mainCharacter.listOfBullies,kindergarten.listOfTeachers);
+                    studProgressor.progressClassmates(kindergarten.listOfClassmates,kindergarten.listOfTeachers);
                     checkIfEnd();
                     break;
                 case 6:
