@@ -20,6 +20,7 @@ public class Human {
     public int finalExamResults;
 
     public void showFutures(Human humanArg){
+        System.out.println("###############################");
         System.out.println("Name: " + humanArg.name);
         System.out.println("surname: " + humanArg.surname);
         System.out.println("age: " + humanArg.age);
@@ -29,7 +30,8 @@ public class Human {
         System.out.println("intelligence: " + humanArg.intelligence);
         System.out.println("wisdom: " + humanArg.wisdom);
         System.out.println("mentalHealth: " + humanArg.mentalHealth);
-        System.out.println("earning: " + humanArg.earnings);
+        System.out.println("earnings: " + humanArg.earnings);
+        System.out.println("###############################");
     }
 
 

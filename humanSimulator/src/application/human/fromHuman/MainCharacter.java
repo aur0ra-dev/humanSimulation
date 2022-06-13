@@ -10,13 +10,11 @@ public class MainCharacter extends Human {
     public boolean haveAPartner = false;
     public List<Classmate> listOfFriends = new ArrayList<>();
     public List<Classmate> listOfBullies = new ArrayList<>();
-    public int numberOfFriends = listOfFriends.size();
-    public int numberOfBullies= listOfBullies.size();
     public int bonusesToEarnings = 0;
-    public int healthEvent;
-
+    public int healthEvent=1;
     public Father father = new Father();
     public Mother mother = new Mother();
+    public String education = "none";
 
 
     public void gatherFromFriends () {
@@ -26,17 +24,17 @@ public class MainCharacter extends Human {
         int avgWisdom = 0;
         int avgStrength = 0;
 
-        if(numberOfFriends>0) {
-            for(int i = 0;i < numberOfFriends;i++) {
-                avgCharisma += listOfFriends.get(i).charisma;
-                avgIntelligence += listOfFriends.get(i).intelligence;
-                avgWisdom += listOfFriends.get(i).wisdom;
-                avgStrength += listOfFriends.get(i).strength;
+        if(listOfFriends.size()>0) {
+            for (Classmate listOfFriend : listOfFriends) {
+                avgCharisma += listOfFriend.charisma;
+                avgIntelligence += listOfFriend.intelligence;
+                avgWisdom += listOfFriend.wisdom;
+                avgStrength += listOfFriend.strength;
             }
-            avgCharisma = (avgCharisma/numberOfFriends)/20;
-            avgIntelligence = (avgIntelligence/numberOfFriends)/20;
-            avgWisdom = (avgWisdom/numberOfFriends)/20;
-            avgStrength = (avgStrength/numberOfFriends)/20;
+            avgCharisma = (avgCharisma/listOfFriends.size())/20;
+            avgIntelligence = (avgIntelligence/listOfFriends.size())/20;
+            avgWisdom = (avgWisdom/listOfFriends.size())/20;
+            avgStrength = (avgStrength/listOfFriends.size())/20;
 
             charisma += avgCharisma;
             intelligence += avgIntelligence;
@@ -44,29 +42,29 @@ public class MainCharacter extends Human {
             strength += avgStrength;
         }
 
-        mentalHealth += random.nextInt(5*(numberOfFriends+1)) - random.nextInt(4*(numberOfBullies+1));
-
-
-
-
-
+        if(age<19 && age>2)
+            mentalHealth += random.nextInt(3 * (listOfFriends.size() + 1)) - random.nextInt(5 * (listOfBullies.size() + 1));
     }
     public void gatherFromParents () {
-        int avgCharisma = ((father.charisma+mother.charisma)/2)/20;
-        int avgIntelligence = ((father.intelligence+mother.intelligence)/2)/20;
-        int avgWisdom = mother.wisdom/20;
-        int avgStrength = father.strength/20;
 
-        charisma += avgCharisma;
-        intelligence += avgIntelligence;
-        wisdom += avgWisdom;
-        strength += avgStrength;
+        if(age<17) {
+            int avgCharisma = ((father.charisma + mother.charisma) / 2) / 20;
+            int avgIntelligence = ((father.intelligence + mother.intelligence) / 2) / 20;
+            int avgWisdom = mother.wisdom / 20;
+            int avgStrength = father.strength / 20;
 
-        mentalHealth += random.nextInt((father.attentionToChildren/10)+1) - random.nextInt(10);
-        mentalHealth += random.nextInt((mother.loveToChildren/10)+1) - random.nextInt(10);
+            charisma += avgCharisma;
+            intelligence += avgIntelligence;
+            wisdom += avgWisdom;
+            strength += avgStrength;
+
+            mentalHealth += random.nextInt((father.attentionToChildren / 15) + 1) - random.nextInt(3);
+            mentalHealth += random.nextInt((mother.loveToChildren / 15) + 1) - random.nextInt(3);
+        }
     }
     public void Reflections () {
 
+        mentalHealth += random.nextInt(6)-5;
 
 
         if(mentalHealth>100)
@@ -76,25 +74,22 @@ public class MainCharacter extends Human {
         }
 
         if(mentalHealth>70) {
-            charisma += charisma/ (random.nextInt(6)+1)+20;
-            intelligence += intelligence/(random.nextInt(6)+1)+20;
-            wisdom += wisdom/(random.nextInt(6)+1)+20;
-            strength += strength/(random.nextInt(6)+1)+20;
+            charisma += random.nextInt(11)+1;
+            intelligence += random.nextInt(11)+1;
+            wisdom += random.nextInt(11)+1;
+            strength += random.nextInt(11)+1;
 
         } else if (mentalHealth<=70 && mentalHealth > 45) {
-            charisma += charisma/ (random.nextInt(11)+1)+20;
-            intelligence += intelligence/(random.nextInt(11)+1)+20;
-            wisdom += wisdom/(random.nextInt(11)+1)+20;
-            strength += strength/(random.nextInt(11)+1)+20;
+            charisma += random.nextInt(6)+1;
+            intelligence += random.nextInt(6)+1;
+            wisdom += random.nextInt(6)+1;
+            strength += random.nextInt(6)+1;
         } else if (mentalHealth<11) {
 
             if(mentalHealth<1)
-                mentalHealth=1;
-            healthEvent=random.nextInt(mentalHealth);
-            if (healthEvent == 0) {
-                //suicide
-            }
-
+                mentalHealth=0;
+            else
+                healthEvent=random.nextInt(mentalHealth);
         }
 
 

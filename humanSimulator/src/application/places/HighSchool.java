@@ -20,15 +20,15 @@ public class HighSchool {
     public int prestigeOfPlace;
 
     public int schoolLeavingExam(int intelligence, int wisdom){
-        int basic_score = (intelligence+wisdom)/10 + (levelOfEducation+wealthOfPlace+prestigeOfPlace)/2 + random.nextInt(101);
+        int basic_score = intelligence/10 + wisdom/80 + (levelOfEducation+wealthOfPlace+prestigeOfPlace)/5 + random.nextInt(101);
         if(basic_score > 100)
             basic_score = 100;
 
-        int extended_score = (intelligence+wisdom)/15+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/3 + random.nextInt(101);
+        int extended_score = intelligence/15 + wisdom/100 +(levelOfEducation+wealthOfPlace+prestigeOfPlace)/8 + random.nextInt(101);
         if(extended_score > 100)
             extended_score = 100;
 
-        return extended_score/7+basic_score/3;
+        return (extended_score*7+basic_score*3)/10;
     }
 
     public void initializePlace (MainCharacter mainCharacter) {

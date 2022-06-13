@@ -35,14 +35,16 @@ public class College {
     public MainCharacter thesisDefense (MainCharacter mainCharacter){
         if (((mainCharacter.intelligence+mainCharacter.wisdom)/20+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/4 + random.nextInt(101))>50) {
             mainCharacter.bonusesToEarnings+=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*350;
+            mainCharacter.education = "higher";
+            System.out.println("good, your character finished college");
         }
         return mainCharacter;
     }
 
     public void initializePlace (MainCharacter mainCharacter) {
-        prestigeOfPlace=(mainCharacter.father.intelligence+mainCharacter.mother.intelligence)/130+mainCharacter.intelligence/60;
-        levelOfEducation=(mainCharacter.father.wisdom+mainCharacter.mother.wisdom)/350+mainCharacter.wisdom/150;
-        wealthOfPlace=(mainCharacter.father.earnings+mainCharacter.mother.earnings)/4000;
+        prestigeOfPlace = mainCharacter.finalExamResults/3;
+        levelOfEducation = mainCharacter.finalExamResults/3;
+        wealthOfPlace = (mainCharacter.father.earnings+mainCharacter.mother.earnings)/4000;
         for(int v = 0; v < 15 ;v++){
             listOfTeachers.add(new Teacher());
         }

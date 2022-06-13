@@ -5,5 +5,5 @@ import application.human.Human;
 
 public class Worker extends Human {
 
-    public int productivity = random.nextInt(81)+20;
+    public int productivity = random.nextInt(81) + 20;
 }

@@ -2,6 +2,7 @@ package application.simulation;
 
 import application.human.fromHuman.Classmate;
 import application.human.fromHuman.Teacher;
+import application.places.HighSchool;
 
 import java.util.List;
 import java.util.Random;
@@ -12,18 +13,28 @@ public class ProgressStudents {
 
         Random random = new Random();
 
-        for(int i=0;i<listToProgress.size();i++) {
+        for (Classmate toProgress : listToProgress) {
 
-            listToProgress.get(i).age++;
-            listToProgress.get(i).charisma += random.nextInt(10)+1;
-            listToProgress.get(i).strength += random.nextInt(10)+1;
-            listToProgress.get(i).intelligence += random.nextInt(10+1);
-            listToProgress.get(i).wisdom +=random.nextInt(35)+1;
+            toProgress.age++;
+            toProgress.charisma += random.nextInt(10) + 1;
+            toProgress.strength += random.nextInt(10) + 1;
+            toProgress.intelligence += random.nextInt(10 + 1);
+            toProgress.wisdom += random.nextInt(35) + 1;
 
-            for(int j = 0;j<teachingTeachers.size();j++) {
-                listToProgress.get(i).wisdom+=teachingTeachers.get(j).shareWisdom();
+            for (Teacher teachingTeacher : teachingTeachers) {
+                toProgress.wisdom += teachingTeacher.shareWisdom();
             }
         }
+    }
+
+    public int examinateClassmates (List<Classmate> listToExaminate, HighSchool highSchool) {
+        int averageScore=0;
+        for (Classmate classmate : listToExaminate) {
+            classmate.finalExamResults = highSchool.schoolLeavingExam(classmate.intelligence, classmate.wisdom);
+            averageScore+=classmate.finalExamResults;
+        }
+        return averageScore/(listToExaminate.size()+1);
+
     }
 
 }
