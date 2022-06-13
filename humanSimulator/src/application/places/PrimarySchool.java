@@ -16,6 +16,7 @@ public class PrimarySchool {
     public int levelOfEducation;
     public int wealthOfPlace;
     public int prestigeOfPlace;
+
     public MainCharacter sendKidToContest(MainCharacter mainCharacter){
 
         mainCharacter.bonusesToEarnings+=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*100;

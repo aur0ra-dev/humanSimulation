@@ -1,6 +1,8 @@
 package application.places;
 
 import application.human.Human;
+import application.human.fromHuman.MainCharacter;
+import application.human.fromHuman.Teacher;
 import application.human.fromHuman.Worker;
 import java.util.Random;
 import java.util.ArrayList;
@@ -13,6 +15,8 @@ public class Workplace {
     public int scallingOfEarnings;
     public int startingEarnings;
     public List<Worker> listOfCoWorkers = new ArrayList<>();
+
+
     public void doWork(){
 
         int avgProductivity=0;
@@ -21,5 +25,9 @@ public class Workplace {
         }
         avgProductivity=avgProductivity/listOfCoWorkers.size() + random.nextInt(25);
         scallingOfEarnings+=avgProductivity*random.nextInt(15);
+    }
+
+    public void initializePlace (MainCharacter mainCharacter) {
+
     }
 }

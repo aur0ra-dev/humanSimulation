@@ -14,6 +14,7 @@ public class MainCharacter extends Human {
     public int numberOfBullies= listOfBullies.size();
     public int health = random.nextInt(80)+21;
     public int bonusesToEarnings = 0;
+    public int healthEvent;
 
     public Father father = new Father();
     public Mother mother = new Mother();
@@ -27,7 +28,7 @@ public class MainCharacter extends Human {
         int avgStrength = 0;
 
         if(numberOfFriends>0) {
-            for(int i = 0;i <= numberOfFriends;i++) {
+            for(int i = 0;i < numberOfFriends;i++) {
                 avgCharisma += listOfFriends.get(i).charisma;
                 avgIntelligence += listOfFriends.get(i).intelligence;
                 avgWisdom += listOfFriends.get(i).wisdom;
@@ -39,9 +40,9 @@ public class MainCharacter extends Human {
             avgStrength = (avgStrength/numberOfFriends)/20;
 
             charisma += avgCharisma;
-            intelligence += avgCharisma;
-            wisdom += avgCharisma;
-            strength += avgCharisma;
+            intelligence += avgIntelligence;
+            wisdom += avgWisdom;
+            strength += avgStrength;
         }
 
         mentalHealth += random.nextInt(5*(numberOfFriends+1)) - random.nextInt(4*(numberOfBullies+1));
@@ -67,7 +68,7 @@ public class MainCharacter extends Human {
     }
     public void Reflections () {
 
-        int healthEvent;
+
 
         if(mentalHealth>100)
             mentalHealth = 100;

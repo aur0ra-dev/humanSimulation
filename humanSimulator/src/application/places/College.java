@@ -19,7 +19,7 @@ public class College {
     public int wealthOfPlace;
     public int prestigeOfPlace;
 
-    public MainCharacter Apprenticeships(MainCharacter mainCharacter){
+    public MainCharacter apprenticeships(MainCharacter mainCharacter){
         mainCharacter.bonusesToEarnings+=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*200;
 
         return mainCharacter;
