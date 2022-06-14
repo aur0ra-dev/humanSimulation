@@ -1,0 +1,942 @@
+Files in Java might be tricky, but it is fun enough! 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ 1, dupa
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, 	, test
+ Testownik, test, 
+, test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ Testownik, test, , test
+ TEstowanie, Miernictwo123, 1, Miernictwo123
+ TEstowanie, Miernictwo123, 3, Miernictwo123
+ TEstowanie, Miernictwo123, 4, Miernictwo123
+ TEstowanie, Miernictwo123, 5, Miernictwo123
+ TEstowanie, Miernictwo123, 6, Miernictwo123
+ TEstowanie, Miernictwo123, 7, Miernictwo123
+ TEstowanie, Miernictwo123, 8, Miernictwo123
+ TEstowanie, Miernictwo123, 9, Miernictwo123
+ TEstowanie, Miernictwo123, 10, Miernictwo123
+ TEstowanie, Miernictwo123, 11, Miernictwo123
+ TEstowanie, Miernictwo123, 12, Miernictwo123
+ TEstowanie, Miernictwo123, 13, Miernictwo123
+ TEstowanie, Miernictwo123, 14, Miernictwo123
+ TEstowanie, Miernictwo123, 15, Miernictwo123
+ TEstowanie, Miernictwo123, 16, Miernictwo123
+ TEstowanie, Miernictwo123, 17, Miernictwo123
+ TEstowanie, Miernictwo123, 19, Miernictwo123
+ TEstowanie, Miernictwo123, 20, Miernictwo123
+ TEstowanie, Miernictwo123, 21, Miernictwo123
+ TEstowanie, Miernictwo123, 22, Miernictwo123
+ TEstowanie, Miernictwo123, 23, Miernictwo123
+ TEstowanie, Miernictwo123, 24, Miernictwo123
+ TEstowanie, Miernictwo123, 25, Miernictwo123
+ TEstowanie, Miernictwo123, 26, Miernictwo123
+ TEstowanie, Miernictwo123, 27, Miernictwo123
+ TEstowanie, Miernictwo123, 28, Miernictwo123
+ TEstowanie, Miernictwo123, 29, Miernictwo123
+ TEstowanie, Miernictwo123, 30, Miernictwo123
+ Kuba Starościak, TEst, age: 1, intelligence: 100, gender: 1, wisdom: 100, charisma: 100, strenght: 100, mentalHealth: 70, earnings: 0, education: none
+ Kuba Starościak, TEst, age: 3, intelligence: 115, gender: 1, wisdom: 132, charisma: 116, strenght: 110, mentalHealth: 96, earnings: 0, education: none
+ Kuba Starościak, TEst, age: 4, intelligence: 121, gender: 1, wisdom: 158, charisma: 124, strenght: 119, mentalHealth: 131, earnings: 0, education: none
+ Kuba Starościak, TEst, age: 5, intelligence: 131, gender: 1, wisdom: 189, charisma: 133, strenght: 128, mentalHealth: 120, earnings: 0, education: none
+ Kuba Starościak, TEst, age: 6, intelligence: 138, gender: 1, wisdom: 224, charisma: 144, strenght: 137, mentalHealth: 100, earnings: 0, education: none
+ Kuba Starościak, TEst, age: 7, intelligence: 152, gender: 1, wisdom: 317, charisma: 159, strenght: 152, mentalHealth: 96, earnings: 0, education: none
+ Kuba Starościak, TEst, age: 8, intelligence: 166, gender: 1, wisdom: 416, charisma: 173, strenght: 165, mentalHealth: 98, earnings: 0, education: none
+ Kuba Starościak, TEst, age: 9, intelligence: 181, gender: 1, wisdom: 505, charisma: 190, strenght: 180, mentalHealth: 100, earnings: 0, education: none
+ Kuba Starościak, TEst, age: 10, intelligence: 196, gender: 1, wisdom: 649, charisma: 205, strenght: 196, mentalHealth: 98, earnings: 0, education: none
+ Kuba Starościak, TEst, age: 11, intelligence: 215, gender: 1, wisdom: 770, charisma: 225, strenght: 214, mentalHealth: 100, earnings: 0, education: none
+ Kuba Starościak, TEst, age: 12, intelligence: 234, gender: 1, wisdom: 900, charisma: 244, strenght: 237, mentalHealth: 96, earnings: 0, education: none
+ Kuba Starościak, TEst, age: 13, intelligence: 252, gender: 1, wisdom: 1040, charisma: 260, strenght: 257, mentalHealth: 94, earnings: 0, education: none
+ Kuba Starościak, TEst, age: 14, intelligence: 270, gender: 1, wisdom: 1196, charisma: 275, strenght: 278, mentalHealth: 87, earnings: 0, education: basic
+ Kuba Starościak, TEst, age: 15, intelligence: 291, gender: 1, wisdom: 1426, charisma: 292, strenght: 299, mentalHealth: 86, earnings: 0, education: basic
+ Kuba Starościak, TEst, age: 16, intelligence: 309, gender: 1, wisdom: 1697, charisma: 312, strenght: 322, mentalHealth: 79, earnings: 0, education: basic
+ Kuba Starościak, TEst, age: 17, intelligence: 329, gender: 1, wisdom: 1983, charisma: 333, strenght: 345, mentalHealth: 76, earnings: 0, education: basic
+ Kuba Starościak, TEst, age: 18, intelligence: 345, gender: 1, wisdom: 2282, charisma: 348, strenght: 367, mentalHealth: 69, earnings: 0, education: secondary
+ Kuba Starościak, TEst, age: 19, intelligence: 368, gender: 1, wisdom: 2611, charisma: 371, strenght: 393, mentalHealth: 76, earnings: 0, education: secondary
+ Kuba Starościak, TEst, age: 20, intelligence: 383, gender: 1, wisdom: 2873, charisma: 383, strenght: 405, mentalHealth: 74, earnings: 0, education: secondary
+ Kuba Starościak, TEst, age: 21, intelligence: 397, gender: 1, wisdom: 3135, charisma: 395, strenght: 419, mentalHealth: 71, earnings: 0, education: secondary
+ Kuba Starościak, TEst, age: 22, intelligence: 408, gender: 1, wisdom: 3452, charisma: 403, strenght: 430, mentalHealth: 67, earnings: 0, education: secondary
+ Kuba Starościak, TEst, age: 24, intelligence: 420, gender: 1, wisdom: 3732, charisma: 415, strenght: 439, mentalHealth: 62, earnings: 16540, education: higher
+ Kuba Starościak, TEst, age: 25, intelligence: 420, gender: 1, wisdom: 3732, charisma: 415, strenght: 439, mentalHealth: 62, earnings: 18534, education: higher
+ Kuba Starościak, TEst, age: 26, intelligence: 420, gender: 1, wisdom: 3732, charisma: 415, strenght: 439, mentalHealth: 62, earnings: 20529, education: higher
+ Kuba Starościak, TEst, age: 27, intelligence: 420, gender: 1, wisdom: 3732, charisma: 415, strenght: 439, mentalHealth: 62, earnings: 22526, education: higher
+ Kuba Starościak, TEst, age: 28, intelligence: 420, gender: 1, wisdom: 3732, charisma: 415, strenght: 439, mentalHealth: 62, earnings: 24528, education: higher
+ Kuba Starościak, TEst, age: 29, intelligence: 420, gender: 1, wisdom: 3732, charisma: 415, strenght: 439, mentalHealth: 62, earnings: 26543, education: higher
+ Kuba Starościak, TEst, age: 30, intelligence: 420, gender: 1, wisdom: 3732, charisma: 415, strenght: 439, mentalHealth: 62, earnings: 28564, education: higher
+ Jakub, Ptaszkowski, age: 1, intelligence: 100, gender: 1, wisdom: 100, charisma: 100, strenght: 100, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 3, intelligence: 116, gender: 1, wisdom: 140, charisma: 116, strenght: 111, mentalHealth: 104, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 4, intelligence: 126, gender: 1, wisdom: 180, charisma: 127, strenght: 122, mentalHealth: 115, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 5, intelligence: 139, gender: 1, wisdom: 227, charisma: 142, strenght: 134, mentalHealth: 142, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 6, intelligence: 155, gender: 1, wisdom: 281, charisma: 157, strenght: 145, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 7, intelligence: 169, gender: 1, wisdom: 380, charisma: 173, strenght: 158, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 8, intelligence: 185, gender: 1, wisdom: 478, charisma: 190, strenght: 170, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 9, intelligence: 200, gender: 1, wisdom: 581, charisma: 208, strenght: 184, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 10, intelligence: 219, gender: 1, wisdom: 674, charisma: 227, strenght: 197, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 11, intelligence: 235, gender: 1, wisdom: 780, charisma: 245, strenght: 215, mentalHealth: 97, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 12, intelligence: 253, gender: 1, wisdom: 897, charisma: 263, strenght: 230, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 13, intelligence: 267, gender: 1, wisdom: 1031, charisma: 280, strenght: 245, mentalHealth: 97, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 14, intelligence: 284, gender: 1, wisdom: 1162, charisma: 297, strenght: 259, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 15, intelligence: 302, gender: 1, wisdom: 1387, charisma: 314, strenght: 278, mentalHealth: 87, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 16, intelligence: 318, gender: 1, wisdom: 1624, charisma: 332, strenght: 296, mentalHealth: 67, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 17, intelligence: 335, gender: 1, wisdom: 1885, charisma: 347, strenght: 311, mentalHealth: 66, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 18, intelligence: 354, gender: 1, wisdom: 2134, charisma: 368, strenght: 330, mentalHealth: 76, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ Jakub, Ptaszkowski, age: 19, intelligence: 380, gender: 1, wisdom: 2489, charisma: 391, strenght: 354, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ Jakub, Ptaszkowski, age: 20, intelligence: 391, gender: 1, wisdom: 2745, charisma: 406, strenght: 367, mentalHealth: 98, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ Jakub, Ptaszkowski, age: 21, intelligence: 402, gender: 1, wisdom: 3042, charisma: 419, strenght: 378, mentalHealth: 95, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ Jakub, Ptaszkowski, age: 22, intelligence: 414, gender: 1, wisdom: 3332, charisma: 431, strenght: 390, mentalHealth: 95, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ Jakub, Ptaszkowski, age: 24, intelligence: 428, gender: 1, wisdom: 3617, charisma: 443, strenght: 401, mentalHealth: 94, earnings: 96689, education: higher, having a Partner: true, FinalExam result: 79
+ Jakub, Ptaszkowski, age: 25, intelligence: 428, gender: 1, wisdom: 3617, charisma: 443, strenght: 401, mentalHealth: 94, earnings: 99012, education: higher, having a Partner: true, FinalExam result: 79
+ Jakub, Ptaszkowski, age: 26, intelligence: 428, gender: 1, wisdom: 3617, charisma: 443, strenght: 401, mentalHealth: 94, earnings: 101335, education: higher, having a Partner: true, FinalExam result: 79
+ Jakub, Ptaszkowski, age: 27, intelligence: 428, gender: 1, wisdom: 3617, charisma: 443, strenght: 401, mentalHealth: 94, earnings: 103664, education: higher, having a Partner: true, FinalExam result: 79
+ Jakub, Ptaszkowski, age: 28, intelligence: 428, gender: 1, wisdom: 3617, charisma: 443, strenght: 401, mentalHealth: 94, earnings: 106006, education: higher, having a Partner: true, FinalExam result: 79
+ Jakub, Ptaszkowski, age: 29, intelligence: 428, gender: 1, wisdom: 3617, charisma: 443, strenght: 401, mentalHealth: 94, earnings: 108367, education: higher, having a Partner: true, FinalExam result: 79
+ Jakub, Ptaszkowski, age: 30, intelligence: 428, gender: 1, wisdom: 3617, charisma: 443, strenght: 401, mentalHealth: 94, earnings: 110737, education: higher, having a Partner: true, FinalExam result: 79
+ 321, 321, age: 1, intelligence: 40, gender: 2, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 3, intelligence: 57, gender: 2, wisdom: 64, charisma: 49, strenght: 50, mentalHealth: 123, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 4, intelligence: 64, gender: 2, wisdom: 88, charisma: 56, strenght: 57, mentalHealth: 120, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 5, intelligence: 73, gender: 2, wisdom: 111, charisma: 61, strenght: 62, mentalHealth: 139, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 6, intelligence: 80, gender: 2, wisdom: 137, charisma: 67, strenght: 68, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 7, intelligence: 89, gender: 2, wisdom: 181, charisma: 76, strenght: 76, mentalHealth: 97, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 8, intelligence: 97, gender: 2, wisdom: 233, charisma: 85, strenght: 83, mentalHealth: 92, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 9, intelligence: 107, gender: 2, wisdom: 292, charisma: 93, strenght: 90, mentalHealth: 87, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 10, intelligence: 115, gender: 2, wisdom: 354, charisma: 102, strenght: 98, mentalHealth: 78, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 11, intelligence: 125, gender: 2, wisdom: 398, charisma: 111, strenght: 107, mentalHealth: 77, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 12, intelligence: 135, gender: 2, wisdom: 449, charisma: 121, strenght: 115, mentalHealth: 73, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 13, intelligence: 136, gender: 2, wisdom: 484, charisma: 123, strenght: 118, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 14, intelligence: 140, gender: 2, wisdom: 523, charisma: 126, strenght: 120, mentalHealth: 67, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 15, intelligence: 157, gender: 2, wisdom: 716, charisma: 141, strenght: 132, mentalHealth: 66, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 16, intelligence: 168, gender: 2, wisdom: 928, charisma: 156, strenght: 144, mentalHealth: 45, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 17, intelligence: 182, gender: 2, wisdom: 1184, charisma: 170, strenght: 162, mentalHealth: 49, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ 321, 321, age: 18, intelligence: 199, gender: 2, wisdom: 1405, charisma: 187, strenght: 181, mentalHealth: 47, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 76
+ 321, 321, age: 19, intelligence: 214, gender: 2, wisdom: 1682, charisma: 203, strenght: 194, mentalHealth: 42, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 76
+ 321, 321, age: 20, intelligence: 219, gender: 2, wisdom: 1900, charisma: 206, strenght: 197, mentalHealth: 41, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 76
+ 321, 321, age: 21, intelligence: 221, gender: 2, wisdom: 2154, charisma: 209, strenght: 198, mentalHealth: 36, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 76
+ 321, 321, age: 22, intelligence: 226, gender: 2, wisdom: 2400, charisma: 215, strenght: 202, mentalHealth: 31, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 76
+ 321, 321, age: 24, intelligence: 229, gender: 2, wisdom: 2610, charisma: 219, strenght: 206, mentalHealth: 26, earnings: 41035, education: higher, having a Partner: false, FinalExam result: 76
+ 321, 321, age: 25, intelligence: 229, gender: 2, wisdom: 2610, charisma: 219, strenght: 206, mentalHealth: 26, earnings: 42721, education: higher, having a Partner: false, FinalExam result: 76
+ 321, 321, age: 26, intelligence: 229, gender: 2, wisdom: 2610, charisma: 219, strenght: 206, mentalHealth: 26, earnings: 44419, education: higher, having a Partner: false, FinalExam result: 76
+ 321, 321, age: 27, intelligence: 229, gender: 2, wisdom: 2610, charisma: 219, strenght: 206, mentalHealth: 26, earnings: 46129, education: higher, having a Partner: false, FinalExam result: 76
+ 321, 321, age: 28, intelligence: 229, gender: 2, wisdom: 2610, charisma: 219, strenght: 206, mentalHealth: 26, earnings: 47855, education: higher, having a Partner: false, FinalExam result: 76
+ 321, 321, age: 29, intelligence: 229, gender: 2, wisdom: 2610, charisma: 219, strenght: 206, mentalHealth: 26, earnings: 49593, education: higher, having a Partner: false, FinalExam result: 76
+ 321, 321, age: 30, intelligence: 229, gender: 2, wisdom: 2610, charisma: 219, strenght: 206, mentalHealth: 26, earnings: 51339, education: higher, having a Partner: false, FinalExam result: 76
+ 1, 1, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 3, intelligence: 47, gender: 1, wisdom: 82, charisma: 51, strenght: 54, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 4, intelligence: 56, gender: 1, wisdom: 118, charisma: 59, strenght: 62, mentalHealth: 142, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 5, intelligence: 64, gender: 1, wisdom: 172, charisma: 71, strenght: 73, mentalHealth: 111, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 6, intelligence: 72, gender: 1, wisdom: 226, charisma: 81, strenght: 85, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 7, intelligence: 84, gender: 1, wisdom: 312, charisma: 94, strenght: 99, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 8, intelligence: 98, gender: 1, wisdom: 414, charisma: 108, strenght: 114, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 9, intelligence: 109, gender: 1, wisdom: 523, charisma: 124, strenght: 131, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 10, intelligence: 121, gender: 1, wisdom: 649, charisma: 138, strenght: 147, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 11, intelligence: 134, gender: 1, wisdom: 791, charisma: 155, strenght: 163, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 12, intelligence: 151, gender: 1, wisdom: 940, charisma: 174, strenght: 182, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 13, intelligence: 165, gender: 1, wisdom: 1062, charisma: 189, strenght: 196, mentalHealth: 92, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 14, intelligence: 178, gender: 1, wisdom: 1188, charisma: 203, strenght: 212, mentalHealth: 93, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 15, intelligence: 192, gender: 1, wisdom: 1440, charisma: 219, strenght: 228, mentalHealth: 90, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 16, intelligence: 208, gender: 1, wisdom: 1690, charisma: 236, strenght: 247, mentalHealth: 97, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 17, intelligence: 227, gender: 1, wisdom: 1923, charisma: 255, strenght: 267, mentalHealth: 96, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 18, intelligence: 243, gender: 1, wisdom: 2174, charisma: 271, strenght: 286, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 68
+ 1, 1, age: 19, intelligence: 264, gender: 1, wisdom: 2536, charisma: 294, strenght: 306, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 68
+ 1, 1, age: 20, intelligence: 273, gender: 1, wisdom: 2847, charisma: 303, strenght: 316, mentalHealth: 99, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 68
+ 1, 1, age: 21, intelligence: 284, gender: 1, wisdom: 3154, charisma: 314, strenght: 325, mentalHealth: 94, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 68
+ 1, 1, age: 22, intelligence: 295, gender: 1, wisdom: 3453, charisma: 323, strenght: 335, mentalHealth: 89, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 68
+ 1, 1, age: 24, intelligence: 307, gender: 1, wisdom: 3752, charisma: 335, strenght: 349, mentalHealth: 86, earnings: 117212, education: higher, having a Partner: false, FinalExam result: 68
+ 1, 1, age: 25, intelligence: 307, gender: 1, wisdom: 3752, charisma: 335, strenght: 349, mentalHealth: 86, earnings: 119866, education: higher, having a Partner: false, FinalExam result: 68
+ 1, 1, age: 26, intelligence: 307, gender: 1, wisdom: 3752, charisma: 335, strenght: 349, mentalHealth: 86, earnings: 122537, education: higher, having a Partner: true, FinalExam result: 68
+ 1, 1, age: 27, intelligence: 307, gender: 1, wisdom: 3752, charisma: 335, strenght: 349, mentalHealth: 86, earnings: 125216, education: higher, having a Partner: true, FinalExam result: 68
+ 1, 1, age: 28, intelligence: 307, gender: 1, wisdom: 3752, charisma: 335, strenght: 349, mentalHealth: 86, earnings: 127903, education: higher, having a Partner: true, FinalExam result: 68
+ 1, 1, age: 29, intelligence: 307, gender: 1, wisdom: 3752, charisma: 335, strenght: 349, mentalHealth: 86, earnings: 130609, education: higher, having a Partner: true, FinalExam result: 68
+ 1, 1, age: 30, intelligence: 307, gender: 1, wisdom: 3752, charisma: 335, strenght: 349, mentalHealth: 86, earnings: 133323, education: higher, having a Partner: true, FinalExam result: 68
+ 1, 1, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 3, intelligence: 55, gender: 1, wisdom: 78, charisma: 49, strenght: 44, mentalHealth: 95, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 4, intelligence: 68, gender: 1, wisdom: 107, charisma: 59, strenght: 54, mentalHealth: 129, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 5, intelligence: 81, gender: 1, wisdom: 145, charisma: 70, strenght: 63, mentalHealth: 124, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 6, intelligence: 95, gender: 1, wisdom: 186, charisma: 85, strenght: 78, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 7, intelligence: 111, gender: 1, wisdom: 261, charisma: 99, strenght: 91, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 8, intelligence: 126, gender: 1, wisdom: 356, charisma: 114, strenght: 102, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 9, intelligence: 145, gender: 1, wisdom: 466, charisma: 129, strenght: 117, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 10, intelligence: 164, gender: 1, wisdom: 572, charisma: 146, strenght: 129, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 11, intelligence: 182, gender: 1, wisdom: 693, charisma: 164, strenght: 144, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 12, intelligence: 200, gender: 1, wisdom: 842, charisma: 184, strenght: 162, mentalHealth: 99, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 13, intelligence: 215, gender: 1, wisdom: 983, charisma: 198, strenght: 179, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 14, intelligence: 233, gender: 1, wisdom: 1122, charisma: 216, strenght: 196, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 15, intelligence: 251, gender: 1, wisdom: 1400, charisma: 232, strenght: 214, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 16, intelligence: 270, gender: 1, wisdom: 1669, charisma: 250, strenght: 231, mentalHealth: 99, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 17, intelligence: 289, gender: 1, wisdom: 1924, charisma: 269, strenght: 247, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ 1, 1, age: 18, intelligence: 308, gender: 1, wisdom: 2214, charisma: 285, strenght: 267, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 66
+ 1, 1, age: 19, intelligence: 329, gender: 1, wisdom: 2564, charisma: 308, strenght: 289, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 66
+ 1, 1, age: 20, intelligence: 338, gender: 1, wisdom: 2886, charisma: 321, strenght: 297, mentalHealth: 98, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 66
+ 1, 1, age: 21, intelligence: 348, gender: 1, wisdom: 3188, charisma: 332, strenght: 308, mentalHealth: 97, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 66
+ 1, 1, age: 22, intelligence: 362, gender: 1, wisdom: 3528, charisma: 343, strenght: 321, mentalHealth: 92, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 66
+ 1, 1, age: 24, intelligence: 376, gender: 1, wisdom: 3889, charisma: 355, strenght: 334, mentalHealth: 90, earnings: 44748, education: higher, having a Partner: false, FinalExam result: 66
+ 1, 1, age: 25, intelligence: 376, gender: 1, wisdom: 3889, charisma: 355, strenght: 334, mentalHealth: 90, earnings: 46827, education: higher, having a Partner: false, FinalExam result: 66
+ 1, 1, age: 26, intelligence: 376, gender: 1, wisdom: 3889, charisma: 355, strenght: 334, mentalHealth: 90, earnings: 48920, education: higher, having a Partner: false, FinalExam result: 66
+ 1, 1, age: 27, intelligence: 376, gender: 1, wisdom: 3889, charisma: 355, strenght: 334, mentalHealth: 90, earnings: 51033, education: higher, having a Partner: false, FinalExam result: 66
+ 1, 1, age: 28, intelligence: 376, gender: 1, wisdom: 3889, charisma: 355, strenght: 334, mentalHealth: 90, earnings: 53155, education: higher, having a Partner: true, FinalExam result: 66
+ 1, 1, age: 29, intelligence: 376, gender: 1, wisdom: 3889, charisma: 355, strenght: 334, mentalHealth: 90, earnings: 55289, education: higher, having a Partner: true, FinalExam result: 66
+ 1, 1, age: 30, intelligence: 376, gender: 1, wisdom: 3889, charisma: 355, strenght: 334, mentalHealth: 90, earnings: 57430, education: higher, having a Partner: true, FinalExam result: 66
+ Jakub, Test, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 3, intelligence: 53, gender: 1, wisdom: 83, charisma: 52, strenght: 48, mentalHealth: 115, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 4, intelligence: 65, gender: 1, wisdom: 139, charisma: 61, strenght: 58, mentalHealth: 144, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 5, intelligence: 76, gender: 1, wisdom: 189, charisma: 75, strenght: 67, mentalHealth: 125, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 6, intelligence: 88, gender: 1, wisdom: 249, charisma: 87, strenght: 77, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 7, intelligence: 101, gender: 1, wisdom: 335, charisma: 100, strenght: 87, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 8, intelligence: 116, gender: 1, wisdom: 422, charisma: 115, strenght: 102, mentalHealth: 98, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 9, intelligence: 132, gender: 1, wisdom: 545, charisma: 129, strenght: 117, mentalHealth: 96, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 10, intelligence: 147, gender: 1, wisdom: 669, charisma: 146, strenght: 131, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 11, intelligence: 162, gender: 1, wisdom: 798, charisma: 164, strenght: 149, mentalHealth: 80, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 12, intelligence: 178, gender: 1, wisdom: 940, charisma: 182, strenght: 167, mentalHealth: 76, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 13, intelligence: 189, gender: 1, wisdom: 1041, charisma: 192, strenght: 178, mentalHealth: 65, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 14, intelligence: 200, gender: 1, wisdom: 1165, charisma: 206, strenght: 192, mentalHealth: 50, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 15, intelligence: 214, gender: 1, wisdom: 1343, charisma: 219, strenght: 205, mentalHealth: 60, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 16, intelligence: 226, gender: 1, wisdom: 1545, charisma: 235, strenght: 221, mentalHealth: 47, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 17, intelligence: 237, gender: 1, wisdom: 1774, charisma: 249, strenght: 236, mentalHealth: 17, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 18, intelligence: 247, gender: 1, wisdom: 2017, charisma: 261, strenght: 249, mentalHealth: 25, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 83
+ Jakub, Test, age: 19, intelligence: 262, gender: 1, wisdom: 2285, charisma: 275, strenght: 266, mentalHealth: 16, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 83
+ Jakub, Test, age: 20, intelligence: 267, gender: 1, wisdom: 2528, charisma: 279, strenght: 269, mentalHealth: 13, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 83
+ Jakub, Test, age: 21, intelligence: 271, gender: 1, wisdom: 2792, charisma: 282, strenght: 273, mentalHealth: 11, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 83
+ Jakub, Test, age: 22, intelligence: 275, gender: 1, wisdom: 3021, charisma: 284, strenght: 276, mentalHealth: 9, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 83
+ Jakub, Test, age: 24, intelligence: 277, gender: 1, wisdom: 3229, charisma: 286, strenght: 277, mentalHealth: 7, earnings: 39782, education: higher, having a Partner: false, FinalExam result: 83
+ Jakub, Test, age: 25, intelligence: 277, gender: 1, wisdom: 3229, charisma: 286, strenght: 277, mentalHealth: 7, earnings: 42017, education: higher, having a Partner: false, FinalExam result: 83
+ Jakub, Test, age: 26, intelligence: 277, gender: 1, wisdom: 3229, charisma: 286, strenght: 277, mentalHealth: 7, earnings: 44257, education: higher, having a Partner: false, FinalExam result: 83
+ Jakub, Test, age: 27, intelligence: 277, gender: 1, wisdom: 3229, charisma: 286, strenght: 277, mentalHealth: 7, earnings: 46510, education: higher, having a Partner: false, FinalExam result: 83
+ Jakub, Test, age: 28, intelligence: 277, gender: 1, wisdom: 3229, charisma: 286, strenght: 277, mentalHealth: 7, earnings: 48781, education: higher, having a Partner: true, FinalExam result: 83
+ Jakub, Test, age: 29, intelligence: 277, gender: 1, wisdom: 3229, charisma: 286, strenght: 277, mentalHealth: 7, earnings: 51064, education: higher, having a Partner: true, FinalExam result: 83
+ Jakub, Test, age: 30, intelligence: 277, gender: 1, wisdom: 3229, charisma: 286, strenght: 277, mentalHealth: 7, earnings: 53358, education: higher, having a Partner: true, FinalExam result: 83
+ Jakub, Ptaszkowski, age: 1, intelligence: 55, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 3, intelligence: 66, gender: 1, wisdom: 93, charisma: 54, strenght: 49, mentalHealth: 98, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 4, intelligence: 72, gender: 1, wisdom: 134, charisma: 60, strenght: 53, mentalHealth: 130, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 5, intelligence: 79, gender: 1, wisdom: 171, charisma: 67, strenght: 57, mentalHealth: 144, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 6, intelligence: 83, gender: 1, wisdom: 205, charisma: 76, strenght: 63, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 7, intelligence: 97, gender: 1, wisdom: 285, charisma: 93, strenght: 73, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 8, intelligence: 111, gender: 1, wisdom: 392, charisma: 111, strenght: 88, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 9, intelligence: 127, gender: 1, wisdom: 492, charisma: 128, strenght: 103, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 10, intelligence: 141, gender: 1, wisdom: 616, charisma: 144, strenght: 117, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 11, intelligence: 158, gender: 1, wisdom: 765, charisma: 163, strenght: 135, mentalHealth: 97, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 12, intelligence: 173, gender: 1, wisdom: 910, charisma: 181, strenght: 151, mentalHealth: 97, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 13, intelligence: 191, gender: 1, wisdom: 1032, charisma: 198, strenght: 167, mentalHealth: 92, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 14, intelligence: 210, gender: 1, wisdom: 1177, charisma: 214, strenght: 183, mentalHealth: 93, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 15, intelligence: 228, gender: 1, wisdom: 1401, charisma: 232, strenght: 198, mentalHealth: 82, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 16, intelligence: 249, gender: 1, wisdom: 1640, charisma: 253, strenght: 217, mentalHealth: 76, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 17, intelligence: 267, gender: 1, wisdom: 1870, charisma: 273, strenght: 231, mentalHealth: 59, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 19, intelligence: 283, gender: 1, wisdom: 2077, charisma: 290, strenght: 246, mentalHealth: 45, earnings: 48312, education: secondary, having a Partner: false, FinalExam result: 60
+ Jakub, Ptaszkowski, age: 20, intelligence: 283, gender: 1, wisdom: 2077, charisma: 290, strenght: 246, mentalHealth: 45, earnings: 49747, education: secondary, having a Partner: false, FinalExam result: 60
+ Jakub, Ptaszkowski, age: 21, intelligence: 283, gender: 1, wisdom: 2077, charisma: 290, strenght: 246, mentalHealth: 45, earnings: 51182, education: secondary, having a Partner: false, FinalExam result: 60
+ Jakub, Ptaszkowski, age: 22, intelligence: 283, gender: 1, wisdom: 2077, charisma: 290, strenght: 246, mentalHealth: 45, earnings: 52634, education: secondary, having a Partner: false, FinalExam result: 60
+ Jakub, Ptaszkowski, age: 23, intelligence: 283, gender: 1, wisdom: 2077, charisma: 290, strenght: 246, mentalHealth: 45, earnings: 54092, education: secondary, having a Partner: false, FinalExam result: 60
+ Jakub, Ptaszkowski, age: 24, intelligence: 283, gender: 1, wisdom: 2077, charisma: 290, strenght: 246, mentalHealth: 45, earnings: 55554, education: secondary, having a Partner: false, FinalExam result: 60
+ Jakub, Ptaszkowski, age: 25, intelligence: 283, gender: 1, wisdom: 2077, charisma: 290, strenght: 246, mentalHealth: 45, earnings: 57022, education: secondary, having a Partner: true, FinalExam result: 60
+ Jakub, Ptaszkowski, age: 26, intelligence: 283, gender: 1, wisdom: 2077, charisma: 290, strenght: 246, mentalHealth: 45, earnings: 58505, education: secondary, having a Partner: true, FinalExam result: 60
+ Jakub, Ptaszkowski, age: 27, intelligence: 283, gender: 1, wisdom: 2077, charisma: 290, strenght: 246, mentalHealth: 45, earnings: 59999, education: secondary, having a Partner: true, FinalExam result: 60
+ Jakub, Ptaszkowski, age: 28, intelligence: 283, gender: 1, wisdom: 2077, charisma: 290, strenght: 246, mentalHealth: 45, earnings: 61493, education: secondary, having a Partner: true, FinalExam result: 60
+ Jakub, Ptaszkowski, age: 29, intelligence: 283, gender: 1, wisdom: 2077, charisma: 290, strenght: 246, mentalHealth: 45, earnings: 62989, education: secondary, having a Partner: true, FinalExam result: 60
+ Jakub, Ptaszkowski, age: 30, intelligence: 283, gender: 1, wisdom: 2077, charisma: 290, strenght: 246, mentalHealth: 45, earnings: 64491, education: secondary, having a Partner: true, FinalExam result: 60
+ Jakub, Test, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 3, intelligence: 52, gender: 1, wisdom: 88, charisma: 50, strenght: 50, mentalHealth: 110, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 4, intelligence: 59, gender: 1, wisdom: 127, charisma: 63, strenght: 58, mentalHealth: 138, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 5, intelligence: 70, gender: 1, wisdom: 172, charisma: 74, strenght: 66, mentalHealth: 126, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 6, intelligence: 79, gender: 1, wisdom: 232, charisma: 86, strenght: 79, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 7, intelligence: 92, gender: 1, wisdom: 325, charisma: 100, strenght: 90, mentalHealth: 99, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 8, intelligence: 102, gender: 1, wisdom: 412, charisma: 114, strenght: 99, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 9, intelligence: 116, gender: 1, wisdom: 503, charisma: 125, strenght: 109, mentalHealth: 97, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 10, intelligence: 130, gender: 1, wisdom: 600, charisma: 136, strenght: 123, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 11, intelligence: 142, gender: 1, wisdom: 682, charisma: 149, strenght: 136, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 12, intelligence: 156, gender: 1, wisdom: 764, charisma: 163, strenght: 149, mentalHealth: 97, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 13, intelligence: 168, gender: 1, wisdom: 855, charisma: 173, strenght: 161, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 14, intelligence: 181, gender: 1, wisdom: 928, charisma: 186, strenght: 169, mentalHealth: 99, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 15, intelligence: 193, gender: 1, wisdom: 1141, charisma: 197, strenght: 184, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 16, intelligence: 208, gender: 1, wisdom: 1302, charisma: 210, strenght: 196, mentalHealth: 91, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 17, intelligence: 222, gender: 1, wisdom: 1513, charisma: 223, strenght: 209, mentalHealth: 85, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Test, age: 18, intelligence: 238, gender: 1, wisdom: 1731, charisma: 240, strenght: 221, mentalHealth: 81, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 71
+ Jakub, Test, age: 19, intelligence: 256, gender: 1, wisdom: 2118, charisma: 262, strenght: 242, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 71
+ Jakub, Test, age: 20, intelligence: 263, gender: 1, wisdom: 2457, charisma: 270, strenght: 251, mentalHealth: 99, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 71
+ Jakub, Test, age: 21, intelligence: 274, gender: 1, wisdom: 2800, charisma: 280, strenght: 260, mentalHealth: 98, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 71
+ Jakub, Test, age: 22, intelligence: 282, gender: 1, wisdom: 3113, charisma: 291, strenght: 271, mentalHealth: 98, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 71
+ Jakub, Test, age: 24, intelligence: 291, gender: 1, wisdom: 3407, charisma: 300, strenght: 283, mentalHealth: 94, earnings: 81443, education: higher, having a Partner: false, FinalExam result: 71
+ Jakub, Test, age: 25, intelligence: 291, gender: 1, wisdom: 3407, charisma: 300, strenght: 283, mentalHealth: 94, earnings: 83617, education: higher, having a Partner: false, FinalExam result: 71
+ Jakub, Test, age: 26, intelligence: 291, gender: 1, wisdom: 3407, charisma: 300, strenght: 283, mentalHealth: 94, earnings: 85791, education: higher, having a Partner: false, FinalExam result: 71
+ Jakub, Test, age: 27, intelligence: 291, gender: 1, wisdom: 3407, charisma: 300, strenght: 283, mentalHealth: 94, earnings: 87978, education: higher, having a Partner: false, FinalExam result: 71
+ Jakub, Test, age: 28, intelligence: 291, gender: 1, wisdom: 3407, charisma: 300, strenght: 283, mentalHealth: 94, earnings: 90180, education: higher, having a Partner: false, FinalExam result: 71
+ Jakub, Test, age: 29, intelligence: 291, gender: 1, wisdom: 3407, charisma: 300, strenght: 283, mentalHealth: 94, earnings: 92386, education: higher, having a Partner: true, FinalExam result: 71
+ Jakub, Test, age: 30, intelligence: 291, gender: 1, wisdom: 3407, charisma: 300, strenght: 283, mentalHealth: 94, earnings: 94608, education: higher, having a Partner: true, FinalExam result: 71
+ testownik, test, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 3, intelligence: 45, gender: 1, wisdom: 79, charisma: 52, strenght: 45, mentalHealth: 88, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 4, intelligence: 55, gender: 1, wisdom: 129, charisma: 63, strenght: 52, mentalHealth: 126, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 5, intelligence: 63, gender: 1, wisdom: 182, charisma: 75, strenght: 63, mentalHealth: 128, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 6, intelligence: 75, gender: 1, wisdom: 232, charisma: 85, strenght: 74, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 7, intelligence: 87, gender: 1, wisdom: 311, charisma: 94, strenght: 84, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 8, intelligence: 95, gender: 1, wisdom: 406, charisma: 107, strenght: 95, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 9, intelligence: 106, gender: 1, wisdom: 494, charisma: 122, strenght: 105, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 10, intelligence: 116, gender: 1, wisdom: 577, charisma: 135, strenght: 119, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 11, intelligence: 129, gender: 1, wisdom: 666, charisma: 147, strenght: 131, mentalHealth: 99, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 12, intelligence: 143, gender: 1, wisdom: 772, charisma: 159, strenght: 142, mentalHealth: 86, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 13, intelligence: 155, gender: 1, wisdom: 859, charisma: 170, strenght: 152, mentalHealth: 72, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 14, intelligence: 164, gender: 1, wisdom: 936, charisma: 180, strenght: 161, mentalHealth: 64, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 15, intelligence: 176, gender: 1, wisdom: 1112, charisma: 191, strenght: 174, mentalHealth: 60, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 16, intelligence: 187, gender: 1, wisdom: 1329, charisma: 203, strenght: 183, mentalHealth: 54, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 17, intelligence: 197, gender: 1, wisdom: 1522, charisma: 212, strenght: 193, mentalHealth: 57, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ testownik, test, age: 18, intelligence: 205, gender: 1, wisdom: 1718, charisma: 223, strenght: 204, mentalHealth: 45, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 75
+ testownik, test, age: 19, intelligence: 220, gender: 1, wisdom: 1988, charisma: 237, strenght: 215, mentalHealth: 41, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 75
+ testownik, test, age: 20, intelligence: 222, gender: 1, wisdom: 2221, charisma: 242, strenght: 217, mentalHealth: 39, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 75
+ testownik, test, age: 21, intelligence: 227, gender: 1, wisdom: 2446, charisma: 246, strenght: 223, mentalHealth: 38, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 75
+ testownik, test, age: 22, intelligence: 233, gender: 1, wisdom: 2692, charisma: 250, strenght: 225, mentalHealth: 38, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 75
+ testownik, test, age: 24, intelligence: 235, gender: 1, wisdom: 2949, charisma: 252, strenght: 229, mentalHealth: 34, earnings: 65283, education: higher, having a Partner: false, FinalExam result: 75
+ testownik, test, age: 25, intelligence: 235, gender: 1, wisdom: 2949, charisma: 252, strenght: 229, mentalHealth: 34, earnings: 66880, education: higher, having a Partner: false, FinalExam result: 75
+ testownik, test, age: 26, intelligence: 235, gender: 1, wisdom: 2949, charisma: 252, strenght: 229, mentalHealth: 34, earnings: 68496, education: higher, having a Partner: false, FinalExam result: 75
+ testownik, test, age: 27, intelligence: 235, gender: 1, wisdom: 2949, charisma: 252, strenght: 229, mentalHealth: 34, earnings: 70116, education: higher, having a Partner: true, FinalExam result: 75
+ testownik, test, age: 28, intelligence: 235, gender: 1, wisdom: 2949, charisma: 252, strenght: 229, mentalHealth: 34, earnings: 71741, education: higher, having a Partner: true, FinalExam result: 75
+ testownik, test, age: 29, intelligence: 235, gender: 1, wisdom: 2949, charisma: 252, strenght: 229, mentalHealth: 34, earnings: 73373, education: higher, having a Partner: true, FinalExam result: 75
+ testownik, test, age: 30, intelligence: 235, gender: 1, wisdom: 2949, charisma: 252, strenght: 229, mentalHealth: 34, earnings: 75009, education: higher, having a Partner: true, FinalExam result: 75
+ Testowanie, test, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 3, intelligence: 50, gender: 1, wisdom: 67, charisma: 51, strenght: 53, mentalHealth: 87, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 4, intelligence: 60, gender: 1, wisdom: 113, charisma: 63, strenght: 61, mentalHealth: 111, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 5, intelligence: 73, gender: 1, wisdom: 159, charisma: 77, strenght: 69, mentalHealth: 125, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 6, intelligence: 85, gender: 1, wisdom: 210, charisma: 91, strenght: 82, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 7, intelligence: 96, gender: 1, wisdom: 298, charisma: 108, strenght: 91, mentalHealth: 97, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 8, intelligence: 109, gender: 1, wisdom: 383, charisma: 124, strenght: 102, mentalHealth: 88, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 9, intelligence: 124, gender: 1, wisdom: 462, charisma: 138, strenght: 116, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 10, intelligence: 135, gender: 1, wisdom: 554, charisma: 154, strenght: 130, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 11, intelligence: 150, gender: 1, wisdom: 652, charisma: 168, strenght: 145, mentalHealth: 95, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 12, intelligence: 162, gender: 1, wisdom: 747, charisma: 186, strenght: 160, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 13, intelligence: 172, gender: 1, wisdom: 846, charisma: 198, strenght: 169, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 14, intelligence: 186, gender: 1, wisdom: 924, charisma: 213, strenght: 181, mentalHealth: 96, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 15, intelligence: 198, gender: 1, wisdom: 1128, charisma: 230, strenght: 192, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 16, intelligence: 211, gender: 1, wisdom: 1349, charisma: 247, strenght: 206, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 17, intelligence: 225, gender: 1, wisdom: 1576, charisma: 263, strenght: 219, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Testowanie, test, age: 18, intelligence: 242, gender: 1, wisdom: 1809, charisma: 281, strenght: 235, mentalHealth: 88, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 74
+ Testowanie, test, age: 19, intelligence: 260, gender: 1, wisdom: 2134, charisma: 301, strenght: 253, mentalHealth: 84, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 74
+ Testowanie, test, age: 20, intelligence: 267, gender: 1, wisdom: 2439, charisma: 312, strenght: 263, mentalHealth: 84, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 74
+ Testowanie, test, age: 21, intelligence: 278, gender: 1, wisdom: 2738, charisma: 323, strenght: 270, mentalHealth: 81, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 74
+ Testowanie, test, age: 22, intelligence: 286, gender: 1, wisdom: 3074, charisma: 336, strenght: 281, mentalHealth: 79, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 74
+ Testowanie, test, age: 24, intelligence: 298, gender: 1, wisdom: 3402, charisma: 350, strenght: 291, mentalHealth: 75, earnings: 16069, education: higher, having a Partner: false, FinalExam result: 74
+ Testowanie, test, age: 25, intelligence: 298, gender: 1, wisdom: 3402, charisma: 350, strenght: 291, mentalHealth: 75, earnings: 17500, education: higher, having a Partner: false, FinalExam result: 74
+ Testowanie, test, age: 26, intelligence: 298, gender: 1, wisdom: 3402, charisma: 350, strenght: 291, mentalHealth: 75, earnings: 18951, education: higher, having a Partner: true, FinalExam result: 74
+ Testowanie, test, age: 27, intelligence: 298, gender: 1, wisdom: 3402, charisma: 350, strenght: 291, mentalHealth: 75, earnings: 20410, education: higher, having a Partner: true, FinalExam result: 74
+ Testowanie, test, age: 28, intelligence: 298, gender: 1, wisdom: 3402, charisma: 350, strenght: 291, mentalHealth: 75, earnings: 21881, education: higher, having a Partner: true, FinalExam result: 74
+ Testowanie, test, age: 29, intelligence: 298, gender: 1, wisdom: 3402, charisma: 350, strenght: 291, mentalHealth: 75, earnings: 23352, education: higher, having a Partner: true, FinalExam result: 74
+ Testowanie, test, age: 30, intelligence: 298, gender: 1, wisdom: 3402, charisma: 350, strenght: 291, mentalHealth: 75, earnings: 24830, education: higher, having a Partner: true, FinalExam result: 74
+ Jakub, test, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 3, intelligence: 50, gender: 1, wisdom: 86, charisma: 52, strenght: 50, mentalHealth: 114, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 4, intelligence: 60, gender: 1, wisdom: 134, charisma: 62, strenght: 58, mentalHealth: 131, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 5, intelligence: 75, gender: 1, wisdom: 188, charisma: 75, strenght: 67, mentalHealth: 136, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 6, intelligence: 87, gender: 1, wisdom: 243, charisma: 89, strenght: 77, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 7, intelligence: 102, gender: 1, wisdom: 328, charisma: 101, strenght: 86, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 8, intelligence: 119, gender: 1, wisdom: 406, charisma: 115, strenght: 94, mentalHealth: 94, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 9, intelligence: 135, gender: 1, wisdom: 505, charisma: 128, strenght: 103, mentalHealth: 99, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 10, intelligence: 151, gender: 1, wisdom: 576, charisma: 141, strenght: 116, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 11, intelligence: 168, gender: 1, wisdom: 648, charisma: 156, strenght: 129, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 12, intelligence: 185, gender: 1, wisdom: 728, charisma: 169, strenght: 143, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 13, intelligence: 198, gender: 1, wisdom: 792, charisma: 180, strenght: 151, mentalHealth: 96, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 14, intelligence: 211, gender: 1, wisdom: 864, charisma: 194, strenght: 162, mentalHealth: 92, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 15, intelligence: 227, gender: 1, wisdom: 1071, charisma: 212, strenght: 179, mentalHealth: 98, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 16, intelligence: 244, gender: 1, wisdom: 1286, charisma: 229, strenght: 192, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 17, intelligence: 266, gender: 1, wisdom: 1502, charisma: 247, strenght: 210, mentalHealth: 99, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, test, age: 19, intelligence: 289, gender: 1, wisdom: 1716, charisma: 268, strenght: 226, mentalHealth: 98, earnings: 60760, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, test, age: 20, intelligence: 289, gender: 1, wisdom: 1716, charisma: 268, strenght: 226, mentalHealth: 98, earnings: 62565, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, test, age: 21, intelligence: 289, gender: 1, wisdom: 1716, charisma: 268, strenght: 226, mentalHealth: 98, earnings: 64378, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, test, age: 22, intelligence: 289, gender: 1, wisdom: 1716, charisma: 268, strenght: 226, mentalHealth: 98, earnings: 66207, education: secondary, having a Partner: true, FinalExam result: 62
+ Jakub, test, age: 23, intelligence: 289, gender: 1, wisdom: 1716, charisma: 268, strenght: 226, mentalHealth: 98, earnings: 68040, education: secondary, having a Partner: true, FinalExam result: 62
+ Jakub, test, age: 24, intelligence: 289, gender: 1, wisdom: 1716, charisma: 268, strenght: 226, mentalHealth: 98, earnings: 69873, education: secondary, having a Partner: true, FinalExam result: 62
+ Jakub, test, age: 25, intelligence: 289, gender: 1, wisdom: 1716, charisma: 268, strenght: 226, mentalHealth: 98, earnings: 71707, education: secondary, having a Partner: true, FinalExam result: 62
+ Jakub, test, age: 26, intelligence: 289, gender: 1, wisdom: 1716, charisma: 268, strenght: 226, mentalHealth: 98, earnings: 73543, education: secondary, having a Partner: true, FinalExam result: 62
+ Jakub, test, age: 27, intelligence: 289, gender: 1, wisdom: 1716, charisma: 268, strenght: 226, mentalHealth: 98, earnings: 75379, education: secondary, having a Partner: true, FinalExam result: 62
+ Jakub, test, age: 28, intelligence: 289, gender: 1, wisdom: 1716, charisma: 268, strenght: 226, mentalHealth: 98, earnings: 77229, education: secondary, having a Partner: true, FinalExam result: 62
+ Jakub, test, age: 29, intelligence: 289, gender: 1, wisdom: 1716, charisma: 268, strenght: 226, mentalHealth: 98, earnings: 79084, education: secondary, having a Partner: true, FinalExam result: 62
+ Jakub, test, age: 30, intelligence: 289, gender: 1, wisdom: 1716, charisma: 268, strenght: 226, mentalHealth: 98, earnings: 80939, education: secondary, having a Partner: true, FinalExam result: 62
+ testowanie, 123, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 3, intelligence: 53, gender: 1, wisdom: 70, charisma: 50, strenght: 44, mentalHealth: 108, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 4, intelligence: 64, gender: 1, wisdom: 102, charisma: 59, strenght: 55, mentalHealth: 145, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 5, intelligence: 75, gender: 1, wisdom: 150, charisma: 69, strenght: 67, mentalHealth: 119, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 6, intelligence: 90, gender: 1, wisdom: 188, charisma: 82, strenght: 79, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 7, intelligence: 102, gender: 1, wisdom: 269, charisma: 97, strenght: 88, mentalHealth: 89, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 8, intelligence: 114, gender: 1, wisdom: 333, charisma: 110, strenght: 99, mentalHealth: 81, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 9, intelligence: 129, gender: 1, wisdom: 423, charisma: 125, strenght: 114, mentalHealth: 96, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 10, intelligence: 143, gender: 1, wisdom: 514, charisma: 139, strenght: 130, mentalHealth: 89, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 11, intelligence: 158, gender: 1, wisdom: 615, charisma: 158, strenght: 145, mentalHealth: 98, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 12, intelligence: 177, gender: 1, wisdom: 723, charisma: 175, strenght: 161, mentalHealth: 95, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 13, intelligence: 189, gender: 1, wisdom: 848, charisma: 188, strenght: 175, mentalHealth: 92, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 14, intelligence: 205, gender: 1, wisdom: 970, charisma: 202, strenght: 191, mentalHealth: 93, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 15, intelligence: 222, gender: 1, wisdom: 1170, charisma: 217, strenght: 209, mentalHealth: 95, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 16, intelligence: 238, gender: 1, wisdom: 1443, charisma: 234, strenght: 224, mentalHealth: 97, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 17, intelligence: 256, gender: 1, wisdom: 1708, charisma: 254, strenght: 244, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ testowanie, 123, age: 18, intelligence: 273, gender: 1, wisdom: 1964, charisma: 272, strenght: 263, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 84
+ testowanie, 123, age: 19, intelligence: 296, gender: 1, wisdom: 2358, charisma: 293, strenght: 287, mentalHealth: 92, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 84
+ testowanie, 123, age: 20, intelligence: 305, gender: 1, wisdom: 2678, charisma: 302, strenght: 299, mentalHealth: 89, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 84
+ testowanie, 123, age: 21, intelligence: 317, gender: 1, wisdom: 2971, charisma: 312, strenght: 307, mentalHealth: 84, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 84
+ testowanie, 123, age: 22, intelligence: 326, gender: 1, wisdom: 3318, charisma: 324, strenght: 318, mentalHealth: 84, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 84
+ testowanie, 123, age: 24, intelligence: 337, gender: 1, wisdom: 3657, charisma: 335, strenght: 328, mentalHealth: 80, earnings: 107874, education: higher, having a Partner: false, FinalExam result: 84
+ testowanie, 123, age: 25, intelligence: 337, gender: 1, wisdom: 3657, charisma: 335, strenght: 328, mentalHealth: 80, earnings: 110539, education: higher, having a Partner: true, FinalExam result: 84
+ testowanie, 123, age: 26, intelligence: 337, gender: 1, wisdom: 3657, charisma: 335, strenght: 328, mentalHealth: 80, earnings: 113223, education: higher, having a Partner: true, FinalExam result: 84
+ testowanie, 123, age: 27, intelligence: 337, gender: 1, wisdom: 3657, charisma: 335, strenght: 328, mentalHealth: 80, earnings: 115916, education: higher, having a Partner: true, FinalExam result: 84
+ testowanie, 123, age: 28, intelligence: 337, gender: 1, wisdom: 3657, charisma: 335, strenght: 328, mentalHealth: 80, earnings: 118621, education: higher, having a Partner: true, FinalExam result: 84
+ testowanie, 123, age: 29, intelligence: 337, gender: 1, wisdom: 3657, charisma: 335, strenght: 328, mentalHealth: 80, earnings: 121335, education: higher, having a Partner: true, FinalExam result: 84
+ testowanie, 123, age: 30, intelligence: 337, gender: 1, wisdom: 3657, charisma: 335, strenght: 328, mentalHealth: 80, earnings: 124054, education: higher, having a Partner: true, FinalExam result: 84
+ test, test, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 3, intelligence: 52, gender: 1, wisdom: 77, charisma: 52, strenght: 52, mentalHealth: 95, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 4, intelligence: 61, gender: 1, wisdom: 115, charisma: 61, strenght: 61, mentalHealth: 114, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 5, intelligence: 74, gender: 1, wisdom: 167, charisma: 70, strenght: 73, mentalHealth: 121, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 6, intelligence: 86, gender: 1, wisdom: 217, charisma: 83, strenght: 84, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 7, intelligence: 99, gender: 1, wisdom: 272, charisma: 96, strenght: 94, mentalHealth: 89, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 8, intelligence: 113, gender: 1, wisdom: 341, charisma: 110, strenght: 108, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 9, intelligence: 128, gender: 1, wisdom: 435, charisma: 121, strenght: 122, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 10, intelligence: 140, gender: 1, wisdom: 533, charisma: 133, strenght: 137, mentalHealth: 98, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 11, intelligence: 155, gender: 1, wisdom: 629, charisma: 149, strenght: 153, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 12, intelligence: 171, gender: 1, wisdom: 714, charisma: 165, strenght: 169, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 13, intelligence: 186, gender: 1, wisdom: 803, charisma: 177, strenght: 182, mentalHealth: 93, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 14, intelligence: 199, gender: 1, wisdom: 905, charisma: 192, strenght: 195, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ test, test, age: 15, intelligence: 213, gender: 1, wisdom: 1088, charisma: 209, strenght: 213, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ test, test, age: 16, intelligence: 230, gender: 1, wisdom: 1277, charisma: 224, strenght: 228, mentalHealth: 91, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ test, test, age: 17, intelligence: 245, gender: 1, wisdom: 1498, charisma: 242, strenght: 247, mentalHealth: 98, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ test, test, age: 19, intelligence: 264, gender: 1, wisdom: 1705, charisma: 259, strenght: 264, mentalHealth: 100, earnings: 30798, education: secondary, having a Partner: false, FinalExam result: 58
+ test, test, age: 20, intelligence: 264, gender: 1, wisdom: 1705, charisma: 259, strenght: 264, mentalHealth: 100, earnings: 32268, education: secondary, having a Partner: false, FinalExam result: 58
+ test, test, age: 21, intelligence: 264, gender: 1, wisdom: 1705, charisma: 259, strenght: 264, mentalHealth: 100, earnings: 33746, education: secondary, having a Partner: false, FinalExam result: 58
+ test, test, age: 22, intelligence: 264, gender: 1, wisdom: 1705, charisma: 259, strenght: 264, mentalHealth: 100, earnings: 35230, education: secondary, having a Partner: false, FinalExam result: 58
+ test, test, age: 23, intelligence: 264, gender: 1, wisdom: 1705, charisma: 259, strenght: 264, mentalHealth: 100, earnings: 36728, education: secondary, having a Partner: false, FinalExam result: 58
+ test, test, age: 24, intelligence: 264, gender: 1, wisdom: 1705, charisma: 259, strenght: 264, mentalHealth: 100, earnings: 38239, education: secondary, having a Partner: false, FinalExam result: 58
+ test, test, age: 25, intelligence: 264, gender: 1, wisdom: 1705, charisma: 259, strenght: 264, mentalHealth: 100, earnings: 39750, education: secondary, having a Partner: false, FinalExam result: 58
+ test, test, age: 26, intelligence: 264, gender: 1, wisdom: 1705, charisma: 259, strenght: 264, mentalHealth: 100, earnings: 41271, education: secondary, having a Partner: false, FinalExam result: 58
+ test, test, age: 27, intelligence: 264, gender: 1, wisdom: 1705, charisma: 259, strenght: 264, mentalHealth: 100, earnings: 42807, education: secondary, having a Partner: false, FinalExam result: 58
+ test, test, age: 28, intelligence: 264, gender: 1, wisdom: 1705, charisma: 259, strenght: 264, mentalHealth: 100, earnings: 44357, education: secondary, having a Partner: true, FinalExam result: 58
+ test, test, age: 29, intelligence: 264, gender: 1, wisdom: 1705, charisma: 259, strenght: 264, mentalHealth: 100, earnings: 45918, education: secondary, having a Partner: true, FinalExam result: 58
+ test, test, age: 30, intelligence: 264, gender: 1, wisdom: 1705, charisma: 259, strenght: 264, mentalHealth: 100, earnings: 47488, education: secondary, having a Partner: true, FinalExam result: 58
+ Jakub, Testownik, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 3, intelligence: 49, gender: 1, wisdom: 86, charisma: 52, strenght: 50, mentalHealth: 102, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 4, intelligence: 55, gender: 1, wisdom: 132, charisma: 57, strenght: 57, mentalHealth: 126, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 5, intelligence: 63, gender: 1, wisdom: 178, charisma: 62, strenght: 62, mentalHealth: 119, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 6, intelligence: 69, gender: 1, wisdom: 222, charisma: 67, strenght: 69, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 7, intelligence: 82, gender: 1, wisdom: 324, charisma: 81, strenght: 80, mentalHealth: 95, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 8, intelligence: 94, gender: 1, wisdom: 427, charisma: 96, strenght: 92, mentalHealth: 87, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 9, intelligence: 107, gender: 1, wisdom: 547, charisma: 113, strenght: 108, mentalHealth: 93, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 10, intelligence: 119, gender: 1, wisdom: 642, charisma: 128, strenght: 122, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 11, intelligence: 133, gender: 1, wisdom: 751, charisma: 145, strenght: 140, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 12, intelligence: 151, gender: 1, wisdom: 897, charisma: 163, strenght: 157, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 13, intelligence: 165, gender: 1, wisdom: 1021, charisma: 180, strenght: 170, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 14, intelligence: 178, gender: 1, wisdom: 1145, charisma: 196, strenght: 187, mentalHealth: 99, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 15, intelligence: 194, gender: 1, wisdom: 1370, charisma: 213, strenght: 203, mentalHealth: 97, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 16, intelligence: 211, gender: 1, wisdom: 1593, charisma: 232, strenght: 223, mentalHealth: 99, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 17, intelligence: 226, gender: 1, wisdom: 1862, charisma: 251, strenght: 245, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Testownik, age: 18, intelligence: 243, gender: 1, wisdom: 2133, charisma: 270, strenght: 266, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 88
+ Jakub, Testownik, age: 19, intelligence: 265, gender: 1, wisdom: 2546, charisma: 293, strenght: 288, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 88
+ Jakub, Testownik, age: 20, intelligence: 276, gender: 1, wisdom: 2868, charisma: 305, strenght: 300, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 88
+ Jakub, Testownik, age: 21, intelligence: 285, gender: 1, wisdom: 3176, charisma: 317, strenght: 309, mentalHealth: 95, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 88
+ Jakub, Testownik, age: 22, intelligence: 293, gender: 1, wisdom: 3439, charisma: 329, strenght: 322, mentalHealth: 90, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 88
+ Jakub, Testownik, age: 24, intelligence: 303, gender: 1, wisdom: 3756, charisma: 342, strenght: 331, mentalHealth: 90, earnings: 41898, education: higher, having a Partner: false, FinalExam result: 88
+ Jakub, Testownik, age: 25, intelligence: 303, gender: 1, wisdom: 3756, charisma: 342, strenght: 331, mentalHealth: 90, earnings: 43410, education: higher, having a Partner: false, FinalExam result: 88
+ Jakub, Testownik, age: 26, intelligence: 303, gender: 1, wisdom: 3756, charisma: 342, strenght: 331, mentalHealth: 90, earnings: 44944, education: higher, having a Partner: false, FinalExam result: 88
+ Jakub, Testownik, age: 27, intelligence: 303, gender: 1, wisdom: 3756, charisma: 342, strenght: 331, mentalHealth: 90, earnings: 46483, education: higher, having a Partner: false, FinalExam result: 88
+ Jakub, Testownik, age: 28, intelligence: 303, gender: 1, wisdom: 3756, charisma: 342, strenght: 331, mentalHealth: 90, earnings: 48037, education: higher, having a Partner: false, FinalExam result: 88
+ Jakub, Testownik, age: 29, intelligence: 303, gender: 1, wisdom: 3756, charisma: 342, strenght: 331, mentalHealth: 90, earnings: 49599, education: higher, having a Partner: true, FinalExam result: 88
+ Jakub, Testownik, age: 30, intelligence: 303, gender: 1, wisdom: 3756, charisma: 342, strenght: 331, mentalHealth: 90, earnings: 51170, education: higher, having a Partner: true, FinalExam result: 88
+ testownik, test, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Testowanie, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 3, intelligence: 55, gender: 1, wisdom: 78, charisma: 54, strenght: 46, mentalHealth: 96, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 4, intelligence: 64, gender: 1, wisdom: 110, charisma: 66, strenght: 54, mentalHealth: 145, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 5, intelligence: 74, gender: 1, wisdom: 152, charisma: 80, strenght: 61, mentalHealth: 125, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 6, intelligence: 87, gender: 1, wisdom: 204, charisma: 90, strenght: 73, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 7, intelligence: 97, gender: 1, wisdom: 272, charisma: 104, strenght: 82, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 8, intelligence: 109, gender: 1, wisdom: 349, charisma: 116, strenght: 92, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 9, intelligence: 123, gender: 1, wisdom: 428, charisma: 131, strenght: 101, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 10, intelligence: 135, gender: 1, wisdom: 532, charisma: 149, strenght: 112, mentalHealth: 96, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 11, intelligence: 151, gender: 1, wisdom: 649, charisma: 163, strenght: 121, mentalHealth: 97, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 12, intelligence: 166, gender: 1, wisdom: 742, charisma: 181, strenght: 131, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 13, intelligence: 176, gender: 1, wisdom: 827, charisma: 196, strenght: 142, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 14, intelligence: 191, gender: 1, wisdom: 947, charisma: 210, strenght: 156, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 15, intelligence: 206, gender: 1, wisdom: 1119, charisma: 224, strenght: 171, mentalHealth: 92, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 16, intelligence: 223, gender: 1, wisdom: 1339, charisma: 238, strenght: 187, mentalHealth: 86, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 17, intelligence: 238, gender: 1, wisdom: 1565, charisma: 255, strenght: 199, mentalHealth: 93, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ sdsaad, dsaadsaa, age: 18, intelligence: 257, gender: 1, wisdom: 1798, charisma: 274, strenght: 213, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ sdsaad, dsaadsaa, age: 19, intelligence: 277, gender: 1, wisdom: 2196, charisma: 296, strenght: 231, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ sdsaad, dsaadsaa, age: 20, intelligence: 289, gender: 1, wisdom: 2479, charisma: 304, strenght: 240, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ sdsaad, dsaadsaa, age: 21, intelligence: 301, gender: 1, wisdom: 2747, charisma: 313, strenght: 248, mentalHealth: 95, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ sdsaad, dsaadsaa, age: 22, intelligence: 311, gender: 1, wisdom: 3059, charisma: 322, strenght: 258, mentalHealth: 94, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ sdsaad, dsaadsaa, age: 24, intelligence: 320, gender: 1, wisdom: 3366, charisma: 332, strenght: 269, mentalHealth: 93, earnings: 97740, education: higher, having a Partner: false, FinalExam result: 79
+ sdsaad, dsaadsaa, age: 25, intelligence: 320, gender: 1, wisdom: 3366, charisma: 332, strenght: 269, mentalHealth: 93, earnings: 99880, education: higher, having a Partner: false, FinalExam result: 79
+ sdsaad, dsaadsaa, age: 26, intelligence: 320, gender: 1, wisdom: 3366, charisma: 332, strenght: 269, mentalHealth: 93, earnings: 102038, education: higher, having a Partner: false, FinalExam result: 79
+ sdsaad, dsaadsaa, age: 27, intelligence: 320, gender: 1, wisdom: 3366, charisma: 332, strenght: 269, mentalHealth: 93, earnings: 104207, education: higher, having a Partner: false, FinalExam result: 79
+ sdsaad, dsaadsaa, age: 28, intelligence: 320, gender: 1, wisdom: 3366, charisma: 332, strenght: 269, mentalHealth: 93, earnings: 106395, education: higher, having a Partner: false, FinalExam result: 79
+ sdsaad, dsaadsaa, age: 29, intelligence: 320, gender: 1, wisdom: 3366, charisma: 332, strenght: 269, mentalHealth: 93, earnings: 108583, education: higher, having a Partner: false, FinalExam result: 79
+ sdsaad, dsaadsaa, age: 30, intelligence: 320, gender: 1, wisdom: 3366, charisma: 332, strenght: 269, mentalHealth: 93, earnings: 110789, education: higher, having a Partner: false, FinalExam result: 79
+ Jakub, Test, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 3, intelligence: 54, gender: 1, wisdom: 83, charisma: 52, strenght: 47, mentalHealth: 90, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 4, intelligence: 67, gender: 1, wisdom: 133, charisma: 63, strenght: 55, mentalHealth: 129, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 5, intelligence: 82, gender: 1, wisdom: 172, charisma: 76, strenght: 64, mentalHealth: 105, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 6, intelligence: 97, gender: 1, wisdom: 232, charisma: 88, strenght: 72, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 7, intelligence: 113, gender: 1, wisdom: 315, charisma: 101, strenght: 84, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 8, intelligence: 130, gender: 1, wisdom: 397, charisma: 114, strenght: 98, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 9, intelligence: 145, gender: 1, wisdom: 506, charisma: 130, strenght: 110, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 10, intelligence: 160, gender: 1, wisdom: 622, charisma: 144, strenght: 125, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 11, intelligence: 177, gender: 1, wisdom: 727, charisma: 160, strenght: 142, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 12, intelligence: 197, gender: 1, wisdom: 854, charisma: 177, strenght: 156, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 13, intelligence: 212, gender: 1, wisdom: 969, charisma: 191, strenght: 171, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 14, intelligence: 229, gender: 1, wisdom: 1089, charisma: 206, strenght: 185, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 15, intelligence: 246, gender: 1, wisdom: 1317, charisma: 221, strenght: 202, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 16, intelligence: 266, gender: 1, wisdom: 1609, charisma: 236, strenght: 218, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 17, intelligence: 287, gender: 1, wisdom: 1898, charisma: 251, strenght: 236, mentalHealth: 98, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 19, intelligence: 306, gender: 1, wisdom: 2188, charisma: 269, strenght: 254, mentalHealth: 100, earnings: 20100, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, Ptaszkowski, age: 20, intelligence: 306, gender: 1, wisdom: 2188, charisma: 269, strenght: 254, mentalHealth: 100, earnings: 21304, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, Ptaszkowski, age: 21, intelligence: 306, gender: 1, wisdom: 2188, charisma: 269, strenght: 254, mentalHealth: 100, earnings: 22522, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, Ptaszkowski, age: 22, intelligence: 306, gender: 1, wisdom: 2188, charisma: 269, strenght: 254, mentalHealth: 100, earnings: 23761, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, Ptaszkowski, age: 23, intelligence: 306, gender: 1, wisdom: 2188, charisma: 269, strenght: 254, mentalHealth: 100, earnings: 25001, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, Ptaszkowski, age: 24, intelligence: 306, gender: 1, wisdom: 2188, charisma: 269, strenght: 254, mentalHealth: 100, earnings: 26252, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, Ptaszkowski, age: 25, intelligence: 306, gender: 1, wisdom: 2188, charisma: 269, strenght: 254, mentalHealth: 100, earnings: 27516, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, Ptaszkowski, age: 26, intelligence: 306, gender: 1, wisdom: 2188, charisma: 269, strenght: 254, mentalHealth: 100, earnings: 28792, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, Ptaszkowski, age: 27, intelligence: 306, gender: 1, wisdom: 2188, charisma: 269, strenght: 254, mentalHealth: 100, earnings: 30071, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, Ptaszkowski, age: 28, intelligence: 306, gender: 1, wisdom: 2188, charisma: 269, strenght: 254, mentalHealth: 100, earnings: 31356, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, Ptaszkowski, age: 29, intelligence: 306, gender: 1, wisdom: 2188, charisma: 269, strenght: 254, mentalHealth: 100, earnings: 32641, education: secondary, having a Partner: false, FinalExam result: 62
+ Jakub, Ptaszkowski, age: 30, intelligence: 306, gender: 1, wisdom: 2188, charisma: 269, strenght: 254, mentalHealth: 100, earnings: 33940, education: secondary, having a Partner: false, FinalExam result: 62
+ test, test, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 3, intelligence: 50, gender: 1, wisdom: 76, charisma: 54, strenght: 50, mentalHealth: 106, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 4, intelligence: 55, gender: 1, wisdom: 105, charisma: 58, strenght: 55, mentalHealth: 104, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 5, intelligence: 63, gender: 1, wisdom: 133, charisma: 64, strenght: 61, mentalHealth: 97, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 6, intelligence: 73, gender: 1, wisdom: 178, charisma: 72, strenght: 66, mentalHealth: 87, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 7, intelligence: 85, gender: 1, wisdom: 254, charisma: 83, strenght: 80, mentalHealth: 84, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 8, intelligence: 100, gender: 1, wisdom: 335, charisma: 96, strenght: 96, mentalHealth: 76, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 9, intelligence: 117, gender: 1, wisdom: 422, charisma: 108, strenght: 111, mentalHealth: 60, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 10, intelligence: 130, gender: 1, wisdom: 535, charisma: 121, strenght: 124, mentalHealth: 51, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 11, intelligence: 146, gender: 1, wisdom: 645, charisma: 131, strenght: 138, mentalHealth: 35, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 12, intelligence: 159, gender: 1, wisdom: 749, charisma: 142, strenght: 150, mentalHealth: 27, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 13, intelligence: 171, gender: 1, wisdom: 849, charisma: 154, strenght: 162, mentalHealth: 18, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ test, test, age: 14, intelligence: 182, gender: 1, wisdom: 950, charisma: 162, strenght: 173, mentalHealth: 6, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 3, intelligence: 47, gender: 1, wisdom: 77, charisma: 53, strenght: 47, mentalHealth: 104, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 4, intelligence: 55, gender: 1, wisdom: 113, charisma: 62, strenght: 56, mentalHealth: 120, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 5, intelligence: 64, gender: 1, wisdom: 165, charisma: 73, strenght: 63, mentalHealth: 122, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 6, intelligence: 77, gender: 1, wisdom: 220, charisma: 84, strenght: 75, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 7, intelligence: 87, gender: 1, wisdom: 326, charisma: 97, strenght: 87, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 8, intelligence: 96, gender: 1, wisdom: 402, charisma: 112, strenght: 97, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 9, intelligence: 110, gender: 1, wisdom: 500, charisma: 124, strenght: 110, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 10, intelligence: 122, gender: 1, wisdom: 602, charisma: 139, strenght: 126, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 11, intelligence: 134, gender: 1, wisdom: 704, charisma: 155, strenght: 139, mentalHealth: 91, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 12, intelligence: 147, gender: 1, wisdom: 807, charisma: 173, strenght: 153, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 13, intelligence: 159, gender: 1, wisdom: 898, charisma: 187, strenght: 167, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 14, intelligence: 172, gender: 1, wisdom: 990, charisma: 198, strenght: 182, mentalHealth: 97, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 15, intelligence: 185, gender: 1, wisdom: 1166, charisma: 212, strenght: 197, mentalHealth: 88, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 16, intelligence: 200, gender: 1, wisdom: 1418, charisma: 228, strenght: 214, mentalHealth: 84, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 17, intelligence: 215, gender: 1, wisdom: 1665, charisma: 246, strenght: 229, mentalHealth: 78, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Jakub, age: 18, intelligence: 230, gender: 1, wisdom: 1933, charisma: 264, strenght: 248, mentalHealth: 77, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 65
+ Jakub, Jakub, age: 19, intelligence: 252, gender: 1, wisdom: 2270, charisma: 285, strenght: 266, mentalHealth: 91, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 65
+ Jakub, Jakub, age: 20, intelligence: 261, gender: 1, wisdom: 2583, charisma: 293, strenght: 277, mentalHealth: 87, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 65
+ Jakub, Jakub, age: 21, intelligence: 271, gender: 1, wisdom: 2912, charisma: 302, strenght: 288, mentalHealth: 86, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 65
+ Jakub, Jakub, age: 22, intelligence: 281, gender: 1, wisdom: 3263, charisma: 312, strenght: 297, mentalHealth: 85, earnings: 0, education: secondary, having a Partner: true, FinalExam result: 65
+ Jakub, Jakub, age: 24, intelligence: 293, gender: 1, wisdom: 3632, charisma: 321, strenght: 305, mentalHealth: 83, earnings: 25996, education: higher, having a Partner: true, FinalExam result: 65
+ Jakub, Jakub, age: 25, intelligence: 293, gender: 1, wisdom: 3632, charisma: 321, strenght: 305, mentalHealth: 83, earnings: 27738, education: higher, having a Partner: true, FinalExam result: 65
+ Jakub, Jakub, age: 26, intelligence: 293, gender: 1, wisdom: 3632, charisma: 321, strenght: 305, mentalHealth: 83, earnings: 29489, education: higher, having a Partner: true, FinalExam result: 65
+ Jakub, Jakub, age: 27, intelligence: 293, gender: 1, wisdom: 3632, charisma: 321, strenght: 305, mentalHealth: 83, earnings: 31246, education: higher, having a Partner: true, FinalExam result: 65
+ Jakub, Jakub, age: 28, intelligence: 293, gender: 1, wisdom: 3632, charisma: 321, strenght: 305, mentalHealth: 83, earnings: 33005, education: higher, having a Partner: true, FinalExam result: 65
+ Jakub, Jakub, age: 29, intelligence: 293, gender: 1, wisdom: 3632, charisma: 321, strenght: 305, mentalHealth: 83, earnings: 34764, education: higher, having a Partner: true, FinalExam result: 65
+ Jakub, Jakub, age: 30, intelligence: 293, gender: 1, wisdom: 3632, charisma: 321, strenght: 305, mentalHealth: 83, earnings: 36523, education: higher, having a Partner: true, FinalExam result: 65
+ dsa, dsa, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 3, intelligence: 51, gender: 1, wisdom: 66, charisma: 50, strenght: 46, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 4, intelligence: 62, gender: 1, wisdom: 103, charisma: 60, strenght: 56, mentalHealth: 112, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 5, intelligence: 75, gender: 1, wisdom: 145, charisma: 69, strenght: 67, mentalHealth: 122, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 6, intelligence: 87, gender: 1, wisdom: 197, charisma: 81, strenght: 77, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 7, intelligence: 100, gender: 1, wisdom: 292, charisma: 89, strenght: 87, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 8, intelligence: 116, gender: 1, wisdom: 391, charisma: 98, strenght: 99, mentalHealth: 92, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 9, intelligence: 131, gender: 1, wisdom: 471, charisma: 112, strenght: 110, mentalHealth: 88, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 10, intelligence: 147, gender: 1, wisdom: 567, charisma: 124, strenght: 122, mentalHealth: 95, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 11, intelligence: 163, gender: 1, wisdom: 671, charisma: 139, strenght: 134, mentalHealth: 95, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 12, intelligence: 179, gender: 1, wisdom: 791, charisma: 154, strenght: 149, mentalHealth: 96, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 13, intelligence: 195, gender: 1, wisdom: 896, charisma: 167, strenght: 160, mentalHealth: 91, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 14, intelligence: 212, gender: 1, wisdom: 1017, charisma: 180, strenght: 172, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 15, intelligence: 229, gender: 1, wisdom: 1219, charisma: 196, strenght: 187, mentalHealth: 82, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 16, intelligence: 249, gender: 1, wisdom: 1452, charisma: 211, strenght: 201, mentalHealth: 76, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 17, intelligence: 268, gender: 1, wisdom: 1698, charisma: 223, strenght: 214, mentalHealth: 56, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ dsa, dsa, age: 18, intelligence: 283, gender: 1, wisdom: 1937, charisma: 236, strenght: 228, mentalHealth: 40, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 87
+ dsa, dsa, age: 19, intelligence: 302, gender: 1, wisdom: 2280, charisma: 259, strenght: 250, mentalHealth: 88, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 87
+ dsa, dsa, age: 20, intelligence: 311, gender: 1, wisdom: 2583, charisma: 267, strenght: 257, mentalHealth: 86, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 87
+ dsa, dsa, age: 21, intelligence: 320, gender: 1, wisdom: 2901, charisma: 279, strenght: 268, mentalHealth: 82, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 87
+ dsa, dsa, age: 22, intelligence: 330, gender: 1, wisdom: 3238, charisma: 287, strenght: 278, mentalHealth: 77, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 87
+ dsa, dsa, age: 24, intelligence: 341, gender: 1, wisdom: 3570, charisma: 298, strenght: 288, mentalHealth: 76, earnings: 95806, education: higher, having a Partner: false, FinalExam result: 87
+ dsa, dsa, age: 25, intelligence: 341, gender: 1, wisdom: 3570, charisma: 298, strenght: 288, mentalHealth: 76, earnings: 98205, education: higher, having a Partner: true, FinalExam result: 87
+ dsa, dsa, age: 26, intelligence: 341, gender: 1, wisdom: 3570, charisma: 298, strenght: 288, mentalHealth: 76, earnings: 100626, education: higher, having a Partner: true, FinalExam result: 87
+ dsa, dsa, age: 27, intelligence: 341, gender: 1, wisdom: 3570, charisma: 298, strenght: 288, mentalHealth: 76, earnings: 103065, education: higher, having a Partner: true, FinalExam result: 87
+ dsa, dsa, age: 28, intelligence: 341, gender: 1, wisdom: 3570, charisma: 298, strenght: 288, mentalHealth: 76, earnings: 105505, education: higher, having a Partner: true, FinalExam result: 87
+ dsa, dsa, age: 29, intelligence: 341, gender: 1, wisdom: 3570, charisma: 298, strenght: 288, mentalHealth: 76, earnings: 107953, education: higher, having a Partner: true, FinalExam result: 87
+ dsa, dsa, age: 30, intelligence: 341, gender: 1, wisdom: 3570, charisma: 298, strenght: 288, mentalHealth: 76, earnings: 110405, education: higher, having a Partner: true, FinalExam result: 87
+ Jaakub, Jakub, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 3, intelligence: 53, gender: 1, wisdom: 71, charisma: 48, strenght: 47, mentalHealth: 99, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 4, intelligence: 61, gender: 1, wisdom: 99, charisma: 55, strenght: 55, mentalHealth: 139, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 5, intelligence: 69, gender: 1, wisdom: 140, charisma: 63, strenght: 63, mentalHealth: 130, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 6, intelligence: 79, gender: 1, wisdom: 179, charisma: 74, strenght: 75, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 7, intelligence: 91, gender: 1, wisdom: 281, charisma: 87, strenght: 87, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 8, intelligence: 103, gender: 1, wisdom: 371, charisma: 96, strenght: 100, mentalHealth: 95, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 9, intelligence: 116, gender: 1, wisdom: 471, charisma: 110, strenght: 113, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 10, intelligence: 129, gender: 1, wisdom: 585, charisma: 121, strenght: 126, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 11, intelligence: 145, gender: 1, wisdom: 691, charisma: 134, strenght: 142, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 12, intelligence: 159, gender: 1, wisdom: 797, charisma: 150, strenght: 158, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 13, intelligence: 172, gender: 1, wisdom: 916, charisma: 161, strenght: 170, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 14, intelligence: 185, gender: 1, wisdom: 1031, charisma: 172, strenght: 183, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 15, intelligence: 199, gender: 1, wisdom: 1247, charisma: 184, strenght: 197, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 16, intelligence: 212, gender: 1, wisdom: 1465, charisma: 199, strenght: 213, mentalHealth: 98, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 17, intelligence: 227, gender: 1, wisdom: 1715, charisma: 212, strenght: 229, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jaakub, Jakub, age: 18, intelligence: 243, gender: 1, wisdom: 1960, charisma: 227, strenght: 244, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 63
+ Jaakub, Jakub, age: 19, intelligence: 264, gender: 1, wisdom: 2359, charisma: 247, strenght: 264, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 63
+ Jaakub, Jakub, age: 20, intelligence: 275, gender: 1, wisdom: 2668, charisma: 258, strenght: 272, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 63
+ Jaakub, Jakub, age: 21, intelligence: 284, gender: 1, wisdom: 2996, charisma: 266, strenght: 280, mentalHealth: 98, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 63
+ Jaakub, Jakub, age: 22, intelligence: 294, gender: 1, wisdom: 3299, charisma: 276, strenght: 292, mentalHealth: 95, earnings: 0, education: secondary, having a Partner: true, FinalExam result: 63
+ Jaakub, Jakub, age: 24, intelligence: 306, gender: 1, wisdom: 3652, charisma: 285, strenght: 303, mentalHealth: 95, earnings: 53634, education: higher, having a Partner: true, FinalExam result: 63
+ Jaakub, Jakub, age: 25, intelligence: 306, gender: 1, wisdom: 3652, charisma: 285, strenght: 303, mentalHealth: 95, earnings: 54760, education: higher, having a Partner: true, FinalExam result: 63
+ Jaakub, Jakub, age: 26, intelligence: 306, gender: 1, wisdom: 3652, charisma: 285, strenght: 303, mentalHealth: 95, earnings: 55888, education: higher, having a Partner: true, FinalExam result: 63
+ Jaakub, Jakub, age: 27, intelligence: 306, gender: 1, wisdom: 3652, charisma: 285, strenght: 303, mentalHealth: 95, earnings: 57017, education: higher, having a Partner: true, FinalExam result: 63
+ Jaakub, Jakub, age: 28, intelligence: 306, gender: 1, wisdom: 3652, charisma: 285, strenght: 303, mentalHealth: 95, earnings: 58149, education: higher, having a Partner: true, FinalExam result: 63
+ Jaakub, Jakub, age: 29, intelligence: 306, gender: 1, wisdom: 3652, charisma: 285, strenght: 303, mentalHealth: 95, earnings: 59290, education: higher, having a Partner: true, FinalExam result: 63
+ Jaakub, Jakub, age: 30, intelligence: 306, gender: 1, wisdom: 3652, charisma: 285, strenght: 303, mentalHealth: 95, earnings: 60443, education: higher, having a Partner: true, FinalExam result: 63
+ Jaakub, Ptaszkowski, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 3, intelligence: 56, gender: 1, wisdom: 90, charisma: 51, strenght: 49, mentalHealth: 95, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 4, intelligence: 67, gender: 1, wisdom: 145, charisma: 60, strenght: 57, mentalHealth: 134, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 5, intelligence: 81, gender: 1, wisdom: 199, charisma: 68, strenght: 67, mentalHealth: 133, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 6, intelligence: 93, gender: 1, wisdom: 261, charisma: 81, strenght: 77, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 7, intelligence: 109, gender: 1, wisdom: 354, charisma: 92, strenght: 87, mentalHealth: 97, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 8, intelligence: 126, gender: 1, wisdom: 445, charisma: 104, strenght: 100, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 9, intelligence: 144, gender: 1, wisdom: 552, charisma: 118, strenght: 112, mentalHealth: 96, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 10, intelligence: 158, gender: 1, wisdom: 660, charisma: 130, strenght: 123, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 11, intelligence: 177, gender: 1, wisdom: 770, charisma: 144, strenght: 138, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 12, intelligence: 197, gender: 1, wisdom: 866, charisma: 161, strenght: 155, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 13, intelligence: 211, gender: 1, wisdom: 965, charisma: 175, strenght: 166, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 14, intelligence: 224, gender: 1, wisdom: 1076, charisma: 191, strenght: 181, mentalHealth: 94, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 15, intelligence: 239, gender: 1, wisdom: 1261, charisma: 208, strenght: 198, mentalHealth: 93, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 16, intelligence: 256, gender: 1, wisdom: 1482, charisma: 224, strenght: 214, mentalHealth: 87, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 17, intelligence: 275, gender: 1, wisdom: 1697, charisma: 239, strenght: 230, mentalHealth: 84, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Jakub, Ptaszkowski, age: 18, intelligence: 294, gender: 1, wisdom: 1937, charisma: 259, strenght: 250, mentalHealth: 93, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 77
+ Jakub, Ptaszkowski, age: 19, intelligence: 314, gender: 1, wisdom: 2325, charisma: 278, strenght: 273, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 77
+ Jakub, Ptaszkowski, age: 20, intelligence: 326, gender: 1, wisdom: 2608, charisma: 289, strenght: 283, mentalHealth: 97, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 77
+ Jakub, Ptaszkowski, age: 21, intelligence: 337, gender: 1, wisdom: 2918, charisma: 300, strenght: 292, mentalHealth: 97, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 77
+ Jakub, Ptaszkowski, age: 22, intelligence: 349, gender: 1, wisdom: 3240, charisma: 311, strenght: 300, mentalHealth: 96, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 77
+ Jakub, Ptaszkowski, age: 24, intelligence: 363, gender: 1, wisdom: 3574, charisma: 320, strenght: 312, mentalHealth: 93, earnings: 87287, education: higher, having a Partner: false, FinalExam result: 77
+ Jakub, Ptaszkowski, age: 25, intelligence: 363, gender: 1, wisdom: 3574, charisma: 320, strenght: 312, mentalHealth: 93, earnings: 89244, education: higher, having a Partner: false, FinalExam result: 77
+ Jakub, Ptaszkowski, age: 26, intelligence: 363, gender: 1, wisdom: 3574, charisma: 320, strenght: 312, mentalHealth: 93, earnings: 91202, education: higher, having a Partner: false, FinalExam result: 77
+ Jakub, Ptaszkowski, age: 27, intelligence: 363, gender: 1, wisdom: 3574, charisma: 320, strenght: 312, mentalHealth: 93, earnings: 93162, education: higher, having a Partner: false, FinalExam result: 77
+ Jakub, Ptaszkowski, age: 28, intelligence: 363, gender: 1, wisdom: 3574, charisma: 320, strenght: 312, mentalHealth: 93, earnings: 95129, education: higher, having a Partner: true, FinalExam result: 77
+ Jakub, Ptaszkowski, age: 29, intelligence: 363, gender: 1, wisdom: 3574, charisma: 320, strenght: 312, mentalHealth: 93, earnings: 97098, education: higher, having a Partner: true, FinalExam result: 77
+ Jakub, Ptaszkowski, age: 30, intelligence: 363, gender: 1, wisdom: 3574, charisma: 320, strenght: 312, mentalHealth: 93, earnings: 99090, education: higher, having a Partner: true, FinalExam result: 77
+ Wojtek, Bonk, age: 1, intelligence: 100, gender: 1, wisdom: 80, charisma: 60, strenght: 70, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 3, intelligence: 116, gender: 1, wisdom: 121, charisma: 74, strenght: 75, mentalHealth: 106, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 4, intelligence: 124, gender: 1, wisdom: 161, charisma: 80, strenght: 79, mentalHealth: 130, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 5, intelligence: 129, gender: 1, wisdom: 213, charisma: 89, strenght: 82, mentalHealth: 140, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 6, intelligence: 134, gender: 1, wisdom: 251, charisma: 99, strenght: 87, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 7, intelligence: 146, gender: 1, wisdom: 331, charisma: 113, strenght: 98, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 8, intelligence: 159, gender: 1, wisdom: 420, charisma: 132, strenght: 109, mentalHealth: 99, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 9, intelligence: 173, gender: 1, wisdom: 529, charisma: 150, strenght: 123, mentalHealth: 71, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 10, intelligence: 187, gender: 1, wisdom: 641, charisma: 165, strenght: 136, mentalHealth: 48, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 11, intelligence: 200, gender: 1, wisdom: 761, charisma: 179, strenght: 146, mentalHealth: 29, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 12, intelligence: 212, gender: 1, wisdom: 895, charisma: 193, strenght: 155, mentalHealth: 0, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 13, intelligence: 224, gender: 1, wisdom: 995, charisma: 205, strenght: 165, mentalHealth: 0, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 14, intelligence: 234, gender: 1, wisdom: 1116, charisma: 218, strenght: 178, mentalHealth: 0, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 15, intelligence: 248, gender: 1, wisdom: 1288, charisma: 229, strenght: 188, mentalHealth: 0, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 16, intelligence: 261, gender: 1, wisdom: 1524, charisma: 240, strenght: 202, mentalHealth: 9, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 17, intelligence: 271, gender: 1, wisdom: 1730, charisma: 251, strenght: 213, mentalHealth: 0, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Wojtek, Bonk, age: 18, intelligence: 283, gender: 1, wisdom: 1976, charisma: 264, strenght: 229, mentalHealth: 0, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 74
+ Wojtek, Bonk, age: 19, intelligence: 296, gender: 1, wisdom: 2301, charisma: 276, strenght: 243, mentalHealth: 0, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 74
+ Wojtek, Bonk, age: 20, intelligence: 300, gender: 1, wisdom: 2613, charisma: 276, strenght: 246, mentalHealth: 0, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 74
+ Wojtek, Bonk, age: 21, intelligence: 304, gender: 1, wisdom: 2868, charisma: 278, strenght: 250, mentalHealth: 0, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 74
+ Wojtek, Bonk, age: 22, intelligence: 307, gender: 1, wisdom: 3096, charisma: 280, strenght: 252, mentalHealth: 0, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 74
+ Wojtek, Bonk, age: 24, intelligence: 310, gender: 1, wisdom: 3324, charisma: 283, strenght: 254, mentalHealth: 0, earnings: 50350, education: higher, having a Partner: false, FinalExam result: 74
+ Wojtek, Bonk, age: 25, intelligence: 310, gender: 1, wisdom: 3324, charisma: 283, strenght: 254, mentalHealth: 0, earnings: 52622, education: higher, having a Partner: false, FinalExam result: 74
+ Wojtek, Bonk, age: 26, intelligence: 310, gender: 1, wisdom: 3324, charisma: 283, strenght: 254, mentalHealth: 0, earnings: 54913, education: higher, having a Partner: false, FinalExam result: 74
+ Wojtek, Bonk, age: 27, intelligence: 310, gender: 1, wisdom: 3324, charisma: 283, strenght: 254, mentalHealth: 0, earnings: 57219, education: higher, having a Partner: false, FinalExam result: 74
+ Wojtek, Bonk, age: 28, intelligence: 310, gender: 1, wisdom: 3324, charisma: 283, strenght: 254, mentalHealth: 0, earnings: 59541, education: higher, having a Partner: true, FinalExam result: 74
+ Wojtek, Bonk, age: 29, intelligence: 310, gender: 1, wisdom: 3324, charisma: 283, strenght: 254, mentalHealth: 0, earnings: 61863, education: higher, having a Partner: true, FinalExam result: 74
+ Wojtek, Bonk, age: 30, intelligence: 310, gender: 1, wisdom: 3324, charisma: 283, strenght: 254, mentalHealth: 0, earnings: 64190, education: higher, having a Partner: true, FinalExam result: 74
+ Daniel, Jablonski, age: 1, intelligence: 100, gender: 1, wisdom: 40, charisma: 100, strenght: 100, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 3, intelligence: 113, gender: 1, wisdom: 69, charisma: 119, strenght: 114, mentalHealth: 83, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 4, intelligence: 128, gender: 1, wisdom: 110, charisma: 130, strenght: 128, mentalHealth: 94, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 5, intelligence: 144, gender: 1, wisdom: 153, charisma: 144, strenght: 140, mentalHealth: 124, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 6, intelligence: 160, gender: 1, wisdom: 203, charisma: 159, strenght: 157, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 7, intelligence: 175, gender: 1, wisdom: 290, charisma: 173, strenght: 174, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 8, intelligence: 193, gender: 1, wisdom: 383, charisma: 192, strenght: 188, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 9, intelligence: 210, gender: 1, wisdom: 481, charisma: 209, strenght: 203, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 10, intelligence: 229, gender: 1, wisdom: 578, charisma: 225, strenght: 219, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 11, intelligence: 247, gender: 1, wisdom: 679, charisma: 244, strenght: 237, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 12, intelligence: 264, gender: 1, wisdom: 794, charisma: 265, strenght: 255, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 13, intelligence: 281, gender: 1, wisdom: 888, charisma: 284, strenght: 270, mentalHealth: 87, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 14, intelligence: 300, gender: 1, wisdom: 1006, charisma: 303, strenght: 287, mentalHealth: 82, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 15, intelligence: 322, gender: 1, wisdom: 1275, charisma: 321, strenght: 306, mentalHealth: 92, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 16, intelligence: 341, gender: 1, wisdom: 1551, charisma: 343, strenght: 328, mentalHealth: 97, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 17, intelligence: 360, gender: 1, wisdom: 1815, charisma: 364, strenght: 350, mentalHealth: 96, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Daniel, Jablonski, age: 18, intelligence: 385, gender: 1, wisdom: 2061, charisma: 387, strenght: 370, mentalHealth: 84, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 89
+ Daniel, Jablonski, age: 19, intelligence: 412, gender: 1, wisdom: 2375, charisma: 410, strenght: 396, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 89
+ Daniel, Jablonski, age: 20, intelligence: 427, gender: 1, wisdom: 2640, charisma: 422, strenght: 407, mentalHealth: 99, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 89
+ Daniel, Jablonski, age: 21, intelligence: 440, gender: 1, wisdom: 2928, charisma: 437, strenght: 422, mentalHealth: 96, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 89
+ Daniel, Jablonski, age: 22, intelligence: 455, gender: 1, wisdom: 3213, charisma: 452, strenght: 434, mentalHealth: 93, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 89
+ Daniel, Jablonski, age: 24, intelligence: 468, gender: 1, wisdom: 3542, charisma: 466, strenght: 450, mentalHealth: 92, earnings: 104473, education: higher, having a Partner: false, FinalExam result: 89
+ Daniel, Jablonski, age: 25, intelligence: 468, gender: 1, wisdom: 3542, charisma: 466, strenght: 450, mentalHealth: 92, earnings: 107358, education: higher, having a Partner: false, FinalExam result: 89
+ Daniel, Jablonski, age: 26, intelligence: 468, gender: 1, wisdom: 3542, charisma: 466, strenght: 450, mentalHealth: 92, earnings: 110258, education: higher, having a Partner: true, FinalExam result: 89
+ Daniel, Jablonski, age: 27, intelligence: 468, gender: 1, wisdom: 3542, charisma: 466, strenght: 450, mentalHealth: 92, earnings: 113163, education: higher, having a Partner: true, FinalExam result: 89
+ Daniel, Jablonski, age: 28, intelligence: 468, gender: 1, wisdom: 3542, charisma: 466, strenght: 450, mentalHealth: 92, earnings: 116079, education: higher, having a Partner: true, FinalExam result: 89
+ Daniel, Jablonski, age: 29, intelligence: 468, gender: 1, wisdom: 3542, charisma: 466, strenght: 450, mentalHealth: 92, earnings: 118998, education: higher, having a Partner: true, FinalExam result: 89
+ Daniel, Jablonski, age: 30, intelligence: 468, gender: 1, wisdom: 3542, charisma: 466, strenght: 450, mentalHealth: 92, earnings: 121934, education: higher, having a Partner: true, FinalExam result: 89
+ Ewa, Fraczek, age: 1, intelligence: 100, gender: 2, wisdom: 100, charisma: 100, strenght: 100, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 3, intelligence: 113, gender: 2, wisdom: 127, charisma: 120, strenght: 114, mentalHealth: 97, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 4, intelligence: 124, gender: 2, wisdom: 175, charisma: 134, strenght: 127, mentalHealth: 125, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 5, intelligence: 132, gender: 2, wisdom: 225, charisma: 150, strenght: 137, mentalHealth: 120, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 6, intelligence: 142, gender: 2, wisdom: 259, charisma: 163, strenght: 152, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 7, intelligence: 153, gender: 2, wisdom: 342, charisma: 177, strenght: 166, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 8, intelligence: 165, gender: 2, wisdom: 441, charisma: 193, strenght: 180, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 9, intelligence: 182, gender: 2, wisdom: 537, charisma: 211, strenght: 197, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 10, intelligence: 198, gender: 2, wisdom: 648, charisma: 230, strenght: 216, mentalHealth: 93, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 11, intelligence: 214, gender: 2, wisdom: 749, charisma: 250, strenght: 231, mentalHealth: 94, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 12, intelligence: 232, gender: 2, wisdom: 880, charisma: 270, strenght: 249, mentalHealth: 98, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 13, intelligence: 247, gender: 2, wisdom: 1025, charisma: 286, strenght: 266, mentalHealth: 99, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 14, intelligence: 263, gender: 2, wisdom: 1162, charisma: 303, strenght: 285, mentalHealth: 93, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 15, intelligence: 281, gender: 2, wisdom: 1407, charisma: 324, strenght: 301, mentalHealth: 94, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 16, intelligence: 297, gender: 2, wisdom: 1640, charisma: 345, strenght: 320, mentalHealth: 91, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 17, intelligence: 315, gender: 2, wisdom: 1919, charisma: 364, strenght: 340, mentalHealth: 80, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Ewa, Fraczek, age: 18, intelligence: 330, gender: 2, wisdom: 2159, charisma: 381, strenght: 355, mentalHealth: 63, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 76
+ Ewa, Fraczek, age: 19, intelligence: 354, gender: 2, wisdom: 2492, charisma: 405, strenght: 378, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 76
+ Ewa, Fraczek, age: 20, intelligence: 364, gender: 2, wisdom: 2823, charisma: 419, strenght: 390, mentalHealth: 95, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 76
+ Ewa, Fraczek, age: 21, intelligence: 378, gender: 2, wisdom: 3108, charisma: 435, strenght: 401, mentalHealth: 93, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 76
+ Ewa, Fraczek, age: 22, intelligence: 390, gender: 2, wisdom: 3410, charisma: 448, strenght: 415, mentalHealth: 91, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 76
+ Ewa, Fraczek, age: 24, intelligence: 405, gender: 2, wisdom: 3716, charisma: 461, strenght: 430, mentalHealth: 87, earnings: 69636, education: higher, having a Partner: true, FinalExam result: 76
+ Ewa, Fraczek, age: 25, intelligence: 405, gender: 2, wisdom: 3716, charisma: 461, strenght: 430, mentalHealth: 87, earnings: 72251, education: higher, having a Partner: true, FinalExam result: 76
+ Ewa, Fraczek, age: 26, intelligence: 405, gender: 2, wisdom: 3716, charisma: 461, strenght: 430, mentalHealth: 87, earnings: 74873, education: higher, having a Partner: true, FinalExam result: 76
+ Ewa, Fraczek, age: 27, intelligence: 405, gender: 2, wisdom: 3716, charisma: 461, strenght: 430, mentalHealth: 87, earnings: 77499, education: higher, having a Partner: true, FinalExam result: 76
+ Ewa, Fraczek, age: 28, intelligence: 405, gender: 2, wisdom: 3716, charisma: 461, strenght: 430, mentalHealth: 87, earnings: 80135, education: higher, having a Partner: true, FinalExam result: 76
+ Ewa, Fraczek, age: 29, intelligence: 405, gender: 2, wisdom: 3716, charisma: 461, strenght: 430, mentalHealth: 87, earnings: 82782, education: higher, having a Partner: true, FinalExam result: 76
+ Ewa, Fraczek, age: 30, intelligence: 405, gender: 2, wisdom: 3716, charisma: 461, strenght: 430, mentalHealth: 87, earnings: 85444, education: higher, having a Partner: true, FinalExam result: 76
+ Bogdan , Gulowaty, age: 1, intelligence: 100, gender: 1, wisdom: 100, charisma: 100, strenght: 100, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 3, intelligence: 113, gender: 1, wisdom: 127, charisma: 115, strenght: 116, mentalHealth: 88, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 4, intelligence: 122, gender: 1, wisdom: 153, charisma: 127, strenght: 126, mentalHealth: 105, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 5, intelligence: 131, gender: 1, wisdom: 198, charisma: 142, strenght: 142, mentalHealth: 112, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 6, intelligence: 141, gender: 1, wisdom: 233, charisma: 156, strenght: 155, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 7, intelligence: 153, gender: 1, wisdom: 310, charisma: 171, strenght: 168, mentalHealth: 90, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 8, intelligence: 164, gender: 1, wisdom: 403, charisma: 185, strenght: 183, mentalHealth: 83, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 9, intelligence: 176, gender: 1, wisdom: 486, charisma: 201, strenght: 197, mentalHealth: 86, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 10, intelligence: 189, gender: 1, wisdom: 563, charisma: 216, strenght: 212, mentalHealth: 87, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 11, intelligence: 202, gender: 1, wisdom: 661, charisma: 235, strenght: 227, mentalHealth: 88, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 12, intelligence: 217, gender: 1, wisdom: 781, charisma: 252, strenght: 243, mentalHealth: 81, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 13, intelligence: 230, gender: 1, wisdom: 880, charisma: 269, strenght: 260, mentalHealth: 76, earnings: 0, education: none, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 14, intelligence: 245, gender: 1, wisdom: 972, charisma: 286, strenght: 275, mentalHealth: 73, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 15, intelligence: 262, gender: 1, wisdom: 1201, charisma: 304, strenght: 293, mentalHealth: 72, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 16, intelligence: 274, gender: 1, wisdom: 1450, charisma: 317, strenght: 309, mentalHealth: 58, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 17, intelligence: 287, gender: 1, wisdom: 1690, charisma: 334, strenght: 325, mentalHealth: 58, earnings: 0, education: basic, having a Partner: false, FinalExam result: 0
+ Bogdan , Gulowaty, age: 18, intelligence: 302, gender: 1, wisdom: 1931, charisma: 350, strenght: 343, mentalHealth: 65, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ Bogdan , Gulowaty, age: 19, intelligence: 323, gender: 1, wisdom: 2230, charisma: 372, strenght: 365, mentalHealth: 68, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ Bogdan , Gulowaty, age: 20, intelligence: 331, gender: 1, wisdom: 2487, charisma: 383, strenght: 376, mentalHealth: 68, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ Bogdan , Gulowaty, age: 21, intelligence: 340, gender: 1, wisdom: 2736, charisma: 390, strenght: 387, mentalHealth: 66, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ Bogdan , Gulowaty, age: 22, intelligence: 346, gender: 1, wisdom: 2994, charisma: 400, strenght: 397, mentalHealth: 65, earnings: 0, education: secondary, having a Partner: false, FinalExam result: 79
+ Bogdan , Gulowaty, age: 24, intelligence: 352, gender: 1, wisdom: 3244, charisma: 409, strenght: 408, mentalHealth: 62, earnings: 50083, education: higher, having a Partner: false, FinalExam result: 79
+ Bogdan , Gulowaty, age: 25, intelligence: 352, gender: 1, wisdom: 3244, charisma: 409, strenght: 408, mentalHealth: 62, earnings: 52064, education: higher, having a Partner: false, FinalExam result: 79
+ Bogdan , Gulowaty, age: 26, intelligence: 352, gender: 1, wisdom: 3244, charisma: 409, strenght: 408, mentalHealth: 62, earnings: 54046, education: higher, having a Partner: false, FinalExam result: 79
+ Bogdan , Gulowaty, age: 27, intelligence: 352, gender: 1, wisdom: 3244, charisma: 409, strenght: 408, mentalHealth: 62, earnings: 56032, education: higher, having a Partner: false, FinalExam result: 79
+ Bogdan , Gulowaty, age: 28, intelligence: 352, gender: 1, wisdom: 3244, charisma: 409, strenght: 408, mentalHealth: 62, earnings: 58023, education: higher, having a Partner: true, FinalExam result: 79
+ Bogdan , Gulowaty, age: 29, intelligence: 352, gender: 1, wisdom: 3244, charisma: 409, strenght: 408, mentalHealth: 62, earnings: 60023, education: higher, having a Partner: true, FinalExam result: 79
+ Bogdan , Gulowaty, age: 30, intelligence: 352, gender: 1, wisdom: 3244, charisma: 409, strenght: 408, mentalHealth: 62, earnings: 62029, education: higher, having a Partner: true, FinalExam result: 79
+ 12312, 132131, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 3, intelligence: 48, gender: 1, wisdom: 82, charisma: 46, strenght: 49, mentalHealth: 92, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 4, intelligence: 56, gender: 1, wisdom: 127, charisma: 52, strenght: 59, mentalHealth: 126, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 5, intelligence: 66, gender: 1, wisdom: 188, charisma: 60, strenght: 69, mentalHealth: 122, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 6, intelligence: 78, gender: 1, wisdom: 253, charisma: 67, strenght: 80, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 7, intelligence: 88, gender: 1, wisdom: 347, charisma: 79, strenght: 92, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 8, intelligence: 100, gender: 1, wisdom: 463, charisma: 91, strenght: 101, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 9, intelligence: 112, gender: 1, wisdom: 570, charisma: 102, strenght: 112, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 10, intelligence: 124, gender: 1, wisdom: 671, charisma: 117, strenght: 123, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 11, intelligence: 138, gender: 1, wisdom: 801, charisma: 131, strenght: 134, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 12, intelligence: 153, gender: 1, wisdom: 938, charisma: 145, strenght: 150, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 13, intelligence: 164, gender: 1, wisdom: 1062, charisma: 159, strenght: 165, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 14, intelligence: 177, gender: 1, wisdom: 1189, charisma: 174, strenght: 179, mentalHealth: 96, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 15, intelligence: 192, gender: 1, wisdom: 1405, charisma: 186, strenght: 195, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 16, intelligence: 208, gender: 1, wisdom: 1637, charisma: 199, strenght: 214, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 17, intelligence: 224, gender: 1, wisdom: 1878, charisma: 215, strenght: 232, mentalHealth: 100, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ 12312, 132131, age: 18, intelligence: 239, gender: 1, wisdom: 2140, charisma: 231, strenght: 250, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 84
+ 12312, 132131, age: 19, intelligence: 258, gender: 1, wisdom: 2489, charisma: 251, strenght: 270, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 84
+ 12312, 132131, age: 20, intelligence: 266, gender: 1, wisdom: 2827, charisma: 258, strenght: 281, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 84
+ 12312, 132131, age: 21, intelligence: 277, gender: 1, wisdom: 3146, charisma: 266, strenght: 293, mentalHealth: 100, earnings: 0, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 84
+ 12312, 132131, age: 22, intelligence: 289, gender: 1, wisdom: 3471, charisma: 274, strenght: 304, mentalHealth: 98, earnings: 0, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 84
+ 12312, 132131, age: 24, intelligence: 299, gender: 1, wisdom: 3807, charisma: 283, strenght: 313, mentalHealth: 97, earnings: 72080, education: higher, having a Partner: false, having a Partner: []FinalExam result: 84
+ 12312, 132131, age: 25, intelligence: 299, gender: 1, wisdom: 3807, charisma: 283, strenght: 313, mentalHealth: 97, earnings: 74630, education: higher, having a Partner: false, having a Partner: []FinalExam result: 84
+ 12312, 132131, age: 26, intelligence: 299, gender: 1, wisdom: 3807, charisma: 283, strenght: 313, mentalHealth: 97, earnings: 77187, education: higher, having a Partner: false, having a Partner: []FinalExam result: 84
+ 12312, 132131, age: 27, intelligence: 299, gender: 1, wisdom: 3807, charisma: 283, strenght: 313, mentalHealth: 97, earnings: 79758, education: higher, having a Partner: false, having a Partner: []FinalExam result: 84
+ 12312, 132131, age: 28, intelligence: 299, gender: 1, wisdom: 3807, charisma: 283, strenght: 313, mentalHealth: 97, earnings: 82330, education: higher, having a Partner: false, having a Partner: []FinalExam result: 84
+ 12312, 132131, age: 29, intelligence: 299, gender: 1, wisdom: 3807, charisma: 283, strenght: 313, mentalHealth: 97, earnings: 84919, education: higher, having a Partner: false, having a Partner: []FinalExam result: 84
+ 12312, 132131, age: 30, intelligence: 299, gender: 1, wisdom: 3807, charisma: 283, strenght: 313, mentalHealth: 97, earnings: 87516, education: higher, having a Partner: true, having a Partner: []FinalExam result: 84
+ Jakub, Ptaszkowski, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 40, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 3, intelligence: 54, gender: 1, wisdom: 78, charisma: 47, strenght: 47, mentalHealth: 117, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 4, intelligence: 64, gender: 1, wisdom: 113, charisma: 57, strenght: 57, mentalHealth: 143, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 5, intelligence: 78, gender: 1, wisdom: 158, charisma: 65, strenght: 66, mentalHealth: 149, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 6, intelligence: 93, gender: 1, wisdom: 207, charisma: 76, strenght: 78, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 7, intelligence: 105, gender: 1, wisdom: 272, charisma: 86, strenght: 90, mentalHealth: 86, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 8, intelligence: 117, gender: 1, wisdom: 336, charisma: 95, strenght: 101, mentalHealth: 77, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 9, intelligence: 129, gender: 1, wisdom: 401, charisma: 106, strenght: 111, mentalHealth: 76, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 10, intelligence: 141, gender: 1, wisdom: 471, charisma: 117, strenght: 122, mentalHealth: 67, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 11, intelligence: 153, gender: 1, wisdom: 545, charisma: 130, strenght: 131, mentalHealth: 64, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 12, intelligence: 167, gender: 1, wisdom: 620, charisma: 143, strenght: 142, mentalHealth: 51, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 13, intelligence: 174, gender: 1, wisdom: 669, charisma: 153, strenght: 150, mentalHealth: 61, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 14, intelligence: 184, gender: 1, wisdom: 718, charisma: 161, strenght: 158, mentalHealth: 49, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 15, intelligence: 194, gender: 1, wisdom: 898, charisma: 173, strenght: 171, mentalHealth: 51, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 16, intelligence: 207, gender: 1, wisdom: 1117, charisma: 182, strenght: 180, mentalHealth: 47, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 17, intelligence: 220, gender: 1, wisdom: 1340, charisma: 191, strenght: 193, mentalHealth: 48, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 19, intelligence: 229, gender: 1, wisdom: 1536, charisma: 201, strenght: 205, mentalHealth: 27, earnings: 89167, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 66
+ Jakub, Ptaszkowski, age: 20, intelligence: 229, gender: 1, wisdom: 1536, charisma: 201, strenght: 205, mentalHealth: 27, earnings: 91100, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 66
+ Jakub, Ptaszkowski, age: 21, intelligence: 229, gender: 1, wisdom: 1536, charisma: 201, strenght: 205, mentalHealth: 27, earnings: 93040, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 66
+ Jakub, Ptaszkowski, age: 22, intelligence: 229, gender: 1, wisdom: 1536, charisma: 201, strenght: 205, mentalHealth: 27, earnings: 94981, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 66
+ Jakub, Ptaszkowski, age: 23, intelligence: 229, gender: 1, wisdom: 1536, charisma: 201, strenght: 205, mentalHealth: 27, earnings: 96938, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 66
+ Jakub, Ptaszkowski, age: 24, intelligence: 229, gender: 1, wisdom: 1536, charisma: 201, strenght: 205, mentalHealth: 27, earnings: 98912, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 66
+ Jakub, Ptaszkowski, age: 25, intelligence: 229, gender: 1, wisdom: 1536, charisma: 201, strenght: 205, mentalHealth: 27, earnings: 100898, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 66
+ Jakub, Ptaszkowski, age: 26, intelligence: 229, gender: 1, wisdom: 1536, charisma: 201, strenght: 205, mentalHealth: 27, earnings: 102898, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 66
+ Jakub, Ptaszkowski, age: 27, intelligence: 229, gender: 1, wisdom: 1536, charisma: 201, strenght: 205, mentalHealth: 27, earnings: 104905, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 66
+ Jakub, Ptaszkowski, age: 28, intelligence: 229, gender: 1, wisdom: 1536, charisma: 201, strenght: 205, mentalHealth: 27, earnings: 106912, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 66
+ Jakub, Ptaszkowski, age: 29, intelligence: 229, gender: 1, wisdom: 1536, charisma: 201, strenght: 205, mentalHealth: 27, earnings: 108930, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 66
+ Jakub, Ptaszkowski, age: 30, intelligence: 229, gender: 1, wisdom: 1536, charisma: 201, strenght: 205, mentalHealth: 27, earnings: 110961, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 66
+ Kubaa, Starosciak, age: 1, intelligence: 100, gender: 1, wisdom: 100, charisma: 100, strenght: 100, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 3, intelligence: 116, gender: 1, wisdom: 131, charisma: 116, strenght: 115, mentalHealth: 107, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 4, intelligence: 132, gender: 1, wisdom: 160, charisma: 127, strenght: 125, mentalHealth: 107, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 5, intelligence: 146, gender: 1, wisdom: 193, charisma: 139, strenght: 134, mentalHealth: 133, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 6, intelligence: 160, gender: 1, wisdom: 245, charisma: 153, strenght: 146, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 7, intelligence: 174, gender: 1, wisdom: 326, charisma: 171, strenght: 159, mentalHealth: 93, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 8, intelligence: 190, gender: 1, wisdom: 392, charisma: 189, strenght: 172, mentalHealth: 90, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 9, intelligence: 207, gender: 1, wisdom: 492, charisma: 207, strenght: 186, mentalHealth: 86, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 10, intelligence: 224, gender: 1, wisdom: 583, charisma: 227, strenght: 202, mentalHealth: 72, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 11, intelligence: 240, gender: 1, wisdom: 704, charisma: 247, strenght: 219, mentalHealth: 78, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 12, intelligence: 257, gender: 1, wisdom: 810, charisma: 266, strenght: 237, mentalHealth: 71, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 13, intelligence: 271, gender: 1, wisdom: 926, charisma: 285, strenght: 251, mentalHealth: 73, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 14, intelligence: 283, gender: 1, wisdom: 1032, charisma: 294, strenght: 261, mentalHealth: 70, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 15, intelligence: 298, gender: 1, wisdom: 1256, charisma: 313, strenght: 280, mentalHealth: 74, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 16, intelligence: 314, gender: 1, wisdom: 1469, charisma: 329, strenght: 294, mentalHealth: 66, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 17, intelligence: 327, gender: 1, wisdom: 1722, charisma: 347, strenght: 309, mentalHealth: 64, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciak, age: 18, intelligence: 342, gender: 1, wisdom: 1975, charisma: 366, strenght: 326, mentalHealth: 68, earnings: 0, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 61
+ Kubaa, Starosciak, age: 19, intelligence: 363, gender: 1, wisdom: 2346, charisma: 389, strenght: 349, mentalHealth: 95, earnings: 0, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 61
+ Kubaa, Starosciak, age: 20, intelligence: 376, gender: 1, wisdom: 2647, charisma: 403, strenght: 363, mentalHealth: 95, earnings: 0, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 61
+ Kubaa, Starosciak, age: 21, intelligence: 387, gender: 1, wisdom: 2955, charisma: 415, strenght: 373, mentalHealth: 93, earnings: 0, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 61
+ Kubaa, Starosciak, age: 22, intelligence: 400, gender: 1, wisdom: 3271, charisma: 427, strenght: 385, mentalHealth: 92, earnings: 0, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 61
+ Kubaa, Starosciak, age: 24, intelligence: 416, gender: 1, wisdom: 3559, charisma: 439, strenght: 397, mentalHealth: 88, earnings: 38565, education: higher, having a Partner: false, having a Partner: []FinalExam result: 61
+ Kubaa, Starosciak, age: 25, intelligence: 416, gender: 1, wisdom: 3559, charisma: 439, strenght: 397, mentalHealth: 88, earnings: 40347, education: higher, having a Partner: false, having a Partner: []FinalExam result: 61
+ Kubaa, Starosciak, age: 26, intelligence: 416, gender: 1, wisdom: 3559, charisma: 439, strenght: 397, mentalHealth: 88, earnings: 42145, education: higher, having a Partner: false, having a Partner: []FinalExam result: 61
+ Kubaa, Starosciak, age: 27, intelligence: 416, gender: 1, wisdom: 3559, charisma: 439, strenght: 397, mentalHealth: 88, earnings: 43944, education: higher, having a Partner: false, having a Partner: []FinalExam result: 61
+ Kubaa, Starosciak, age: 28, intelligence: 416, gender: 1, wisdom: 3559, charisma: 439, strenght: 397, mentalHealth: 88, earnings: 45756, education: higher, having a Partner: false, having a Partner: []FinalExam result: 61
+ Kubaa, Starosciak, age: 29, intelligence: 416, gender: 1, wisdom: 3559, charisma: 439, strenght: 397, mentalHealth: 88, earnings: 47570, education: higher, having a Partner: true, having a Partner: []FinalExam result: 61
+ Kubaa, Starosciak, age: 30, intelligence: 416, gender: 1, wisdom: 3559, charisma: 439, strenght: 397, mentalHealth: 88, earnings: 49397, education: higher, having a Partner: true, having a Partner: []FinalExam result: 61
+ Kubaa, Starosciaak, age: 1, intelligence: 100, gender: 1, wisdom: 100, charisma: 100, strenght: 100, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 3, intelligence: 115, gender: 1, wisdom: 154, charisma: 114, strenght: 113, mentalHealth: 99, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 4, intelligence: 128, gender: 1, wisdom: 206, charisma: 127, strenght: 123, mentalHealth: 129, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 5, intelligence: 138, gender: 1, wisdom: 248, charisma: 142, strenght: 132, mentalHealth: 123, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 6, intelligence: 153, gender: 1, wisdom: 300, charisma: 156, strenght: 145, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 7, intelligence: 165, gender: 1, wisdom: 378, charisma: 171, strenght: 156, mentalHealth: 95, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 8, intelligence: 180, gender: 1, wisdom: 457, charisma: 188, strenght: 170, mentalHealth: 90, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 9, intelligence: 193, gender: 1, wisdom: 552, charisma: 201, strenght: 182, mentalHealth: 82, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 10, intelligence: 207, gender: 1, wisdom: 653, charisma: 216, strenght: 195, mentalHealth: 79, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 11, intelligence: 223, gender: 1, wisdom: 741, charisma: 232, strenght: 212, mentalHealth: 77, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 12, intelligence: 239, gender: 1, wisdom: 843, charisma: 249, strenght: 226, mentalHealth: 77, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 13, intelligence: 254, gender: 1, wisdom: 919, charisma: 266, strenght: 238, mentalHealth: 72, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 14, intelligence: 267, gender: 1, wisdom: 1009, charisma: 281, strenght: 250, mentalHealth: 71, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 15, intelligence: 287, gender: 1, wisdom: 1218, charisma: 299, strenght: 268, mentalHealth: 78, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 16, intelligence: 303, gender: 1, wisdom: 1427, charisma: 315, strenght: 285, mentalHealth: 74, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 17, intelligence: 322, gender: 1, wisdom: 1661, charisma: 332, strenght: 303, mentalHealth: 74, earnings: 0, education: basic, having a Partner: false, having a Partner: []FinalExam result: 0
+ Kubaa, Starosciaak, age: 19, intelligence: 340, gender: 1, wisdom: 1881, charisma: 346, strenght: 317, mentalHealth: 68, earnings: 22874, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 65
+ Kubaa, Starosciaak, age: 20, intelligence: 340, gender: 1, wisdom: 1881, charisma: 346, strenght: 317, mentalHealth: 68, earnings: 23756, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 65
+ Kubaa, Starosciaak, age: 21, intelligence: 340, gender: 1, wisdom: 1881, charisma: 346, strenght: 317, mentalHealth: 68, earnings: 24652, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 65
+ Kubaa, Starosciaak, age: 22, intelligence: 340, gender: 1, wisdom: 1881, charisma: 346, strenght: 317, mentalHealth: 68, earnings: 25564, education: secondary, having a Partner: false, having a Partner: []FinalExam result: 65
+ Kubaa, Starosciaak, age: 23, intelligence: 340, gender: 1, wisdom: 1881, charisma: 346, strenght: 317, mentalHealth: 68, earnings: 26487, education: secondary, having a Partner: true, having a Partner: []FinalExam result: 65
+ Kubaa, Starosciaak, age: 24, intelligence: 340, gender: 1, wisdom: 1881, charisma: 346, strenght: 317, mentalHealth: 68, earnings: 27418, education: secondary, having a Partner: true, having a Partner: []FinalExam result: 65
+ Kubaa, Starosciaak, age: 25, intelligence: 340, gender: 1, wisdom: 1881, charisma: 346, strenght: 317, mentalHealth: 68, earnings: 28366, education: secondary, having a Partner: true, having a Partner: []FinalExam result: 65
+ Kubaa, Starosciaak, age: 26, intelligence: 340, gender: 1, wisdom: 1881, charisma: 346, strenght: 317, mentalHealth: 68, earnings: 29336, education: secondary, having a Partner: true, having a Partner: []FinalExam result: 65
+ Kubaa, Starosciaak, age: 27, intelligence: 340, gender: 1, wisdom: 1881, charisma: 346, strenght: 317, mentalHealth: 68, earnings: 30315, education: secondary, having a Partner: true, having a Partner: []FinalExam result: 65
+ Kubaa, Starosciaak, age: 28, intelligence: 340, gender: 1, wisdom: 1881, charisma: 346, strenght: 317, mentalHealth: 68, earnings: 31310, education: secondary, having a Partner: true, having a Partner: []FinalExam result: 65
+ Kubaa, Starosciaak, age: 29, intelligence: 340, gender: 1, wisdom: 1881, charisma: 346, strenght: 317, mentalHealth: 68, earnings: 32305, education: secondary, having a Partner: true, having a Partner: []FinalExam result: 65
+ Kubaa, Starosciaak, age: 30, intelligence: 340, gender: 1, wisdom: 1881, charisma: 346, strenght: 317, mentalHealth: 68, earnings: 33320, education: secondary, having a Partner: true, having a Partner: []FinalExam result: 65
+ Jakub, Ptaszkowski, age: 1, intelligence: 100, gender: 1, wisdom: 100, charisma: 100, strenght: 100, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 3, intelligence: 116, gender: 1, wisdom: 148, charisma: 114, strenght: 116, mentalHealth: 120, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 4, intelligence: 123, gender: 1, wisdom: 189, charisma: 123, strenght: 122, mentalHealth: 123, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 5, intelligence: 133, gender: 1, wisdom: 237, charisma: 129, strenght: 132, mentalHealth: 138, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ Jakub, Ptaszkowski, age: 6, intelligence: 144, gender: 1, wisdom: 286, charisma: 135, strenght: 140, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba]FinalExam result: 0
+ Jakub, Ptaszkowski, age: 7, intelligence: 161, gender: 1, wisdom: 380, charisma: 148, strenght: 157, mentalHealth: 99, earnings: 0, education: none, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba]FinalExam result: 0
+ Jakub, Ptaszkowski, age: 8, intelligence: 175, gender: 1, wisdom: 482, charisma: 163, strenght: 174, mentalHealth: 96, earnings: 0, education: none, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba]FinalExam result: 0
+ Jakub, Ptaszkowski, age: 9, intelligence: 191, gender: 1, wisdom: 596, charisma: 180, strenght: 192, mentalHealth: 99, earnings: 0, education: none, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba]FinalExam result: 0
+ Jakub, Ptaszkowski, age: 10, intelligence: 209, gender: 1, wisdom: 721, charisma: 195, strenght: 208, mentalHealth: 92, earnings: 0, education: none, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba]FinalExam result: 0
+ Jakub, Ptaszkowski, age: 11, intelligence: 226, gender: 1, wisdom: 859, charisma: 215, strenght: 227, mentalHealth: 91, earnings: 0, education: none, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba]FinalExam result: 0
+ Jakub, Ptaszkowski, age: 12, intelligence: 246, gender: 1, wisdom: 998, charisma: 235, strenght: 249, mentalHealth: 86, earnings: 0, education: none, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba]FinalExam result: 0
+ Jakub, Ptaszkowski, age: 13, intelligence: 264, gender: 1, wisdom: 1147, charisma: 252, strenght: 269, mentalHealth: 81, earnings: 0, education: none, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba]FinalExam result: 0
+ Jakub, Ptaszkowski, age: 14, intelligence: 283, gender: 1, wisdom: 1300, charisma: 269, strenght: 290, mentalHealth: 83, earnings: 0, education: basic, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d]FinalExam result: 0
+ Jakub, Ptaszkowski, age: 15, intelligence: 301, gender: 1, wisdom: 1536, charisma: 288, strenght: 309, mentalHealth: 82, earnings: 0, education: basic, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d]FinalExam result: 0
+ Jakub, Ptaszkowski, age: 16, intelligence: 320, gender: 1, wisdom: 1745, charisma: 307, strenght: 331, mentalHealth: 80, earnings: 0, education: basic, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d]FinalExam result: 0
+ Jakub, Ptaszkowski, age: 17, intelligence: 335, gender: 1, wisdom: 1976, charisma: 325, strenght: 346, mentalHealth: 65, earnings: 0, education: basic, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d]FinalExam result: 0
+ Jakub, Ptaszkowski, age: 18, intelligence: 354, gender: 1, wisdom: 2232, charisma: 344, strenght: 367, mentalHealth: 67, earnings: 0, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54, application.human.fromHuman.Classmate@3d646c37, application.human.fromHuman.Classmate@41cf53f9, application.human.fromHuman.Classmate@5a10411, application.human.fromHuman.Classmate@2ef1e4fa, application.human.fromHuman.Classmate@306a30c7, application.human.fromHuman.Classmate@b81eda8, application.human.fromHuman.Classmate@68de145, application.human.fromHuman.Classmate@27fa135a, application.human.fromHuman.Classmate@46f7f36a, application.human.fromHuman.Classmate@421faab1, application.human.fromHuman.Classmate@2b71fc7e, application.human.fromHuman.Classmate@5ce65a89, application.human.fromHuman.Classmate@25f38edc, application.human.fromHuman.Classmate@1a86f2f1]FinalExam result: 72
+ Jakub, Ptaszkowski, age: 19, intelligence: 375, gender: 1, wisdom: 2583, charisma: 364, strenght: 389, mentalHealth: 65, earnings: 0, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54, application.human.fromHuman.Classmate@3d646c37, application.human.fromHuman.Classmate@41cf53f9, application.human.fromHuman.Classmate@5a10411, application.human.fromHuman.Classmate@2ef1e4fa, application.human.fromHuman.Classmate@306a30c7, application.human.fromHuman.Classmate@b81eda8, application.human.fromHuman.Classmate@68de145, application.human.fromHuman.Classmate@27fa135a, application.human.fromHuman.Classmate@46f7f36a, application.human.fromHuman.Classmate@421faab1, application.human.fromHuman.Classmate@2b71fc7e, application.human.fromHuman.Classmate@5ce65a89, application.human.fromHuman.Classmate@25f38edc, application.human.fromHuman.Classmate@1a86f2f1]FinalExam result: 72
+ Jakub, Ptaszkowski, age: 20, intelligence: 386, gender: 1, wisdom: 2874, charisma: 375, strenght: 400, mentalHealth: 63, earnings: 0, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54, application.human.fromHuman.Classmate@3d646c37, application.human.fromHuman.Classmate@41cf53f9, application.human.fromHuman.Classmate@5a10411, application.human.fromHuman.Classmate@2ef1e4fa, application.human.fromHuman.Classmate@306a30c7, application.human.fromHuman.Classmate@b81eda8, application.human.fromHuman.Classmate@68de145, application.human.fromHuman.Classmate@27fa135a, application.human.fromHuman.Classmate@46f7f36a, application.human.fromHuman.Classmate@421faab1, application.human.fromHuman.Classmate@2b71fc7e, application.human.fromHuman.Classmate@5ce65a89, application.human.fromHuman.Classmate@25f38edc, application.human.fromHuman.Classmate@1a86f2f1]FinalExam result: 72
+ Jakub, Ptaszkowski, age: 21, intelligence: 397, gender: 1, wisdom: 3148, charisma: 384, strenght: 408, mentalHealth: 61, earnings: 0, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54, application.human.fromHuman.Classmate@3d646c37, application.human.fromHuman.Classmate@41cf53f9, application.human.fromHuman.Classmate@5a10411, application.human.fromHuman.Classmate@2ef1e4fa, application.human.fromHuman.Classmate@306a30c7, application.human.fromHuman.Classmate@b81eda8, application.human.fromHuman.Classmate@68de145, application.human.fromHuman.Classmate@27fa135a, application.human.fromHuman.Classmate@46f7f36a, application.human.fromHuman.Classmate@421faab1, application.human.fromHuman.Classmate@2b71fc7e, application.human.fromHuman.Classmate@5ce65a89, application.human.fromHuman.Classmate@25f38edc, application.human.fromHuman.Classmate@1a86f2f1]FinalExam result: 72
+ Jakub, Ptaszkowski, age: 22, intelligence: 407, gender: 1, wisdom: 3465, charisma: 395, strenght: 416, mentalHealth: 59, earnings: 0, education: secondary, having a Partner: true, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54, application.human.fromHuman.Classmate@3d646c37, application.human.fromHuman.Classmate@41cf53f9, application.human.fromHuman.Classmate@5a10411, application.human.fromHuman.Classmate@2ef1e4fa, application.human.fromHuman.Classmate@306a30c7, application.human.fromHuman.Classmate@b81eda8, application.human.fromHuman.Classmate@68de145, application.human.fromHuman.Classmate@27fa135a, application.human.fromHuman.Classmate@46f7f36a, application.human.fromHuman.Classmate@421faab1, application.human.fromHuman.Classmate@2b71fc7e, application.human.fromHuman.Classmate@5ce65a89, application.human.fromHuman.Classmate@25f38edc, application.human.fromHuman.Classmate@1a86f2f1]FinalExam result: 72
+ Jakub, Ptaszkowski, age: 24, intelligence: 419, gender: 1, wisdom: 3777, charisma: 406, strenght: 426, mentalHealth: 54, earnings: 109650, education: higher, having a Partner: true, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54, application.human.fromHuman.Classmate@3d646c37, application.human.fromHuman.Classmate@41cf53f9, application.human.fromHuman.Classmate@5a10411, application.human.fromHuman.Classmate@2ef1e4fa, application.human.fromHuman.Classmate@306a30c7, application.human.fromHuman.Classmate@b81eda8, application.human.fromHuman.Classmate@68de145, application.human.fromHuman.Classmate@27fa135a, application.human.fromHuman.Classmate@46f7f36a, application.human.fromHuman.Classmate@421faab1, application.human.fromHuman.Classmate@2b71fc7e, application.human.fromHuman.Classmate@5ce65a89, application.human.fromHuman.Classmate@25f38edc, application.human.fromHuman.Classmate@1a86f2f1]FinalExam result: 72
+ Jakub, Ptaszkowski, age: 25, intelligence: 419, gender: 1, wisdom: 3777, charisma: 406, strenght: 426, mentalHealth: 54, earnings: 111755, education: higher, having a Partner: true, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54, application.human.fromHuman.Classmate@3d646c37, application.human.fromHuman.Classmate@41cf53f9, application.human.fromHuman.Classmate@5a10411, application.human.fromHuman.Classmate@2ef1e4fa, application.human.fromHuman.Classmate@306a30c7, application.human.fromHuman.Classmate@b81eda8, application.human.fromHuman.Classmate@68de145, application.human.fromHuman.Classmate@27fa135a, application.human.fromHuman.Classmate@46f7f36a, application.human.fromHuman.Classmate@421faab1, application.human.fromHuman.Classmate@2b71fc7e, application.human.fromHuman.Classmate@5ce65a89, application.human.fromHuman.Classmate@25f38edc, application.human.fromHuman.Classmate@1a86f2f1]FinalExam result: 72
+ Jakub, Ptaszkowski, age: 26, intelligence: 419, gender: 1, wisdom: 3777, charisma: 406, strenght: 426, mentalHealth: 54, earnings: 113868, education: higher, having a Partner: true, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54, application.human.fromHuman.Classmate@3d646c37, application.human.fromHuman.Classmate@41cf53f9, application.human.fromHuman.Classmate@5a10411, application.human.fromHuman.Classmate@2ef1e4fa, application.human.fromHuman.Classmate@306a30c7, application.human.fromHuman.Classmate@b81eda8, application.human.fromHuman.Classmate@68de145, application.human.fromHuman.Classmate@27fa135a, application.human.fromHuman.Classmate@46f7f36a, application.human.fromHuman.Classmate@421faab1, application.human.fromHuman.Classmate@2b71fc7e, application.human.fromHuman.Classmate@5ce65a89, application.human.fromHuman.Classmate@25f38edc, application.human.fromHuman.Classmate@1a86f2f1]FinalExam result: 72
+ Jakub, Ptaszkowski, age: 27, intelligence: 419, gender: 1, wisdom: 3777, charisma: 406, strenght: 426, mentalHealth: 54, earnings: 115990, education: higher, having a Partner: true, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54, application.human.fromHuman.Classmate@3d646c37, application.human.fromHuman.Classmate@41cf53f9, application.human.fromHuman.Classmate@5a10411, application.human.fromHuman.Classmate@2ef1e4fa, application.human.fromHuman.Classmate@306a30c7, application.human.fromHuman.Classmate@b81eda8, application.human.fromHuman.Classmate@68de145, application.human.fromHuman.Classmate@27fa135a, application.human.fromHuman.Classmate@46f7f36a, application.human.fromHuman.Classmate@421faab1, application.human.fromHuman.Classmate@2b71fc7e, application.human.fromHuman.Classmate@5ce65a89, application.human.fromHuman.Classmate@25f38edc, application.human.fromHuman.Classmate@1a86f2f1]FinalExam result: 72
+ Jakub, Ptaszkowski, age: 28, intelligence: 419, gender: 1, wisdom: 3777, charisma: 406, strenght: 426, mentalHealth: 54, earnings: 118113, education: higher, having a Partner: true, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54, application.human.fromHuman.Classmate@3d646c37, application.human.fromHuman.Classmate@41cf53f9, application.human.fromHuman.Classmate@5a10411, application.human.fromHuman.Classmate@2ef1e4fa, application.human.fromHuman.Classmate@306a30c7, application.human.fromHuman.Classmate@b81eda8, application.human.fromHuman.Classmate@68de145, application.human.fromHuman.Classmate@27fa135a, application.human.fromHuman.Classmate@46f7f36a, application.human.fromHuman.Classmate@421faab1, application.human.fromHuman.Classmate@2b71fc7e, application.human.fromHuman.Classmate@5ce65a89, application.human.fromHuman.Classmate@25f38edc, application.human.fromHuman.Classmate@1a86f2f1]FinalExam result: 72
+ Jakub, Ptaszkowski, age: 29, intelligence: 419, gender: 1, wisdom: 3777, charisma: 406, strenght: 426, mentalHealth: 54, earnings: 120255, education: higher, having a Partner: true, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54, application.human.fromHuman.Classmate@3d646c37, application.human.fromHuman.Classmate@41cf53f9, application.human.fromHuman.Classmate@5a10411, application.human.fromHuman.Classmate@2ef1e4fa, application.human.fromHuman.Classmate@306a30c7, application.human.fromHuman.Classmate@b81eda8, application.human.fromHuman.Classmate@68de145, application.human.fromHuman.Classmate@27fa135a, application.human.fromHuman.Classmate@46f7f36a, application.human.fromHuman.Classmate@421faab1, application.human.fromHuman.Classmate@2b71fc7e, application.human.fromHuman.Classmate@5ce65a89, application.human.fromHuman.Classmate@25f38edc, application.human.fromHuman.Classmate@1a86f2f1]FinalExam result: 72
+ Jakub, Ptaszkowski, age: 30, intelligence: 419, gender: 1, wisdom: 3777, charisma: 406, strenght: 426, mentalHealth: 54, earnings: 122412, education: higher, having a Partner: true, having a Partner: [application.human.fromHuman.Classmate@533ddba, application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54, application.human.fromHuman.Classmate@3d646c37, application.human.fromHuman.Classmate@41cf53f9, application.human.fromHuman.Classmate@5a10411, application.human.fromHuman.Classmate@2ef1e4fa, application.human.fromHuman.Classmate@306a30c7, application.human.fromHuman.Classmate@b81eda8, application.human.fromHuman.Classmate@68de145, application.human.fromHuman.Classmate@27fa135a, application.human.fromHuman.Classmate@46f7f36a, application.human.fromHuman.Classmate@421faab1, application.human.fromHuman.Classmate@2b71fc7e, application.human.fromHuman.Classmate@5ce65a89, application.human.fromHuman.Classmate@25f38edc, application.human.fromHuman.Classmate@1a86f2f1]FinalExam result: 72
+ dsadsa, dsadas, age: 1, intelligence: 40, gender: 1, wisdom: 40, charisma: 40, strenght: 100, mentalHealth: 70, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ dsadsa, dsadas, age: 3, intelligence: 47, gender: 1, wisdom: 76, charisma: 48, strenght: 106, mentalHealth: 104, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ dsadsa, dsadas, age: 4, intelligence: 53, gender: 1, wisdom: 114, charisma: 52, strenght: 110, mentalHealth: 126, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ dsadsa, dsadas, age: 5, intelligence: 56, gender: 1, wisdom: 152, charisma: 58, strenght: 115, mentalHealth: 138, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ dsadsa, dsadas, age: 6, intelligence: 60, gender: 1, wisdom: 192, charisma: 64, strenght: 122, mentalHealth: 100, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ dsadsa, dsadas, age: 7, intelligence: 63, gender: 1, wisdom: 242, charisma: 68, strenght: 127, mentalHealth: 92, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ dsadsa, dsadas, age: 8, intelligence: 69, gender: 1, wisdom: 294, charisma: 75, strenght: 135, mentalHealth: 86, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ dsadsa, dsadas, age: 9, intelligence: 76, gender: 1, wisdom: 344, charisma: 79, strenght: 142, mentalHealth: 80, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ dsadsa, dsadas, age: 10, intelligence: 80, gender: 1, wisdom: 395, charisma: 85, strenght: 145, mentalHealth: 69, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ dsadsa, dsadas, age: 11, intelligence: 87, gender: 1, wisdom: 463, charisma: 90, strenght: 150, mentalHealth: 66, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ dsadsa, dsadas, age: 12, intelligence: 93, gender: 1, wisdom: 513, charisma: 97, strenght: 157, mentalHealth: 67, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ dsadsa, dsadas, age: 13, intelligence: 94, gender: 1, wisdom: 565, charisma: 101, strenght: 163, mentalHealth: 60, earnings: 0, education: none, having a Partner: false, having a Partner: []FinalExam result: 0
+ dsadsa, dsadas, age: 14, intelligence: 98, gender: 1, wisdom: 609, charisma: 103, strenght: 166, mentalHealth: 52, earnings: 0, education: basic, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 0
+ dsadsa, dsadas, age: 15, intelligence: 112, gender: 1, wisdom: 813, charisma: 119, strenght: 182, mentalHealth: 48, earnings: 0, education: basic, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 0
+ dsadsa, dsadas, age: 16, intelligence: 123, gender: 1, wisdom: 1041, charisma: 133, strenght: 199, mentalHealth: 43, earnings: 0, education: basic, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 0
+ dsadsa, dsadas, age: 17, intelligence: 139, gender: 1, wisdom: 1289, charisma: 146, strenght: 214, mentalHealth: 32, earnings: 0, education: basic, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 0
+ dsadsa, dsadas, age: 19, intelligence: 152, gender: 1, wisdom: 1540, charisma: 159, strenght: 233, mentalHealth: 21, earnings: 75907, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 48
+ dsadsa, dsadas, age: 20, intelligence: 152, gender: 1, wisdom: 1540, charisma: 159, strenght: 233, mentalHealth: 21, earnings: 77740, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 48
+ dsadsa, dsadas, age: 21, intelligence: 152, gender: 1, wisdom: 1540, charisma: 159, strenght: 233, mentalHealth: 21, earnings: 79583, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 48
+ dsadsa, dsadas, age: 22, intelligence: 152, gender: 1, wisdom: 1540, charisma: 159, strenght: 233, mentalHealth: 21, earnings: 81437, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 48
+ dsadsa, dsadas, age: 23, intelligence: 152, gender: 1, wisdom: 1540, charisma: 159, strenght: 233, mentalHealth: 21, earnings: 83305, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 48
+ dsadsa, dsadas, age: 24, intelligence: 152, gender: 1, wisdom: 1540, charisma: 159, strenght: 233, mentalHealth: 21, earnings: 85178, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 48
+ dsadsa, dsadas, age: 25, intelligence: 152, gender: 1, wisdom: 1540, charisma: 159, strenght: 233, mentalHealth: 21, earnings: 87066, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 48
+ dsadsa, dsadas, age: 26, intelligence: 152, gender: 1, wisdom: 1540, charisma: 159, strenght: 233, mentalHealth: 21, earnings: 88963, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 48
+ dsadsa, dsadas, age: 27, intelligence: 152, gender: 1, wisdom: 1540, charisma: 159, strenght: 233, mentalHealth: 21, earnings: 90879, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 48
+ dsadsa, dsadas, age: 28, intelligence: 152, gender: 1, wisdom: 1540, charisma: 159, strenght: 233, mentalHealth: 21, earnings: 92798, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 48
+ dsadsa, dsadas, age: 29, intelligence: 152, gender: 1, wisdom: 1540, charisma: 159, strenght: 233, mentalHealth: 21, earnings: 94740, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 48
+ dsadsa, dsadas, age: 30, intelligence: 152, gender: 1, wisdom: 1540, charisma: 159, strenght: 233, mentalHealth: 21, earnings: 96692, education: secondary, having a Partner: false, having a Partner: [application.human.fromHuman.Classmate@246b179d, application.human.fromHuman.Classmate@7a07c5b4, application.human.fromHuman.Classmate@26a1ab54]FinalExam result: 48
