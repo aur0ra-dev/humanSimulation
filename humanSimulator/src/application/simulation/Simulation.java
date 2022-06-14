@@ -31,7 +31,7 @@ public class Simulation {
 
         for(int i = 0; mainCharacter.age < duration; i++){
             switch (i) {
-                case 1, 2 -> progressMainCharacter.progressMain(mainCharacter, mainCharacter.listOfFriends, mainCharacter.listOfBullies, kindergarten.listOfTeachers);
+                case 1, 2 -> progressMainCharacter.progressMain(mainCharacter, emptyList2);
                 case 3 -> {
                     System.out.println("Your character is entering the Kindergarten");
                     kindergarten.initializePlace(mainCharacter);
@@ -45,7 +45,6 @@ public class Simulation {
                 }
                 case 6 -> {
                     System.out.println("Your character is entering the primarySchool");
-                    mainCharacter.showFutures(mainCharacter);
                     comparator.compare(mainCharacter,kindergarten.listOfClassmates);
                     comparator.showcase(comparator.strengthDif, comparator.intelligenceDif,comparator.wisdomDif, comparator.charismaDif, mainCharacter.age);
                     kindergarten = null;
@@ -61,7 +60,6 @@ public class Simulation {
                 case 14 -> {
                     mainCharacter.education = "basic";
                     System.out.println("Your character is entering the highSchool");
-                    mainCharacter.showFutures(mainCharacter);
                     comparator.compare(mainCharacter,primaryschool.listOfClassmates);
                     comparator.showcase(comparator.strengthDif, comparator.intelligenceDif,comparator.wisdomDif, comparator.charismaDif, mainCharacter.age);
                     primaryschool = null;
@@ -74,8 +72,11 @@ public class Simulation {
                     checkIfEnd(highschool.listOfClassmates, highschool.listOfTeachers);
                     mainCharacter.finalExamResults=highschool.schoolLeavingExam(mainCharacter.intelligence, mainCharacter.wisdom);
                     if(progressStudents.examinateClassmates(highschool.listOfClassmates,highschool)>mainCharacter.finalExamResults) {
+                        i=22;
+                        comparator.compare(mainCharacter,highschool.listOfClassmates);
+                        comparator.showcase(comparator.strengthDif, comparator.intelligenceDif,comparator.wisdomDif, comparator.charismaDif, mainCharacter.age);
                         System.out.println("sadly our person didn't qualify to college");
-                        i=23;
+                        mainCharacter.education = "secondary";
                     }
                 }
                 case 18 -> {
@@ -83,13 +84,17 @@ public class Simulation {
                     comparator.compare(mainCharacter,highschool.listOfClassmates);
                     comparator.showcase(comparator.strengthDif, comparator.intelligenceDif,comparator.wisdomDif, comparator.charismaDif, mainCharacter.age);
                     System.out.println("Your character is entering the College");
-                    mainCharacter.showFutures(mainCharacter);
                     highschool = null;
                     college.initializePlace(mainCharacter);
                     initializingStudents.initializeClassmates(college.listOfClassmates, 18, mainCharacter.listOfFriends, mainCharacter.listOfBullies, college.numberOfClassmates);
                     checkIfEnd(college.listOfClassmates, college.listOfTeachers);
                 }
-                case 19, 20 -> checkIfEnd(college.listOfClassmates, college.listOfTeachers);
+                case 19, 20 -> {
+                    if(college.session(mainCharacter)==0) {
+                        i = 22;
+                    }
+                    checkIfEnd(college.listOfClassmates, college.listOfTeachers);
+                }
                 case 21 -> {
                     mainCharacter= college.apprenticeships(mainCharacter);
                     checkIfEnd(college.listOfClassmates, college.listOfTeachers);
@@ -102,6 +107,7 @@ public class Simulation {
                 }
                 case 23 -> {
                     college = null;
+                    System.out.println("Your character goes to work!");
                     mainCharacter = workplace.initializePlace(mainCharacter);
                     mainCharacter = workplace.doWork(mainCharacter);
                     checkIfEnd(emptyList,emptyList2);
@@ -116,8 +122,7 @@ public class Simulation {
 
     void checkIfEnd(List<Classmate> students, List<Teacher> teachers){
         if(mainCharacter.age == duration){
-            System.out.println("Our person lived long and happy life and gathered all this stuff: ");
-            mainCharacter.showFutures(mainCharacter);
+            mainCharacter.showStatistics();
             System.exit(0);
         }
         else if(mainCharacter.healthEvent==0) {
@@ -129,7 +134,8 @@ public class Simulation {
         }
         if(students.size()>0) {
             progressStudents.progressClassmates(students, teachers);
-            progressMainCharacter.progressMain(mainCharacter, mainCharacter.listOfFriends, mainCharacter.listOfBullies, teachers);
+            mainCharacter=progressMainCharacter.progressMain(mainCharacter, teachers);
         }
     }
+
 }

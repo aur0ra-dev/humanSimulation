@@ -16,10 +16,10 @@ public class ProgressStudents {
         for (Classmate toProgress : listToProgress) {
 
             toProgress.age++;
-            toProgress.charisma += random.nextInt(10) + 1;
-            toProgress.strength += random.nextInt(10) + 1;
-            toProgress.intelligence += random.nextInt(10 + 1);
-            toProgress.wisdom += random.nextInt(35) + 1;
+            toProgress.charisma += random.nextInt(18) + 1;
+            toProgress.strength += random.nextInt(22) + 1;
+            toProgress.intelligence += random.nextInt(18 + 1);
+            toProgress.wisdom += random.nextInt(55+(listToProgress.get(0).age)*9) + 1;
 
             for (Teacher teachingTeacher : teachingTeachers) {
                 toProgress.wisdom += teachingTeacher.shareWisdom();

@@ -18,6 +18,7 @@ public class MainCharacter extends Human {
     public String education = "none";
 
 
+
     public void gatherFromFriends () {
 
         int avgCharisma = 0;
@@ -61,6 +62,7 @@ public class MainCharacter extends Human {
 
             mentalHealth += random.nextInt((father.attentionToChildren / 15) + 1) - random.nextInt(3);
             mentalHealth += random.nextInt((mother.loveToChildren / 15) + 1) - random.nextInt(3);
+
         }
     }
     public void Reflections () {
@@ -80,7 +82,7 @@ public class MainCharacter extends Human {
             wisdom += random.nextInt(5) + (wisdom*3)/100;
             strength += random.nextInt(5) + (strength*3)/100;
 
-        } else if (mentalHealth<=70 && mentalHealth > 45) {
+        } else if (mentalHealth<70 && mentalHealth > 45) {
             charisma += random.nextInt(5) + (charisma*2)/100;
             intelligence += random.nextInt(5) + (intelligence*2)/100;
             wisdom += random.nextInt(5) + (wisdom*2)/100;
@@ -106,11 +108,35 @@ public class MainCharacter extends Human {
 
     }
     public void seekLove () {
-        if(haveAPartner == false && (charisma/10 + random.nextInt(70)>90)) {
+        if(!haveAPartner && (charisma/10 + random.nextInt(70)>90)) {
             haveAPartner=true;
-        } else if(haveAPartner == true && (random.nextInt(100)>85)) {
+            if(gender==1) {
+                partner.gender=1;
+            } else {
+                partner.gender=2;
+            }
+        } else if(haveAPartner && (random.nextInt(100)>75)) {
             listofChildren.add(new Human());
         }
+        if(listofChildren.size()>0){
+            for (Human listofChild : listofChildren) listofChild.age++;
+        }
+    }
+    public void showStatistics () {
+
+            System.out.println("This is summary of your person:");
+            System.out.println("Name: " + name);
+            System.out.println("surname: " + surname);
+            System.out.println("age: " + age);
+            if(gender==1)
+                System.out.println("gender: male");
+            else
+                System.out.println("gender: female");
+
+            System.out.println("education: " + education);
+            System.out.println("number of children: " + listofChildren.size());
+            System.out.println("monthly earnings in PLN: " + earnings);
+
     }
 
 

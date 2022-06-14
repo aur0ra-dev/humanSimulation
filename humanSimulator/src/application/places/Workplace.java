@@ -44,10 +44,15 @@ public class Workplace {
 
         scallingOfEarnings = mainCharacter.bonusesToEarnings+mainCharacter.wisdom+mainCharacter.intelligence*10;
 
-        for(int i=0; i< 20 + random.nextInt(31); i++) {
+        for(int j=0; j< 20 + random.nextInt(31); j++) {
             listOfCoWorkers.add(new Worker());
+            listOfCoWorkers.get(j).age=random.nextInt(30)+18;
+            listOfCoWorkers.get(j).gender = random.nextInt(1)+1;
+            listOfCoWorkers.get(j).charisma = random.nextInt(250) + 160;
+            listOfCoWorkers.get(j).strength = random.nextInt(250) + 160;
+            listOfCoWorkers.get(j).intelligence = random.nextInt(250) + 160;
+            listOfCoWorkers.get(j).wisdom = random.nextInt(250) + 160;
         }
-
         mainCharacter.earnings=startingEarnings;
 
         return mainCharacter;

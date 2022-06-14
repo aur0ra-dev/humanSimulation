@@ -18,34 +18,34 @@ public class Comparisons {
 
     public void showcase (float strength, float intelligence, float wisdom, float charisma, int age) {
 
-        System.out.println("at age " + age + ":");
+        System.out.println("at age " + age + " your person was: ");
 
         if(strength>=0)
-            System.out.println("your person was " + dec.format(strength) + "% stronger than average");
+            System.out.println(dec.format(strength) + "% stronger than average");
         else {
             strength=strength/(-1);
-            System.out.println("your person was " + dec.format(strength) + "% weaker than average");
+            System.out.println(dec.format(strength) + "% weaker than average");
         }
 
         if(intelligence>=0)
-            System.out.println("your person was " + dec.format(intelligence) + "% more intelligent than average");
+            System.out.println(dec.format(intelligence) + "% more intelligent than average");
         else {
             intelligence=intelligence/(-1);
-            System.out.println("your person was " + dec.format(intelligence) + "% less intelligent than average");
+            System.out.println(dec.format(intelligence) + "% less intelligent than average");
         }
 
         if(charisma>=0)
-            System.out.println("your person was " + dec.format(charisma) + "% more charismatic than average");
+            System.out.println(dec.format(charisma) + "% more charismatic than average");
         else {
             charisma=charisma/(-1);
-            System.out.println("your person was " + dec.format(charisma) + "% less charismatic than average");
+            System.out.println(dec.format(charisma) + "% less charismatic than average");
         }
 
         if(wisdom>=0)
-            System.out.println("your person was " + dec.format(wisdom) + "% more clever than average");
+            System.out.println(dec.format(wisdom) + "% more clever than average");
         else {
             wisdom=wisdom/(-1);
-            System.out.println("your person was " + dec.format(wisdom) + "% less clever than average");
+            System.out.println(dec.format(wisdom) + "% less clever than average");
         }
 
     }
@@ -90,9 +90,5 @@ public class Comparisons {
             strengthDif = ((avgStrength/mainCharacter.strength)-1)*(-100);
 
     }
-
-
-
-
 
 }

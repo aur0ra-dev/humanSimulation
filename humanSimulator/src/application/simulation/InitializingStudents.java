@@ -26,10 +26,6 @@ public class InitializingStudents {
                 bullies.add(listToInitialize.get(j));
         }
 
-        /*for(int g=0;g<numberOfClassmates;g++) {
-            System.out.println("int: " + listToInitialize.get(g).intelligence + "wis: " + listToInitialize.get(g).wisdom) ;
-        }*/
-
 
     }
 

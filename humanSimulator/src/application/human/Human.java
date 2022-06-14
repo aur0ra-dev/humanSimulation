@@ -19,20 +19,7 @@ public class Human {
     public int earnings;
     public int finalExamResults;
 
-    public void showFutures(Human humanArg){
-        System.out.println("###############################");
-        System.out.println("Name: " + humanArg.name);
-        System.out.println("surname: " + humanArg.surname);
-        System.out.println("age: " + humanArg.age);
-        System.out.println("gender: " + humanArg.gender);
-        System.out.println("charisma: " + humanArg.charisma);
-        System.out.println("strength: " + humanArg.strength);
-        System.out.println("intelligence: " + humanArg.intelligence);
-        System.out.println("wisdom: " + humanArg.wisdom);
-        System.out.println("mentalHealth: " + humanArg.mentalHealth);
-        System.out.println("earnings: " + humanArg.earnings);
-        System.out.println("###############################");
-    }
+
 
 
 }

@@ -26,6 +26,7 @@ public class College {
     }
     public int session(MainCharacter mainCharacter){
         if(((mainCharacter.intelligence+mainCharacter.wisdom)/15+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/3 + random.nextInt(101))<50) {
+            System.out.println("Oh no! Your person dropped out of college!");
             return 0;
         }
         else
