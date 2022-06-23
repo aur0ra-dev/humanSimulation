@@ -8,22 +8,38 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class College {
+/**
+ * Klasa reprezentujaca placowke edukacyjna
+ */
+
+public class College extends EducationPlaces {
 
     Random random = new Random();
-
+    int numberOfTeachers = 15;
     public int numberOfClassmates = 60 + random.nextInt(140);
     public List <Classmate> listOfClassmates = new ArrayList<>();
     public List<Teacher> listOfTeachers = new ArrayList<>();
-    public int levelOfEducation;
-    public int wealthOfPlace;
-    public int prestigeOfPlace;
+
+
+    /**
+     * Metoda modyfikuje pole obiektu klasy Main Character w zaleznosci od pol obiektu klasy i losowo generowanej wartosci
+     * @param mainCharacter
+     * @return zwraca obiekt klasy Main characeter
+     */
 
     public MainCharacter apprenticeships(MainCharacter mainCharacter){
         mainCharacter.bonusesToEarnings+=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*200;
 
         return mainCharacter;
     }
+
+    /**
+     * Metoda przyjmujaca jako argument obiekt klasy MainCharacter zwracaja wartosc 1 lub w zaleznosci pol obiektu klasy Main Character <br>
+     * oraz pol obiektu College
+     * Wyswietlajaca komunikat dla uzytkownika
+     * @param mainCharacter
+     * @return zwaraca int
+     */
     public int session(MainCharacter mainCharacter){
         if(((mainCharacter.intelligence+mainCharacter.wisdom)/15+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/3 + random.nextInt(101))<50) {
             System.out.println("Oh no! Your person dropped out of college!");
@@ -33,6 +49,14 @@ public class College {
             return 1;
 
     }
+
+    /**
+     * Metoda przyjmujaca obiekt klasy MainCharaceter jako parametr oraz modyfikujaca pola klasy MainCharacter w zaleznosci od pol <br>
+     * tego samego obiektu oraz obiektu klasy College <br>
+     * Wyswietlajaca komuniakt dla uzytkownika
+     * @param mainCharacter
+     * @return zwraca obiekt Klasy MainCharacter
+     */
     public MainCharacter thesisDefense (MainCharacter mainCharacter){
         if (((mainCharacter.intelligence+mainCharacter.wisdom)/20+(levelOfEducation+wealthOfPlace+prestigeOfPlace)/4 + random.nextInt(101))>50) {
             mainCharacter.bonusesToEarnings+=((levelOfEducation+wealthOfPlace+prestigeOfPlace)+random.nextInt(25)+1)*350;
@@ -42,13 +66,12 @@ public class College {
         return mainCharacter;
     }
 
-    public void initializePlace (MainCharacter mainCharacter) {
-        prestigeOfPlace = mainCharacter.finalExamResults/3;
-        levelOfEducation = mainCharacter.finalExamResults/3;
-        wealthOfPlace = (mainCharacter.father.earnings+mainCharacter.mother.earnings)/4000;
-        for(int v = 0; v < 15 ;v++){
-            listOfTeachers.add(new Teacher());
-        }
-    }
+    /**
+     * Metoda modyfikujaca pola klasy College w zaleznosci od pol obiektu klasy mainCharaceter
+     * przyjmuje jako parametr obeikt klasy MainCharaceter
+     * tworzy i daodaje obiekty klasy Teacher do pola klasy
+     * @param mainCharacter
+     */
+
 
 }

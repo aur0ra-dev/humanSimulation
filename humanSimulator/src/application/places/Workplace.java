@@ -9,6 +9,9 @@ import java.util.Random;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Klasa reprezentuja miejsce pracy
+ */
 public class Workplace {
 
     Random random = new Random();
@@ -34,6 +37,14 @@ public class Workplace {
         mainCharacter.age++;
         return mainCharacter;
     }
+
+    /**
+     * Metoda w zaelznosi od pol obiektu klasy MainCharaceter i losowo generowanych wartosci inicjalizuje startowe zarobki oraz ich
+     * skalowalnosc
+     * tworzy nowe obiekty klasy Worker oraz inicjalizuje wartosci pol tych obiektow
+     * @param mainCharacter przyjmuje obiket klasy MainCharacter
+     * @return zwraca obiekt klasy MainCharacter
+     */
 
     public MainCharacter initializePlace (MainCharacter mainCharacter) {
 

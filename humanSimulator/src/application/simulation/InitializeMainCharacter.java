@@ -4,6 +4,9 @@ import application.human.fromHuman.MainCharacter;
 
 import java.util.Scanner;
 
+/**
+ * Klasa sluzaca inicjalizacji
+ */
 public class InitializeMainCharacter {
 
     int startingValues() {
@@ -14,6 +17,13 @@ public class InitializeMainCharacter {
             return 100;
         else return Math.max(a, 40);
     }
+
+    /**
+     * Metoda opwiada za wywietlanie wiadomosci dla uzytkownika inicjalizacje pol obiektu klasy MainCharacter
+     * oraz pobranie wartosci od uzytkownika za pomoadzy metod klasy Scanner
+     * @param mainCharacter pobiera jako parametr Obiekt klasy Main Characeter
+     * @return zwraca obiekt klasy MainCharacter
+     */
 
     MainCharacter mainInitialization (MainCharacter mainCharacter) {
         Scanner scanner = new Scanner(System.in);

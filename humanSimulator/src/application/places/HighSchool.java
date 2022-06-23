@@ -9,16 +9,25 @@ import java.util.List;
 
 import java.util.Random;
 
-public class HighSchool {
+/**
+ * Klasa reprezentujaca placowke edukacyjna - Szkole srednia
+ */
+public class HighSchool extends EducationPlaces {
 
     Random random = new Random();
+    int numberOfTeachers = 10;
     public int numberOfClassmates = 20 + random.nextInt(11);
     public List<Classmate> listOfClassmates = new ArrayList<>();
     public List <Teacher> listOfTeachers = new ArrayList<>();
-    public int levelOfEducation;
-    public int wealthOfPlace;
-    public int prestigeOfPlace;
 
+
+    /**
+     * Metoda przyjmujaca jako argumenty dwa inty
+     * modyfikuje ze zminne basic score oraz extended score w zaleznosci od pol klasy oraz podanych paramertrow i losowo generowanych wartosci
+     * @param intelligence zmienna typu integer
+     * @param wisdom zmienna typu integer
+     * @return zwraca wartosc liczbowa modyfikowanych wczesniej zmiennych
+     */
     public int schoolLeavingExam(int intelligence, int wisdom){
         int basic_score = intelligence/10 + wisdom/80 + (levelOfEducation+wealthOfPlace+prestigeOfPlace)/5 + random.nextInt(55);
         if(basic_score > 100)
@@ -31,14 +40,11 @@ public class HighSchool {
         return (extended_score*7+basic_score*3)/10;
     }
 
-    public void initializePlace (MainCharacter mainCharacter) {
-        prestigeOfPlace=(mainCharacter.father.intelligence+mainCharacter.mother.intelligence)/110+mainCharacter.intelligence/60;
-        levelOfEducation=(mainCharacter.father.wisdom+mainCharacter.mother.wisdom)/300+mainCharacter.wisdom/130;
-        wealthOfPlace=(mainCharacter.father.earnings+mainCharacter.mother.earnings)/4000;
-        for(int v = 0; v < 10 ;v++){
-            listOfTeachers.add(new Teacher());
-        }
-    }
+    /**
+     * Inicjalizuje wartosci pola klasy w zaleznosci pol obiektu klasy MainCharacter i polacznym z nich obiektow klasy Mother i Father
+     * @param mainCharacter przyjmuje jako parametr obiekt klasy MainCharacter
+     */
+
 
 
 }

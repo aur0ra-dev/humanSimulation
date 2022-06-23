@@ -4,6 +4,9 @@ import application.human.Human;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Klasa repreztuntojaca glownego bohatera
+ */
 public class MainCharacter extends Human {
 
     public boolean haveAPartner = false;
@@ -18,6 +21,10 @@ public class MainCharacter extends Human {
     public String education = "none";
 
 
+    /**
+     * Metoda zliczajaca srednia wartosc pol klasy human w zaleznosci od losowo generowanych obiektow Classmate <br>
+     * oraz zwiekszajaca pola obiektu klasy mainCharacter
+     */
 
     public void gatherFromFriends () {
 
@@ -47,6 +54,11 @@ public class MainCharacter extends Human {
         if(age<19 && age>2)
             mentalHealth += random.nextInt(3 * (listOfFriends.size() + 1)) - random.nextInt(5 * (listOfBullies.size() + 1));
     }
+
+    /**
+     * Metoda zmieniajaca pola obiektu klasy main character w zaleznosci od wartosci pola age
+     * oraz pol obiektu klasy father i mather i ich  srednich wartosci
+     */
     public void gatherFromParents () {
 
         if(age<17) {
@@ -60,11 +72,16 @@ public class MainCharacter extends Human {
             wisdom += avgWisdom;
             strength += avgStrength;
 
-            mentalHealth += random.nextInt((father.attentionToChildren / 15) + 1) - random.nextInt(3);
-            mentalHealth += random.nextInt((mother.loveToChildren / 15) + 1) - random.nextInt(3);
+            mentalHealth += random.nextInt((father.attentionToChildren / 15) + 1) - random.nextInt(6);
+            mentalHealth += random.nextInt((mother.loveToChildren / 15) + 1) - random.nextInt(5);
 
         }
     }
+
+    /**
+     * metoda modyfikujaca pola obiektu klasa main character w zaleznosci od losowo generowanych zmiennych oraz wartosci
+     * pola mentalHealth
+     */
     public void Reflections () {
 
         mentalHealth += random.nextInt(6)-5;
@@ -111,12 +128,19 @@ public class MainCharacter extends Human {
         if(!haveAPartner && (charisma/10 + random.nextInt(70)>90)) {
             haveAPartner=true;
             if(gender==1) {
-                partner.gender=1;
-            } else {
                 partner.gender=2;
+                partner.name = "Agnieszka";
+                partner.surname = "Kowalska";
+            } else {
+                partner.gender=1;
+                partner.name = "Andrzej";
+                partner.surname = "Cukierek";
+
             }
         } else if(haveAPartner && (random.nextInt(100)>75)) {
             listofChildren.add(new Human());
+            listofChildren.get(listofChildren.size()-1).name="temporary bachor name";
+            listofChildren.get(listofChildren.size()-1).name=surname;
         }
         if(listofChildren.size()>0){
             for (Human listofChild : listofChildren) listofChild.age++;

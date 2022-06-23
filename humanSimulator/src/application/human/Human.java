@@ -3,6 +3,10 @@ package application.human;
 import java.util.Random;
 
 
+
+/**
+ * Klasa reprezentująca czlowiek
+ */
 public class Human {
 
     public Random random = new Random();

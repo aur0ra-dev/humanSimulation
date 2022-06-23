@@ -7,8 +7,16 @@ import application.places.HighSchool;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * Klasa odpowiadaja za przeliczanie progresu obiektow klasy Classmate
+ */
 public class ProgressStudents {
 
+    /**
+     * Metoda ktora modyfikuje wartosci kolejnych obiektow klasy Classmate
+     * @param listToProgress lista pol ktore modyfikujemy
+     * @param teachingTeachers lista obiektow klasy Teacher
+     */
     public void progressClassmates (List<Classmate> listToProgress, List<Teacher> teachingTeachers) {
 
         Random random = new Random();
@@ -16,9 +24,9 @@ public class ProgressStudents {
         for (Classmate toProgress : listToProgress) {
 
             toProgress.age++;
-            toProgress.charisma += random.nextInt(18) + 1;
-            toProgress.strength += random.nextInt(22) + 1;
-            toProgress.intelligence += random.nextInt(18 + 1);
+            toProgress.charisma += random.nextInt(15) + (toProgress.charisma*(random.nextInt(2)+1))/100;
+            toProgress.strength += random.nextInt(15) + (toProgress.strength*(random.nextInt(2)+1))/100;
+            toProgress.intelligence += random.nextInt(15) + (toProgress.intelligence*(random.nextInt(2)+1))/100;
             toProgress.wisdom += random.nextInt(55+(listToProgress.get(0).age)*9) + 1;
 
             for (Teacher teachingTeacher : teachingTeachers) {

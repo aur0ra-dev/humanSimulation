@@ -3,6 +3,9 @@ package application.human.fromHuman;
 import application.human.Human;
 import java.util.Random;
 
+/**
+ * Class reprezentujaca rodzica - ojca
+ */
 public class Father extends Human {
 
     Random random = new Random();
@@ -18,6 +21,12 @@ public class Father extends Human {
     public int attentionToChildren = 50 + random.nextInt(51) - random.nextInt(51);
 
 
+    /**
+     * Metoda przyjmujace obiekt klasy glownego bohatera zmieniajace wartosc bonusesToEarnings w zaleznosci od
+     * zmiennej wisdom attenToChildren oraz losowo generowanej wartosi
+     * @param mainCharacter jako obiekt klasy MainCharaceter
+     * @return obiekt klasy mainCharacter
+     */
     public MainCharacter influenceKid(MainCharacter mainCharacter) {
         mainCharacter.bonusesToEarnings += (wisdom/15 + attentionToChildren/5 * random.nextInt(1000));
         return mainCharacter;

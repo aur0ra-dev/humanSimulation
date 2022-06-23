@@ -29,12 +29,14 @@ public class Simulation {
 
         mainCharacter = initializeMainCharacter.mainInitialization(mainCharacter);
 
+        comparator.fileSave();
+
         for(int i = 0; mainCharacter.age < duration; i++){
             switch (i) {
                 case 1, 2 -> progressMainCharacter.progressMain(mainCharacter, emptyList2);
                 case 3 -> {
                     System.out.println("Your character is entering the Kindergarten");
-                    kindergarten.initializePlace(mainCharacter);
+                    kindergarten.initializePlace(mainCharacter, kindergarten.numberOfClassmates, kindergarten.listOfTeachers);
                     initializingStudents.initializeClassmates(kindergarten.listOfClassmates, 3, mainCharacter.listOfFriends, mainCharacter.listOfBullies, kindergarten.numberOfClassmates);
                     mainCharacter=kindergarten.careOverKid(mainCharacter);
                     checkIfEnd(kindergarten.listOfClassmates,kindergarten.listOfTeachers);
@@ -48,7 +50,7 @@ public class Simulation {
                     comparator.compare(mainCharacter,kindergarten.listOfClassmates);
                     comparator.showcase(comparator.strengthDif, comparator.intelligenceDif,comparator.wisdomDif, comparator.charismaDif, mainCharacter.age);
                     kindergarten = null;
-                    primaryschool.initializePlace(mainCharacter);
+                    primaryschool.initializePlace(mainCharacter, primaryschool.numberOfClassmates, primaryschool.listOfTeachers);
                     initializingStudents.initializeClassmates(primaryschool.listOfClassmates, 6, mainCharacter.listOfFriends, mainCharacter.listOfBullies, primaryschool.numberOfClassmates);
                     checkIfEnd(primaryschool.listOfClassmates, primaryschool.listOfTeachers);
                 }
@@ -63,7 +65,7 @@ public class Simulation {
                     comparator.compare(mainCharacter,primaryschool.listOfClassmates);
                     comparator.showcase(comparator.strengthDif, comparator.intelligenceDif,comparator.wisdomDif, comparator.charismaDif, mainCharacter.age);
                     primaryschool = null;
-                    highschool.initializePlace(mainCharacter);
+                    highschool.initializePlace(mainCharacter, highschool.numberOfClassmates, highschool.listOfTeachers);
                     initializingStudents.initializeClassmates(highschool.listOfClassmates, 14, mainCharacter.listOfFriends, mainCharacter.listOfBullies, highschool.numberOfClassmates);
                     checkIfEnd(highschool.listOfClassmates, highschool.listOfTeachers);
                 }
@@ -85,7 +87,7 @@ public class Simulation {
                     comparator.showcase(comparator.strengthDif, comparator.intelligenceDif,comparator.wisdomDif, comparator.charismaDif, mainCharacter.age);
                     System.out.println("Your character is entering the College");
                     highschool = null;
-                    college.initializePlace(mainCharacter);
+                    college.initializePlace(mainCharacter, college.numberOfClassmates , college.listOfTeachers );
                     initializingStudents.initializeClassmates(college.listOfClassmates, 18, mainCharacter.listOfFriends, mainCharacter.listOfBullies, college.numberOfClassmates);
                     checkIfEnd(college.listOfClassmates, college.listOfTeachers);
                 }
@@ -120,7 +122,9 @@ public class Simulation {
         }
     }
 
-    void checkIfEnd(List<Classmate> students, List<Teacher> teachers){
+    void checkIfEnd(List<Classmate> students, List<Teacher> teachers ){
+        SavingData savingData = new SavingData();
+        savingData.saveTofile(mainCharacter);
         if(mainCharacter.age == duration){
             mainCharacter.showStatistics();
             System.exit(0);
